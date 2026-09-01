@@ -1,0 +1,127 @@
+{
+ "id": 1672,
+ "section": "UGI",
+ "topic": "유착성 장폐색",
+ "stem": "70세 여자가 복통으로 병원에 왔다. 고혈압으로 치료를 받고 있었다. 14년 전 자궁절제술(hysterectomy)을 받았다. 마지막 배변은 4일 전이었다. 신체검진에서 복부가 팽만되어 있고 압통과 반발통이 있었다. 활력징후와 검사 소견은 다음과 같다. 치료는?",
+ "labTable": [
+  [
+   "혈압",
+   "160/110mmHg"
+  ],
+  [
+   "맥박(심박수)",
+   "110회/분"
+  ],
+  [
+   "호흡수",
+   "18회/분"
+  ],
+  [
+   "체온",
+   "37.2°C"
+  ],
+  [
+   "백혈구(WBC)",
+   "10,580/μL"
+  ],
+  [
+   "Hb",
+   "정상"
+  ],
+  [
+   "PLT",
+   "정상"
+  ]
+ ],
+ "options": [
+  "금식, 수액요법, 비위관(nasogastric tube) 삽입 후 경과 관찰",
+  "내시경적 감압술(endoscopic decompression)",
+  "내시경적 스텐트(endoscopic stent) 삽입",
+  "복강경 유착박리술(laparoscopic adhesiolysis)",
+  "응급개복술(emergency laparotomy)"
+ ],
+ "answerKeys": [
+  5
+ ],
+ "multi": false,
+ "examCount": 6,
+ "appearances": [
+  "2022·1AB",
+  "2023·1AB"
+ ],
+ "source_files": [
+  "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx",
+  "2022/2022년 4CD~2AB 외과 턴말 합본.pdf",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1AB 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [
+  "ea708984f50.png"
+ ],
+ "images_dropped": [
+  {
+   "file": "e2d259acb06.jpg",
+   "reason": "ea708984f50.png과 동일한 관상면(coronal) 조영증강 CT 한 장을 저해상도로 재캡처한 중복 이미지. 정보 추가 없이 화질만 떨어짐."
+  },
+  {
+   "file": "e8b624e5083.jpg",
+   "reason": "ea708984f50.png과 동일한 CT 영상을 저해상도로 재캡처한 중복 이미지."
+  },
+  {
+   "file": "ea60f0ea9ed.jpg",
+   "reason": "ea708984f50.png과 동일한 CT 영상을 저해상도로 재캡처한 중복 이미지(e8b624e5083.jpg와 해상도까지 동일)."
+  }
+ ],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "이미지 4장(e2d259acb06.jpg, e8b624e5083.jpg, ea60f0ea9ed.jpg, ea708984f50.png)을 직접 열어 비교한 결과 모두 같은 관상면 조영증강 복부 CT 한 장을 서로 다른 해상도로 캡처한 동일 이미지였다. 영상에는 중앙에서 우측에 걸쳐 판막상 주름(valvulae conniventes)이 관 전체 폭을 가로지르며 확장된 소장 고리들이 다수 보이고, 좌측 주변부에는 결장팽대(haustra)를 가진 정상 구경의 대장이 관찰되어 소장이 확장되고 원위부는 감압된 소장 폐색(small bowel obstruction) 소견에 해당한다. 이는 원본 분과 라벨이 CR 2표, UGI 3표, 총론 1표로 갈렸던 것을 UGI(소장 폐색 계열)로 판정하는 근거가 된다. 여섯 개 복원본의 발문과 선지, 정답(⑤ 응급개복술)은 모두 일치했고 '탈족'이나 '부정확' 같은 메타 표시는 없었다. 검사 수치(V/S, WBC, Hb, PLT)는 줄글로 나열되어 있던 것을 labTable로 옮겼다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "70세 여자, 14년 전 자궁절제술(hysterectomy) 병력, 4일간 배변이 없었던 병력에 복부 팽만이 겹쳐 있어 우선 기계적 장폐색(mechanical bowel obstruction)을 의심하게 된다. 골반 수술 기왕력은 유착(adhesion)을 남기므로 유착성 장폐색(adhesive bowel obstruction)이 가장 흔한 원인이며, CT에서도 판막상 주름이 관 전체 폭을 가로지르는 확장된 소장 고리와 감압된 대장이 확인되어 소장 폐색(small bowel obstruction, SBO)을 뒷받침한다. 이 문항의 진짜 질문은 진단이 아니라 다음 갈림길이다. 이 폐색을 금식과 비위관 감압으로 지켜볼 것인가, 지금 수술방으로 보낼 것인가.",
+  "approachTable": [
+   [
+    "복부 압통과 반발통(rebound tenderness)",
+    "복막자극징후, 교액(strangulation) 의심"
+   ],
+   [
+    "맥박 110회/분(빈맥)",
+    "순환 부담, 교액 초기 소견 가능"
+   ],
+   [
+    "백혈구 10,580/μL(경도 증가)",
+    "장벽 염증 또는 허혈 동반 가능성"
+   ],
+   [
+    "4일간 배변 없음, 복부 팽만",
+    "완전 폐색 소견"
+   ],
+   [
+    "CT에서 확장된 소장 고리, 감압된 대장",
+    "기계적 소장 폐색의 영상 소견"
+   ]
+  ],
+  "correct": "이 환자는 단순 압통을 넘어 반발통이라는 복막자극징후(peritoneal irritation sign)를 보이고, 맥박 110회/분의 빈맥과 백혈구 10,580/μL의 경도 증가가 함께 있다. 개념 카드(bowel-obstruction-management)에 정리한 기준으로 보면 이 조합은 단순 폐색(simple obstruction)이 아니라 교액성 장폐색(strangulated obstruction)을 의심해야 하는 소견이다. 교액이 의심되면 금식과 관찰을 시도할 시간적 여유가 없고, 장관 괴사(bowel necrosis)나 천공(perforation)으로 진행하기 전에 즉시 개복하여 폐색 부위를 확인하고 유착을 박리하거나 괴사 장관을 절제해야 한다. 내시경적 감압술이나 스텐트처럼 폐색 자체를 남겨둔 채 시간을 버는 처치, 또는 응급성이 낮은 상황에서나 고려하는 복강경 유착박리술은 이 환자의 임상 양상에 맞지 않는다. 따라서 정답은 ⑤ 응급개복술이다.",
+  "pearl": "장폐색에서 반발통, 빈맥, 백혈구 증가가 겹치면 유착성이라도 관찰이 아니라 응급수술 적응증이다.",
+  "concepts": [
+   "bowel-obstruction-management"
+  ],
+  "compare_note": "같은 병력에서 복막자극징후 없이 복부 팽만과 단순 압통만 있고 활력징후가 안정적이며 백혈구가 정상이었다면, 정답은 금식과 비위관 감압, 수액 보충으로 48시간에서 72시간을 넘기지 않는 범위에서 관찰하며 수용성 조영제(gastrografin)를 이용한 조영 통과 검사로 자연 해소 여부를 지켜보는 쪽으로 바뀐다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [
+  {
+   "slug": "bowel-obstruction-management",
+   "title": "장폐색의 보존적 치료와 수술 적응증",
+   "why": "장폐색 문항에서 반복되는 핵심 갈림길은 교액(strangulation) 여부에 따라 금식, 비위관 감압, 수액의 보존적 치료로 관찰할지 즉시 응급수술로 갈지를 정하는 것이다. 지속적인 심한 통증, 발열, 빈맥, 백혈구 증가, 대사성 산증, 복막자극징후, CT에서 장벽 조영증강 감소나 폐쇄고리(closed loop) 같은 교액 시사 소견이 하나라도 있으면 즉시 수술, 없으면 대개 48시간에서 72시간을 넘기지 않는 범위에서 관찰하며 수용성 조영제(gastrografin)를 진단 겸 치료 목적으로 쓴다는 프로토콜을 표로 정리해야 한다. 이와 함께 단순 유착성 장폐색과 감별해야 할 폐쇄성 대장암(obstructing colon cancer), 장중첩(intussusception), 탈장 감돈(incarcerated hernia), 가성 장폐색(Ogilvie 증후군, Ogilvie syndrome) 네 가지의 임상적 구분점도 비교표로 함께 실어야 한다."
+  }
+ ],
+ "source_version": 1,
+ "content_version": 1
+}

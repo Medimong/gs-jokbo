@@ -1,0 +1,12 @@
+# 원본 파싱 중간 산출물과 백업은 올리지 않는다
+_pipeline/extract/
+_pipeline/out/
+_pipeline/c_pool.json
+_pipeline/b_raw_docx.json
+_pipeline/d_dupcand.json
+_backup_*/
+sources/
+.DS_Store
+# 이미지는 사이트가 실제로 쓰는 것만 강제 추가한다
+images/*
+_pipeline/__pycache__/

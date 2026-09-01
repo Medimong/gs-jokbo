@@ -1,0 +1,2586 @@
+[
+ {
+  "qid": 1536,
+  "section": "ENDO",
+  "examCount": 11,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(족보에 그림 추가) 26세 여자, 초음파상 갑상선 결절이 1.5cm였다. 목에는 압박 증상이 없었 고 미용상으로도 크게 문제",
+  "done": true
+ },
+ {
+  "qid": 2381,
+  "section": "UGI",
+  "examCount": 11,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "(22-1AB, 2AB) 술명은?",
+  "done": true
+ },
+ {
+  "qid": 1474,
+  "section": "BP",
+  "examCount": 10,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "67세 남자가 황달이 있고 2개월 전 6kg정도의 weight loss가 있다. 혈액검사는 모두 정상, 복부 CT 결과는 다음",
+  "done": true
+ },
+ {
+  "qid": 2482,
+  "section": "VS",
+  "examCount": 10,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "42세 여자가 배에 칼을 찔려 병원에 왔다. V/S는 120/80-100-20-37.6이었다. 찔린 부위에 복 부 압통이 있고",
+  "done": true
+ },
+ {
+  "qid": 1499,
+  "section": "LV",
+  "examCount": 9,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "간이식을 받기 위하여 입원하였다. 기증자의 키와 체중은 180cm/90kg, 환자의 키와 체중은 168cm/60kg이고 우간을",
+  "done": true
+ },
+ {
+  "qid": 2268,
+  "section": "UGI",
+  "examCount": 9,
+  "years": [
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "다음 중 midgut 기원이 아닌 것은?",
+  "done": true
+ },
+ {
+  "qid": 2215,
+  "section": "BP",
+  "examCount": 7,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "아래 사진의 Bismuth-Corlette classification은? (비슷한 그림)",
+  "done": true
+ },
+ {
+  "qid": 44,
+  "section": "ENDO",
+  "examCount": 7,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(22-3CD, 1AB, 2AB) (21-2AB) (19-2AB) (18이전) 45세 남성이 입원 중 이상 소견을 보였다. 4",
+  "done": true
+ },
+ {
+  "qid": 1538,
+  "section": "ENDO",
+  "examCount": 7,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(탈족) 갑상선 전절제술 이후 다음과 같은 증상이 보였다. 칼슘제와 같이 투여할 약제는? (비 슷한 사진 가져왔습니다. Car",
+  "done": true
+ },
+ {
+  "qid": 1510,
+  "section": "UGI",
+  "examCount": 7,
+  "years": [
+   2023,
+   2024
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "65세 남자가 손발에 저리는 느낌으로 내원하였다. 9년 전 위암으로 위전절제술을 받은 수술력 이 있다. 보충해줘야 하는 것은?",
+  "done": true
+ },
+ {
+  "qid": 1392,
+  "section": "총론",
+  "examCount": 7,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "개복 및 상장간막동맥 우회로술 <10, 탈족 그러나 KMLE에 유사한 문제 있음. 말기 위암 KMLE에 있듯이 palliati",
+  "done": true
+ },
+ {
+  "qid": 74,
+  "section": "BP",
+  "examCount": 6,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "며칠 전부터 시작된 발열, 황달 증상을 주소로 내원한 65세 남성. 혈압 90/70, 체온 38.9도, Hb 정상, WBC 1",
+  "done": true
+ },
+ {
+  "qid": 2327,
+  "section": "BP",
+  "examCount": 6,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 3,
+  "stem": "34세 남자가 건강검진에서 발견된 담낭 이상소견으로 내원했다. 처치는? (0.54 x 0.40cm)",
+  "done": true
+ },
+ {
+  "qid": 1535,
+  "section": "BR",
+  "examCount": 6,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(탈족) 60세 여성이고, 3개월 전부터 만져지는 왼쪽 유방에 종괴로 내원한 결과 유방암이었다. 50세에 폐경을 하였고, 첫 ",
+  "done": true
+ },
+ {
+  "qid": 1487,
+  "section": "PDS",
+  "examCount": 6,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "재태기간 39주 2일 3320g으로 정상 분만을 시행한 남자아이에서 쇄항이 진단되었다. 다음 표는 쇄항이 있을 때 평가해야하는",
+  "done": true
+ },
+ {
+  "qid": 1409,
+  "section": "PDS",
+  "examCount": 6,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "생후 2개월의 소아가 서혜부 종괴가 만져져서 내원하였다. 이 외에 특별한 증상은 없었으며, 누르 면 꼬르륵 소리 내며 들어갔다",
+  "done": true
+ },
+ {
+  "qid": 1672,
+  "section": "UGI",
+  "examCount": 6,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "70세 여자가 복통으로 병원에 왔다. 고혈압으로 치료를 받고 있었다. 14년 전 자궁절제술을 받 았다. 마지막으로 변을 본 것",
+  "done": true
+ },
+ {
+  "qid": 1042,
+  "section": "VS",
+  "examCount": 6,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "71세 남자가 교통사고를 당하여 내원하였다. 복부를 크게 부딪혀 통증을 호소하고 있고 혈압 90/50, 맥박수 130이다. C",
+  "done": true
+ },
+ {
+  "qid": 1400,
+  "section": "총론",
+  "examCount": 6,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": ". 우측 복부 불편감으로 내원한 환자. CT 사진 보여줌. (간에 early enhance, early wash-out 되는 ",
+  "done": true
+ },
+ {
+  "qid": 48,
+  "section": "CR",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(22-2AB) (21-2AB) 60세 남자 환자가 AV 상방 4cm의 종괴로 내원하였다. 크기는 1.2cm로 내시경 절제술을",
+  "done": true
+ },
+ {
+  "qid": 1673,
+  "section": "CR",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "65세 여자 환자가 혈변과 배변곤란을 주소로 내원하여 시행한 대장내시경 상 AV 상방 12cm 에 종괴가 발견되었다. 활력징후",
+  "done": true
+ },
+ {
+  "qid": 170,
+  "section": "CR",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "35세 남성 우측 혈변 증상을 보여서 내원. 대장암 진단받았고 병변을 절제하려고 할 때, 병변의 절제범위를 정하기 위해서 꼭 ",
+  "done": true
+ },
+ {
+  "qid": 2420,
+  "section": "CR",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "25 세 남자 환자가 이틀 전 갑자기 시작된 우하복부 동통을 주소로 응급실에 내원하였다. 오 심 및 구토는 동반되지 않았으며,",
+  "done": true
+ },
+ {
+  "qid": 2413,
+  "section": "CR",
+  "examCount": 5,
+  "years": [
+   2023,
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 4,
+  "stem": "20 세 여자가 잦은 설사로 내원하였다. 대장내시경 사진이다. 상기 소견은 전 대장에 걸쳐서 관 찰되었다. 용종에 대한 조직검",
+  "done": true
+ },
+ {
+  "qid": 2528,
+  "section": "ENDO",
+  "examCount": 5,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "33세 남자가 심계항진과 두통을 주소로 내원하였다. V/S는 혈압 180/120, 맥박 100회/분, 호 흡수 18회/분, 체",
+  "done": true
+ },
+ {
+  "qid": 178,
+  "section": "LV",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "40세 남자가 오른쪽 배에 덩이가 만져져서 내원하였다. AFP < 3, 간수치 모두 정상이었다. 다음은 CT의 phase별 사",
+  "done": true
+ },
+ {
+  "qid": 2487,
+  "section": "LV",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "우측 간을 이용하여 생체 간이식을 시행하는 경우 이식편의 특정 구역은 정맥으로 배액되지 않아 간울혈이 발생할 수 있다. 이를 ",
+  "done": true
+ },
+ {
+  "qid": 2455,
+  "section": "PDS",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "제태연령 38주 4일에 3.2kg으로 출생한 1개월 여자로, 3시간 전부터 울고 담즙성 구토가 반복 되어 왔다. 병원 방문 당",
+  "done": true
+ },
+ {
+  "qid": 2532,
+  "section": "UGI",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "다음 중 복강동맥에서 분지되어 나와 위에 혈액을 공급하는 가장 큰 혈관으로, 사진에서 가리키는 혈관은 무언인가? 해당 사진과 ",
+  "done": true
+ },
+ {
+  "qid": 1671,
+  "section": "UGI",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "62세 여자 환자가 소화성 궤양 천공으로 6개월 전 수술을 받았다. 수술 후 위장관 조영술 및 컴퓨터단층촬영 사진이다. 환자는",
+  "done": true
+ },
+ {
+  "qid": 147,
+  "section": "UGI",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 4,
+  "stem": "65세 여자가 2 달 전부터 흑색변을 보아서 내원했다. 2달 전 타병원에서 내시경 시행 후 PPI를 2달간 복용했다. 이후 재",
+  "done": true
+ },
+ {
+  "qid": 1526,
+  "section": "VS",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023,
+   2024
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "80세 남자가 복부 수술 후 발생한 장폐색으로 입원했다. 입원 후 금식 중이며, 중심정맥관을 통해 정맥영양법을 10 일째 시행",
+  "done": true
+ },
+ {
+  "qid": 202,
+  "section": "VS",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 6,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "54세 남자가 트럭의 조수석에 타고 있다가 트럭이 택시와 정면충돌을 하여 병원에 왔다. 혈압 142/92mmHg, 맥박 80회",
+  "done": true
+ },
+ {
+  "qid": 2445,
+  "section": "VS",
+  "examCount": 5,
+  "years": [
+   2022,
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "80세 남자가 복부와 허리통증으로 내원하였다. 환자는 3년 전에 신장하대동맥류 6.5cm로 16. 50세 교통사고로 응급실에 ",
+  "done": true
+ },
+ {
+  "qid": 1493,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "다리에 착용한 이 장치는 무엇을 예방하기 위한 것인가? 외상(2문제)",
+  "done": true
+ },
+ {
+  "qid": 1495,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "30세 남자가 자동차 운전을 하다 정면으로 충돌한 후 배가 아파서 응급실에 왔다. 혈압 90/60, 맥박 110, 호흡 20,",
+  "done": true
+ },
+ {
+  "qid": 2262,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "저위전방절제술을 시행한 48세 남자가 복통으로 왔다. 평소에는 복통이 없었으며 배꼽 주변의 통증이 시작되었고, 구토를 2차례 ",
+  "done": true
+ },
+ {
+  "qid": 2260,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "링거젖산용액 8880ml 28. 30세 남성이 차량 전복 사고로 응급실에 내원하였다. 응급실 내원 당시에는 혈압 120/90,",
+  "done": true
+ },
+ {
+  "qid": 2217,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "1년 전 고혈압 있다고 들었고, 2 년 전부터 경구피임약을 복용하기 시작한 여성. 우상복부 심한 통 증을 주소로 내원. CT ",
+  "done": true
+ },
+ {
+  "qid": 1394,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": ". 72 세 여자가 상복부 불쾌감 및 소화불량이 있어 내원 하였다. 복부 CT 검사 결과 아래 사 진과 같았다. 적절한 치료는",
+  "done": true
+ },
+ {
+  "qid": 1621,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": false,
+  "nimg": 0,
+  "stem": "27세 여자가 초음파 검사에서 갑상선 좌엽에 2cm의 결절이 발견되어 시행한 혈액검사와 세침 흡인검사 소견이다. 초음파 상 결",
+  "done": true
+ },
+ {
+  "qid": 1739,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "내시경 실시하여 AV 7cm sessile polyp발견하였고, 이에 대해서 내시경적 절제술(ESD) 실시하였다. 이후 병리소",
+  "done": true
+ },
+ {
+  "qid": 2627,
+  "section": "총론",
+  "examCount": 5,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "패혈증 환자에서 예후과 쇼크 치료 반응을 평가하는데 가장 유용한 지표는?",
+  "done": true
+ },
+ {
+  "qid": 1502,
+  "section": "BR",
+  "examCount": 4,
+  "years": [
+   2023,
+   2024
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "41세 여성이 우측 유방암으로 우측 유방 전절제술 및 액와부 림프절 곽청술을 시행 받은 이 후 다음과 같은 증상이 나타났다고 ",
+  "done": true
+ },
+ {
+  "qid": 2266,
+  "section": "BR",
+  "examCount": 4,
+  "years": [
+   2023,
+   2024
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "좌측 유방 덩이 조직검사 했더니 left breast 9시 방향 / intraductal papilloma with atypi",
+  "done": true
+ },
+ {
+  "qid": 2548,
+  "section": "BR",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "61 세 여자가 좌측 침윤성 유관암 (invasive ductal carcinoma) 진단으로 좌측 유방전절제술 및 감시림프절",
+  "done": true
+ },
+ {
+  "qid": 2333,
+  "section": "BR",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "황달과 상복부 복통으로 내원한 환자. (ERCP 이미지 주어짐. Double duct sign은 없었고, 담낭이 크게 보이지는",
+  "done": true
+ },
+ {
+  "qid": 1664,
+  "section": "BR",
+  "examCount": 4,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "85세 남자가 3개월 전부터 양측 유방에 촉진된 종괴를 주소로 내원하였다. 양측 유두 하방 3cm에 위치한 종괴로 원래 통증이",
+  "done": true
+ },
+ {
+  "qid": 2272,
+  "section": "CR",
+  "examCount": 4,
+  "years": [
+   2023,
+   2024
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "간의 대부분이 시꺼매진 사진이었음. 사진은 다른데 발문은 동일",
+  "done": true
+ },
+ {
+  "qid": 2421,
+  "section": "CR",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "70세 여성이 2개월 전부터 변에 피가 섞여 나와 내원하였다. 변을 볼 때 마다 찢어질 듯이 아 프고 휴지로 닦을 때 피가 묻",
+  "done": true
+ },
+ {
+  "qid": 2616,
+  "section": "CR",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "25세 여자가 잦은 설사로 내원하였다. 대장내시경 사진이다. 상기 소견은 전 대장에 걸쳐서 관찰되었다. 용종에 대한 조직검사 ",
+  "done": true
+ },
+ {
+  "qid": 2372,
+  "section": "ENDO",
+  "examCount": 4,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "20세 여자가 좌측 목덩이로 왔다. 경부 초음파 검사 및 미세침흡인세포검사 결과는 아래와 같다. 치료 는? #Thyroid, ",
+  "done": true
+ },
+ {
+  "qid": 2368,
+  "section": "ENDO",
+  "examCount": 4,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "52세 남자가 조절되지 않는 고혈압으로 왔다. 혈액검사결과 저칼륨혈증 소견이 보이고 혈장 알도스테 론과 레닌 활성도 비율이 3",
+  "done": true
+ },
+ {
+  "qid": 1528,
+  "section": "LV",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(짤족) 54세 남성이 지난 1달간 심해진 복부팽만을 주소로 본원에 내원하였다. 10년 이상 매일 1병씩 소주를 마셨다고 한다",
+  "done": true
+ },
+ {
+  "qid": 1527,
+  "section": "LV",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(탈족) 갑자기 복통으로 내원, 발열 38도, 혈압 96/60mmHg, AFP 4, WBC 20000정도, CRP 40 정도,",
+  "done": true
+ },
+ {
+  "qid": 2519,
+  "section": "LV",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "기저질환이 없던 63세 남성이 우상복부 통증, 발열, 황달을 주소로 내원하였다. 조영제 주사 3 분 후의 CT 소견은 다음과 ",
+  "done": true
+ },
+ {
+  "qid": 155,
+  "section": "PDS",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "건강하던 1개월 여자가 2일간 점점 심해지는 구토로 왔다. 구토는 분출성이었으며, 비담즙성이었다. 활력징후는 혈압 75/45m",
+  "done": true
+ },
+ {
+  "qid": 1547,
+  "section": "PDS",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(짤족) 7세 여아가 우연히 발견된 목 중앙선의 압통이 없는 2cm 크기 낭종을 주소로 내원하 였다. 낭종은 삼킬 때 움직이고",
+  "done": true
+ },
+ {
+  "qid": 923,
+  "section": "PDS",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "7세 여아가 우연히 발견된 목 중앙선의 압통이 없는 2cm 크기 낭종을 주소로 내원하였다. 낭종은 삼킬 때 움직이고 혀를 내밀",
+  "done": true
+ },
+ {
+  "qid": 2539,
+  "section": "PDS",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "10개월 남아가 1일전부터 심하게 보채어 내원하였다. 복부팽만이 있었고 피부탄력도는 떨어지고 축 늘어져 있었다. 활력징후 상 ",
+  "done": true
+ },
+ {
+  "qid": 2531,
+  "section": "UGI",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "62세 여자 환자가 복부 통증 및 복부팽만감으로 내원하였다. 3일 전부터 가스가 나오지 않고 속이 더부룩했고 내원 하루 전 상",
+  "done": true
+ },
+ {
+  "qid": 2382,
+  "section": "UGI",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "74세 여자가 3개월 전부터 시작된 속쓰림과 소화불량으로 내원하였다. 고형식 먹은 후 구토를 한다고 한다. 토사물은 음식물 색",
+  "done": true
+ },
+ {
+  "qid": 2553,
+  "section": "UGI",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "69세 남자 환자가 위암으로 원위부위절제술을 시행 받았다. 수술 후 병리조직검사 결과는 다음과 같다. 원격전이는 없었다. 향후",
+  "done": true
+ },
+ {
+  "qid": 1819,
+  "section": "UGI",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "48세 남자환자가 건강검진에서 4.2cm의 종양 발견. 상부위장관내시경, 내시경 초음파, CT 소견은 다음과 같았다. 적절한 ",
+  "done": true
+ },
+ {
+  "qid": 1521,
+  "section": "VS",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "뇌사자에게서 떼낸 췌장의 graft 혈관은?",
+  "done": true
+ },
+ {
+  "qid": 2451,
+  "section": "VS",
+  "examCount": 4,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 4,
+  "hasAns": false,
+  "nimg": 2,
+  "stem": "39 세 여성이 4 개월 전부터 두통과 시야 흐림 증상이 심해져서 내원하였다. 안과적으로는 문제 가 없었으나, 우측 상완 혈압",
+  "done": true
+ },
+ {
+  "qid": 2405,
+  "section": "VS",
+  "examCount": 4,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "신장이식 후 가장 흔히 사용되는 면역억제제로서 calcineurin inhibitor는?",
+  "done": true
+ },
+ {
+  "qid": 1469,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "43 세 여자가 6 개월 전부터 시작된 소화불량으로 방문하였다. 특별한 과거력, 외상은 없었고 최근에 복용하는 약은 없었다. ",
+  "done": true
+ },
+ {
+  "qid": 1470,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "Brisbane 2000 Terminology of Liver Anatomy에 따른 간에서 두번째로 나누는 기준인 sectio",
+  "done": true
+ },
+ {
+  "qid": 1471,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "52 세 남자가 B 형간염에 의한 간경변으로 정기적인 추적관찰을 받았고, 1 년 전 간세포암으로 진단받고 4 개월 간격으로 두",
+  "done": true
+ },
+ {
+  "qid": 1472,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "34 세 여성 검진으로 복부 초음파 받았다. 소화불량과 복부 팽만은 없다. 2cm 담석이 관찰되었다. bil 0.9, ALP ",
+  "done": true
+ },
+ {
+  "qid": 1478,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "36 세 여성, 갑상선 조직 검사 결과는 아래와 같았다. 친언니는 2 년 전에 갈색세포종 진단되었다. 검사해야 하는 유전자는?",
+  "done": true
+ },
+ {
+  "qid": 1479,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "그레이브스병으로 갑상선 항진증에 대한 치료를 받고 있던 30 세 남성. 조절되지 않아 갑상선 절제술을 시행받으려던 중 좌엽에 ",
+  "done": true
+ },
+ {
+  "qid": 1480,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "경부 종괴로 내원하여 초음파 상 결절 확인됨. 결절은 2.5cm, isoechoic 에 가까운 nodule 이면 taller ",
+  "done": true
+ },
+ {
+  "qid": 1489,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "재태주수 29 주에 1.3kg 로 태어난 아이가 생후 17 일에 보채는 증상이 있다. 영양분유를 먹이 고 있고 먹이면 토하는 ",
+  "done": true
+ },
+ {
+  "qid": 1491,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "PAOD 환자가 하지 창백, 하지 통증을 주 호소로 내원하였다. CT angiography 에서 양측 하지 혈류 모두 막힌 소",
+  "done": true
+ },
+ {
+  "qid": 1496,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "62 세 남성이 악성종양을 진단받은 후, 어제 right hemicolectomy 를 시행 받았다. 오전에 체온은 38 도가 ",
+  "done": true
+ },
+ {
+  "qid": 29,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "40세 남성이 2시간 전부터 시작된 토혈로 방문하였다. 2주 전부터 공복에 속쓰림이 있었고, 1주 전부터 지금까지 2~3회의 ",
+  "done": true
+ },
+ {
+  "qid": 2464,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "3 개월 여아가 우측 고샅 부위에 만져지는 덩이를 주소로 내원하였다. 덩이는 누우면 들어가고 서면 다시 나온다고 한다. 고샅 ",
+  "done": true
+ },
+ {
+  "qid": 1387,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "어지럼증과 손발저림을 주소로 내원한 할머니. 15년전 위전절제술 받았음. 다음 중 발생했을 위절 제증후군으로 적절한 것은?",
+  "done": true
+ },
+ {
+  "qid": 1393,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "다음은 간 수술 후 복부 사진이다. 화살표가 가리키는 구조물은? 그림 똑같음.",
+  "done": false
+ },
+ {
+  "qid": 1401,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "70세 남자가 황달로 왔다. 복통, 발열, 오한 등은 없었다. 혈액 검사와 복부 CT 소견은 다음과 같 다. 진단은?",
+  "done": false
+ },
+ {
+  "qid": 2226,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "응급 유방절제술을 시행한다. 8. 30대 여성이 출산 후 유즙 분비가 멈추지 않아 내원하였다. 최근 들어 생리가 불규칙해지고 ",
+  "done": false
+ },
+ {
+  "qid": 2255,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "항생제 포함한 보존적 치료 24. 평소 건강하던 6개월 남자아이가 금일 새벽부터 발생한 구토, 보챔, 복부 팽만, 분유를 잘 ",
+  "done": false
+ },
+ {
+  "qid": 2254,
+  "section": "총론",
+  "examCount": 4,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "빗장밑 동맥 도루 증후군 (subclavian steal syndrome) 08 PDS 23. 만삭, 1.2kg 로 태어난 생",
+  "done": false
+ },
+ {
+  "qid": 411,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "66세 남성이 황달로 내원하였다. 우상복부 압통/반발통은 없었고 검사실 소견과 영상 검사 결과는 다음과 같다. 진단은?",
+  "done": false
+ },
+ {
+  "qid": 1500,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "45세 여자 환자가 건강검진에서 시행한 복부초음파 이상으로 내원하였다. 소화기계 증상 및 다 른 특별한 증상은 없다. CT소견",
+  "done": false
+ },
+ {
+  "qid": 1501,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "68세 남자가 황달과 체중감소로 내원하였다. 다음은 혈액검사, 복부 CT 결과이다. 이 환자에서 시행할 것으로 기대할 수 있는",
+  "done": true
+ },
+ {
+  "qid": 1530,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 0,
+  "stem": "(짤족) 아래 사진의 Bismuth-Corlette classification은?",
+  "done": true
+ },
+ {
+  "qid": 1531,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "(탈족) 88세 여자가 2일 전부터 명치가 아프고 1일 전부터 열이 나서 응급실에 왔다. 혈압 80/50mmHg, 맥박 110",
+  "done": true
+ },
+ {
+  "qid": 1659,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "68세 남자 환자가 2주 전 시작된 황달을 주소로 내원하였다. 혈액검사 및 복부전산화단층촬영 과 자기공명담췌관조영술 소견은 아",
+  "done": true
+ },
+ {
+  "qid": 1660,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "34세 남자가 건강검진에서 발견된 담낭의 이상 소견으로 내원하였다. 아래는 복부 초음파 사진 이다. 치료는? (USG: 0.5",
+  "done": true
+ },
+ {
+  "qid": 1661,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "다음은 CT angiography의 coronal view이다. 췌십이지장절제술(pancreatoduodenectomy)을 할",
+  "done": false
+ },
+ {
+  "qid": 2328,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "평상시 건강하던 54세 여자가 외부병원에서 급성 담낭염으로 담낭절제술을 시행받은 후 조직검사에 서 담낭암으로 진단되어 내원하였",
+  "done": false
+ },
+ {
+  "qid": 2719,
+  "section": "BP",
+  "examCount": 3,
+  "years": [
+   2025,
+   2026
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "50세 여자가 진한 소변, 우상복부 통증 및 발열로 내원하였다. 6개월 전 담석성 췌장염 으로 치료받은 병력이 있다. 검사 결",
+  "done": false
+ },
+ {
+  "qid": 66,
+  "section": "BR",
+  "examCount": 3,
+  "years": [
+   2022,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "여자 환자. 침윤성 유방암으로 유방 보존술을 시행하였다. 4cm 크기였는데 resection margin에서 암세포가 발견되었",
+  "done": false
+ },
+ {
+  "qid": 1533,
+  "section": "BR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(족보) 환자가 유방통을 느껴 유방 초음파를 찍었고, C4a로 나와 유방 조직 검사를 진행한 결과 Atypical ductal",
+  "done": false
+ },
+ {
+  "qid": 1534,
+  "section": "BR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(짤족) 왼쪽 유방에 멍울이 만져져서 내원한 환자이다. 4.5cm 크기였고, 중심 침생검 결과 악성 엽상종양(malignant",
+  "done": false
+ },
+ {
+  "qid": 1662,
+  "section": "BR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "42세 여자가 건강검진에서 발견된 이상소견으로 내원하였다. 유방촬영술에서 군집성 다형성 미 세석회화(clustered pleo",
+  "done": false
+ },
+ {
+  "qid": 1663,
+  "section": "BR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "52세 여자 환자가 우측 침윤성 유관암 (invasive ductal carcinoma) 및 겨드랑이 림프절 전이가 있어 우측",
+  "done": false
+ },
+ {
+  "qid": 2340,
+  "section": "BR",
+  "examCount": 3,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "60세 여성이 오른쪽 유두 아래에 만져지는 덩이로 왔다. 조직검사 결과 침윤성 유방암이 진단되었고, 8. 62 세 여성이 1 ",
+  "done": false
+ },
+ {
+  "qid": 2634,
+  "section": "BR",
+  "examCount": 3,
+  "years": [
+   2026
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "세계적으로 권고되는 유방암 선별검사는?",
+  "done": false
+ },
+ {
+  "qid": 2560,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2022,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "77 세 여자 가 아침부터 우측하복부 통증과 구토, 설사로 응급실 에 내원하였다. 혈압 110/80mmHg, 맥박 85 회/분",
+  "done": false
+ },
+ {
+  "qid": 791,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "11. 10세 남아가 하루 전부터 배꼽 부위의 불편감과 함께 소화불량을 호소하다가 내원 당일 6시간 전부터는 우하복부에 국한된",
+  "done": false
+ },
+ {
+  "qid": 838,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "30세 남자가 1주일 전부터 대변을 보면 변기에 피가 가득하다면서 병원에 왔다. 일주일 전에 출장을 다녀온 후 3일만에 변을 ",
+  "done": false
+ },
+ {
+  "qid": 729,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "70세 남자가 왼쪽 아랫배가 아파서 내원하였다. 왼쪽 사타구니 부위가 부풀어 있으며, 손으로 누르면 들어간다고 한다. 진단은?",
+  "done": false
+ },
+ {
+  "qid": 1515,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "65세 여성이 혈변으로 왔다. 대장내시경에서 직장에 다음과 같은 병변이 있었고, 항문연 상방 5cm에 4cm 크기였다. 다음 ",
+  "done": false
+ },
+ {
+  "qid": 1516,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "88세 남자이며 변이 안나오고 배가 부풀어 올라 병원에 내원하였음. 이전부터 변비가 있었던 환자로 V/S는 정상 소견이였다. ",
+  "done": false
+ },
+ {
+  "qid": 1544,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(짤족) 53세 남자가 항문끝에서 6cm 상방에 지름 1.5cm의 유경성(pedunculated) 폴립이 있 어 내시경 폴립절",
+  "done": false
+ },
+ {
+  "qid": 1545,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(탈족) 84세 남자가 8시간 전부터 오른쪽 샅굴 부위로 덩이가 빠져나오고 배가 아파서 병원에 왔다. 6개월 전부터 힘을 주면",
+  "done": false
+ },
+ {
+  "qid": 2404,
+  "section": "CR",
+  "examCount": 3,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "65세 남자가 대장암으로 근치적 우결장절제술(right hemicolectomy)을 받았다. 병리검사 결과이다. 치 료는? A",
+  "done": false
+ },
+ {
+  "qid": 2527,
+  "section": "ENDO",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "50세 여자가 갑상선 좌엽의 3cm 유두암과 좌측경부림프절전이로 갑상선전절제 및 좌측경부림프절곽청술을 시행하였다. 수술 1일째",
+  "done": false
+ },
+ {
+  "qid": 1505,
+  "section": "ENDO",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "41세 여자가 우측 경부에 만져지는 종괴로 내원. 혈액검사, TFT는 다 정상 (정상치도 주어짐, T3 대략 138, T4 대",
+  "done": false
+ },
+ {
+  "qid": 1506,
+  "section": "ENDO",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "50세 여자가 갑상선 좌엽의 3cm 유두암과 좌측경부림프절전이로 갑상선전절제 및 좌측경부림 프절 곽청술을 시행하였다. 수술 1",
+  "done": false
+ },
+ {
+  "qid": 1507,
+  "section": "ENDO",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "환자의 혈압은 180/120이고, 다음은 환자의 복부 CT 사진이다. 수술 전 투여해야 하는 약은?",
+  "done": false
+ },
+ {
+  "qid": 1537,
+  "section": "ENDO",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(짤족) 67세 여자환자가 요로결석으로 체외파충격쇄석술을 받았다. 현재 골다공증으로 약물 복 용중이다.  검사결과가 다음과 같",
+  "done": false
+ },
+ {
+  "qid": 1665,
+  "section": "ENDO",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "53세 여자 환자가 갑상선유두암으로 갑상선전절제술을 받고 다음날부터 손발저림을 호소하였 다. 수족경련(carpopedal sp",
+  "done": false
+ },
+ {
+  "qid": 1700,
+  "section": "ENDO",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 6,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "경부 종괴로 내원한 환자. 초음파 상 결절 확인되었다. 다음 검사는? TFT 결과: 모두 정상범위 (괄호 안에 정상치 모두 주",
+  "done": false
+ },
+ {
+  "qid": 2555,
+  "section": "GI",
+  "examCount": 3,
+  "years": [
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "5년 전 진행성 위암으로 수술받은 병력이 있는 환자이다. 내시경은 다음과 같다. 수술 이후 보충해야 하는 영양소는?",
+  "done": false
+ },
+ {
+  "qid": 359,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "68세 남자가 건강검진에서 발견된 이상으로 왔다. CT 소견이 다음과 같을 때 조치는?",
+  "done": false
+ },
+ {
+  "qid": 371,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "71세 남성이 우상복부 통증으로 내원하였다. B형 간염 보균자였고 검사 결과 다음과 같았다. 진단은?",
+  "done": false
+ },
+ {
+  "qid": 1498,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "우측 복부 불편감으로 내원한 환자. 혈액 검사와 CT 소견은 다음과 같다. 치료는? <혈액검사> platelet, albumi",
+  "done": false
+ },
+ {
+  "qid": 1529,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(짤족) 갑작스럽게 쥐어짜는 듯한 복통으로 온 45세 여자. BP 80/50 정도로 unstable 발열, WBC 증가, CR",
+  "done": false
+ },
+ {
+  "qid": 2320,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "8년 전부터 B형 간염 감염력을 알고 있던 45세 남자 환자가 어제부터 헛소리를 한다면서 병 원에 내원하였다. 환자의 눈이 노",
+  "done": false
+ },
+ {
+  "qid": 1656,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "58세 여자가 7일 전부터 열이 난다며 응급실에 왔다. 3년 전 간외담관암으로 절제술을 받고 추 적관찰 중이라고 한다. 혈압 ",
+  "done": false
+ },
+ {
+  "qid": 1657,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "만성 B형 간염으로 정기적으로 검진 중인 50세 남자 환자가 초음파에서 발견된 간 덩이를 주 소로 내원하였다. 간기능검사상 이",
+  "done": false
+ },
+ {
+  "qid": 1687,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 0,
+  "stem": "이전에 건강하던 23세 젊은 남자가 10일 전부터 심해지는 황달이 있어 내원하였다. 여행 을 다녀온 적 없다고 하였고, 2주 ",
+  "done": false
+ },
+ {
+  "qid": 2686,
+  "section": "LV",
+  "examCount": 3,
+  "years": [
+   2025,
+   2026
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "39 세 남성이 건강검진 상 우연히 발견된 간 종괴로 내원하였다. 복부 CT 및 조직검사를 시행한 결과는 다음과 같다. 조직검",
+  "done": false
+ },
+ {
+  "qid": 1385,
+  "section": null,
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "사진 저위전방절제술을 시행한 48세 남자가 복통으로 왔다. 평소에는 복통이 없었으며 배꼽 주변의 통 증이 시작되었고, 구토를 ",
+  "done": false
+ },
+ {
+  "qid": 1386,
+  "section": null,
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "56 세 남자가 1 일 전부터 시작된 좌측 다리의 통증을 주소로 왔다. 통증은 갑작스럽게 왔으며, 색깔변화를 동반하였다. 고혈",
+  "done": false
+ },
+ {
+  "qid": 1417,
+  "section": null,
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 6,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "53세 남자가 환자가 갑상선유두암으로 전절제술을 받고 수술 후 2일째 입 주변의 떨림과 손발의 저림을 호소하였다. 검사 결과는",
+  "done": false
+ },
+ {
+  "qid": 1519,
+  "section": "PDS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "1개월 남아. 내원 며칠전부터 묽고 얇은 변을 보고, 변비, 복부팽만, 잘 못 먹음. 다음은 환아 의 대장조영술 사진이다. 확",
+  "done": false
+ },
+ {
+  "qid": 1546,
+  "section": "PDS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "(짤족) 제태기간 39주 2일, 3320g으로 정상분만을 시행한 남자아이에서 태어난 지 10시간 후 아래의 사진과 같은 모습이",
+  "done": false
+ },
+ {
+  "qid": 1676,
+  "section": "PDS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "3개월 여아가 우측 고샅 부위에 만져지는 덩이를 주소로 내원하였다. 덩이는 누우면 들어가고 서면 다시 나온다고 한다. 고샅 부",
+  "done": false
+ },
+ {
+  "qid": 1677,
+  "section": "PDS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "다음과 같은 발생 시기 이상으로 생기는 질환은?",
+  "done": false
+ },
+ {
+  "qid": 2471,
+  "section": "PDS",
+  "examCount": 3,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "55세 남자가 3시간 전에 술을 마시고 가족과 다투다 자해를 하고 복통으로 응급실에 왔다. 12cm 크기 의 과도가 배벽을 관",
+  "done": false
+ },
+ {
+  "qid": 2655,
+  "section": "TACS",
+  "examCount": 3,
+  "years": [
+   2026
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "PPPD이후 pseudoaneurysm 보이는 환자. 혈압 매우 떨어져있음 수혈 용적 확보를 위해 가장 효과적인 카테터는? (",
+  "done": false
+ },
+ {
+  "qid": 1511,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "환자가 복통을 주소로 내원하였고, 환자의 내시경 소견은 다음과 같다. 다음 중 환자의 치료 는?",
+  "done": false
+ },
+ {
+  "qid": 1512,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "속쓰림 호소. 약물 치료는 효과가 없음. 불타는 느낌이 위로 뻗치고 있음. CT 소견은 다음과 같음. 치료는?",
+  "done": false
+ },
+ {
+  "qid": 2155,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 6,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "(탈족) 그림과 같이 위각 직하방에 있는 진행성 위암에 대해 근치적 아전절제술을 시행할 때, 보존되는 구조물은?",
+  "done": false
+ },
+ {
+  "qid": 1541,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(짤족) 갑작스러운 복통. 압통과 반발압통, V/S 불안정, 37.9도 발열",
+  "done": false
+ },
+ {
+  "qid": 1542,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(탈족) 65세 남자가 1주 전부터 반복되는 구토와 복통으로 병원에 왔다. 1개월 전부터 윗배가 쓰렸다고 하며 신물이 올라오고",
+  "done": false
+ },
+ {
+  "qid": 2399,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "(탈족) 65 세 남자가 1 주 전부터 반복되는 구토와 복통으로 병원에 왔다. 1 개월 전부터 윗배가 쓰렸다고 하며 신물이 올",
+  "done": false
+ },
+ {
+  "qid": 1668,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "73세 남자가 2개월 전부터 시작된 속쓰림을 주소로 내원하였다. 20년 전 위암으로 원위부위절 제술을 받았으며, 3년 전에 받",
+  "done": false
+ },
+ {
+  "qid": 1701,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 0,
+  "stem": "Distal gastrectomy를 시행할 때 그 문합 방법으로 Billroth II anastomosis 보다 Roux-en",
+  "done": false
+ },
+ {
+  "qid": 1707,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "그림과 같이 위각 직하방에 있는 진행성 위암에 대한 근치적 아전절제술을 시행할 때, 보존되는 구조물은?",
+  "done": false
+ },
+ {
+  "qid": 2393,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "Perineural invasion: not identified",
+  "done": false
+ },
+ {
+  "qid": 2398,
+  "section": "UGI",
+  "examCount": 3,
+  "years": [
+   2024,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "81세 남자가 기운이 없어 응급실에 왔다. 1달 전부터 명치부위의 통증과 소화불량 있었고, 3일 전부터 식사를 못했다고 한다.",
+  "done": false
+ },
+ {
+  "qid": 2545,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2022,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "60세 복막투석을 하던 남성이 뇌사자에게 신장을 공여받았다. 기증자는 사고로 응급실에 와 당시 BUN/Cr이 14/0.7이었으",
+  "done": false
+ },
+ {
+  "qid": 1761,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "좌측 말초동맥폐쇄가 의심되는 임상상 제시. 좌, 우의 ABI를 옳게 계산한 것은?",
+  "done": false
+ },
+ {
+  "qid": 1766,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "다음과 같은 병변으로 환자가 내원하였다. 소독할 때 피가 조금 났으나 환자는 별로 아프지 않다고 한다. 다음 사진을 일으킬 것",
+  "done": false
+ },
+ {
+  "qid": 1520,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(21-3CD) (20-3AB) (19-1AB) 뇌졸중 과거력이 있는 75세 남자가 좌측 다리에 심한 파행이 있어 내원하였다.",
+  "done": false
+ },
+ {
+  "qid": 1522,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "70세 남성, AAA CT 사진 주어짐. 수술을 계획할 때 다음 중 수술적 적응증에 해당하는 것은? [기타] (4)",
+  "done": false
+ },
+ {
+  "qid": 1523,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "손상통제술에 대한 설명으로 옳은 것은?",
+  "done": false
+ },
+ {
+  "qid": 1524,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "(22-4AB) 21세 남자가 오토바이 사고로 응급실로 이송되었다. 응급실에서 측정한 혈압은 82/59, 심박수는 131, 호",
+  "done": false
+ },
+ {
+  "qid": 1525,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "62세 남성이 악성종양을 진단받은 후, 어제 right hemicolectomy를 시행 받았다. 금일 오전에 체온은 38도가 ",
+  "done": false
+ },
+ {
+  "qid": 1549,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(짤족) 대복재정맥의 하지정맥류의 역류를 치료하기 위한 방법이다. 이 치료 방법의 이름은?",
+  "done": false
+ },
+ {
+  "qid": 1551,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "(탈족) 64세 남자가 3개월 전부터 오른쪽 다리가 아프다며 병원에 왔다. 200m 이상 걸으면 오 른쪽 장딴지가 쥐어짜는 듯",
+  "done": false
+ },
+ {
+  "qid": 1552,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(짤족) 진행성 위암으로 수술받고 회복 중인 64세 남자 환자가 우측 하지 부종이 나타났다. 나타내었다. 해당 환자는 과거 대",
+  "done": false
+ },
+ {
+  "qid": 1553,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "(짤족) 62세 여자 환자가 복부 통증 및 복부팽만감으로 내원하였다. 3일 전부터 가스가 나오지 않고 속이 더부룩했고 내원 하",
+  "done": false
+ },
+ {
+  "qid": 1554,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(짤족) 손상통제소생술(Damage control surgery)에 관해 맞는 선지는? (선지에 대한 기억이 다양합니다.)",
+  "done": false
+ },
+ {
+  "qid": 1679,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "이전에 건강하던 40세 여자가 1일 전부터 좌측 하지의 심한 통증을 주소로 내원하였다. 신체 검진상 좌측 오금동맥 이하 부위의",
+  "done": false
+ },
+ {
+  "qid": 1680,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "36세 남자가 당뇨병성 말기신부전으로 43세 뇌사자로부터 신장이식을 시행 받았다. 이식 후 2 개월이 지나 serum crea",
+  "done": false
+ },
+ {
+  "qid": 1681,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "다음 중 [장기 등 이식에 관한 법률 제17조]에 의거하여 의료기관의 장이 장기구득기관의 장 에게 알리고, 통보를 받은 장기구",
+  "done": false
+ },
+ {
+  "qid": 1682,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "죽음의 삼징후(lethal triad)의 구성으로 옳은 것은? syndrome), 다발성 장기부전(multiple organ ",
+  "done": false
+ },
+ {
+  "qid": 1715,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "54세 남자가 양쪽 하지의 통증으로 내원하였다. 양쪽 하지 대퇴동맥의 맥박이 느껴지지 않았고 창백한 색깔을 보였다. 다음은 이",
+  "done": false
+ },
+ {
+  "qid": 1723,
+  "section": "VS",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 0,
+  "stem": "28세 남성이 고압전선작업을 하던 중 감전되어 추락하였다. 왼손에는 깊은 상처가 나 있고 오른 발목에는 검게 그을린 흔적이 있",
+  "done": false
+ },
+ {
+  "qid": 1473,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "65 세 남성 열과 함께 얼굴이 노래진다. v/s 은 90/50-110-20-38.9 이다. hb 는 13.2, wbC 198",
+  "done": false
+ },
+ {
+  "qid": 1475,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "45세 여자 환자로 유방암으로 우측 유방 전절제술 및 액와부 림프절 곽청술을 시행 받은 이 후 다음과 같은 증상(winged ",
+  "done": false
+ },
+ {
+  "qid": 1476,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "48 세 여자가 2 주 전부터 알게 된 오른쪽 유방 상외부의 통증 없는 멍울로 왔다. 유방촬영 및 유방초음파 검사에서 우측 유",
+  "done": false
+ },
+ {
+  "qid": 1477,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "건강검진에서 발견된 이상소견으로 내원. 유방촬영술 결과 미세석회화가 관찰되며 BIRAD 에 따라 카테고리 C4b 였음. 만져지",
+  "done": false
+ },
+ {
+  "qid": 1481,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "55세 남자가 3개월 전부터 시작된 체중 감소 및 복부 팽만으로 왔다. 위내시경에서 8cm 크기의 덩이가 있었고 조직 검사에서",
+  "done": false
+ },
+ {
+  "qid": 1482,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "45 세의 남자가 2 시간 전부터 갑자기 시작된 심한 복부 동통으로 응급실에 왔다. 환자는 2 개월 전부터 공복 시 상복부 동",
+  "done": false
+ },
+ {
+  "qid": 1484,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "78/M 항문출혈을 주소로 내원하였다. 대장내시경 항문연 직상방에서 궤양성 종괴가 발견되었 다.대장내시경 조직검사 결과 선암이",
+  "done": false
+ },
+ {
+  "qid": 1485,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "56 세 여자가 아랫배가 아파 응급실로 왔다. 최근 하복부 동통이 있어왔고, 변비로 오래 고생을 하였다고 한다. 소변이 매우 ",
+  "done": false
+ },
+ {
+  "qid": 1488,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "이 사진은 Infantogram이다. 이 질환에 대한 설명으로 옳은 것은?",
+  "done": false
+ },
+ {
+  "qid": 1490,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "하지정맥류 치료법 중 thermal ablation에 속하는 것은?",
+  "done": false
+ },
+ {
+  "qid": 1492,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "268세 남자환자가 3시간전부터 시작된 양하지 통증과 감각저하로 내원하였다. 심방세동으로 warfarin을 복용했는데, 치과치",
+  "done": false
+ },
+ {
+  "qid": 1555,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(짤족) 75세 남자 환자가 대장암 수술 직후 하복부에 통증을 호소하였다. 수술 당시 끼운 폴리 카테터를 유지하고 있으며, 4",
+  "done": false
+ },
+ {
+  "qid": 1556,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 2,
+  "stem": "(탈족) 45세 남자가 1일 전부터 계속 토하고 배가 아프다고 응급실에 왔다. 경련성 통증이 주 기적으로 배 전체에 있다고 한",
+  "done": false
+ },
+ {
+  "qid": 1566,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "항바이러스제 투여하고 1 개월 후 혈액검사 4. 건강검진에서 발견된 이상소견으로 내원. 유방촬영술 결과 미세 석회화가 관찰되며",
+  "done": false
+ },
+ {
+  "qid": 2486,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023,
+   2025
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "다음 해부학적 구조물은? (portal phase 영상으로 저정도 밝기, 위치 & 모양이 단서)",
+  "done": false
+ },
+ {
+  "qid": 2233,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "59세 남자 환자가 진행성 위암으로 다음과 같은 수술을 시행 받았다. 향후 이 환자에게 지속적으로 보충해야하는 영양소는?",
+  "done": false
+ },
+ {
+  "qid": 2234,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 1,
+  "stem": "(변족, 발문 변형) 65세 남성이 2시간 전 갑자기 발생한 심한 복통을 주소로 내원하였다. 병원은 한 번도 안 가 봐서 본인",
+  "done": false
+ },
+ {
+  "qid": 1649,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 4,
+  "hasAns": false,
+  "nimg": 1,
+  "stem": "건강하던 생후 1개월 남자가 계속 토해서 왔다. 구토는 1주 전부터 시작되었고 점점 심해지 는 양상이었다. 구토물은 비담즙성이",
+  "done": false
+ },
+ {
+  "qid": 2261,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "(짤족, 선지 추가) 23세 남자가 자전거를 타다가 넘어져서 내원하였다. 혈압 75/52, 맥박 120회, 호흡수 20회, 체",
+  "done": false
+ },
+ {
+  "qid": 1684,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "고혈압으로 aspirin, plavix 복용 중으로 5년 전 뇌경색으로 우측 위약 및 연하곤란이 있던 85 세 여자 환자(16",
+  "done": false
+ },
+ {
+  "qid": 1685,
+  "section": "총론",
+  "examCount": 3,
+  "years": [
+   2023
+  ],
+  "nopt": 5,
+  "hasAns": true,
+  "nimg": 0,
+  "stem": "65세 남자가 복통과 37.5°C의 발열을 주소로 응급실에 내원하여 시행한 컴퓨터단층촬영에서 소장 천공이 확인되었다. 응급 개",
+  "done": false
+ }
+]

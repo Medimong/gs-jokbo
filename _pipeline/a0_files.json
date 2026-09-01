@@ -1,0 +1,277 @@
+{
+ "drive": "/Users/gimgihun/Library/CloudStorage/SynologyDrive-의학과3학년/외과학/4-1. 실습족보",
+ "files": [
+  {
+   "rel": "2022/2022년 1CD 외과 턴말 복원_v2.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "2022년 1CD 외과 턴말 복원_v2.docx",
+   "size_mb": 4.9,
+   "combined": false
+  },
+  {
+   "rel": "2022/2022년 2AB 외과 턴말 복원.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "2022년 2AB 외과 턴말 복원.docx",
+   "size_mb": 3.3,
+   "combined": false
+  },
+  {
+   "rel": "2022/2022년 3AB 외과 턴말 복원.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "2022년 3AB 외과 턴말 복원.docx",
+   "size_mb": 3.0,
+   "combined": false
+  },
+  {
+   "rel": "2022/2022년 3CD 외과 턴말 복원.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "2022년 3CD 외과 턴말 복원.docx",
+   "size_mb": 8.6,
+   "combined": false
+  },
+  {
+   "rel": "2022/2022년 4AB 외과 턴말 복원.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "2022년 4AB 외과 턴말 복원.docx",
+   "size_mb": 6.0,
+   "combined": false
+  },
+  {
+   "rel": "2022/2022년 4CD 외과 턴말 복원.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "2022년 4CD 외과 턴말 복원.docx",
+   "size_mb": 5.9,
+   "combined": false
+  },
+  {
+   "rel": "2022/2022년 4CD~2AB 외과 턴말 합본.pdf",
+   "year": 2022,
+   "ext": ".pdf",
+   "base": "2022년 4CD~2AB 외과 턴말 합본.pdf",
+   "size_mb": 2.8,
+   "combined": true,
+   "covers": [
+    "2022-4CD",
+    "2023-2AB"
+   ]
+  },
+  {
+   "rel": "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "[GS] 외과 실습족보_2016이전-2022 1CD.docx",
+   "size_mb": 53.4,
+   "combined": true,
+   "covers": [
+    "~2016",
+    "2022-1CD"
+   ]
+  },
+  {
+   "rel": "2022/[GS] 턴말 정리 19-22 4AB_고두혜, 박가을, 우한결, 윤한나.docx",
+   "year": 2022,
+   "ext": ".docx",
+   "base": "[GS] 턴말 정리 19-22 4AB_고두혜, 박가을, 우한결, 윤한나.docx",
+   "size_mb": 35.4,
+   "combined": true,
+   "covers": [
+    "2019",
+    "2022-4AB"
+   ]
+  },
+  {
+   "rel": "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+   "year": 2023,
+   "ext": ".pdf",
+   "base": "2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+   "size_mb": 7.9,
+   "combined": true,
+   "covers": [
+    "2022-4CD",
+    "2023-2AB"
+   ]
+  },
+  {
+   "rel": "2023/2023 2CD 외과 턴말 복원.docx",
+   "year": 2023,
+   "ext": ".docx",
+   "base": "2023 2CD 외과 턴말 복원.docx",
+   "size_mb": 1.7,
+   "combined": false
+  },
+  {
+   "rel": "2023/2023년 1AB 외과 턴말 복원.docx",
+   "year": 2023,
+   "ext": ".docx",
+   "base": "2023년 1AB 외과 턴말 복원.docx",
+   "size_mb": 5.7,
+   "combined": false
+  },
+  {
+   "rel": "2023/2023년 1CD 외과 턴말 복원.docx",
+   "year": 2023,
+   "ext": ".docx",
+   "base": "2023년 1CD 외과 턴말 복원.docx",
+   "size_mb": 3.8,
+   "combined": false
+  },
+  {
+   "rel": "2023/2023년 2AB 외과 턴말 복원.pdf",
+   "year": 2023,
+   "ext": ".pdf",
+   "base": "2023년 2AB 외과 턴말 복원.pdf",
+   "size_mb": 0.9,
+   "combined": false
+  },
+  {
+   "rel": "2023/2023년 3AB 외과 턴말 복원.docx",
+   "year": 2023,
+   "ext": ".docx",
+   "base": "2023년 3AB 외과 턴말 복원.docx",
+   "size_mb": 5.5,
+   "combined": false
+  },
+  {
+   "rel": "2023/2023년 3AB~2AB 외과 턴말 합본.pdf",
+   "year": 2023,
+   "ext": ".pdf",
+   "base": "2023년 3AB~2AB 외과 턴말 합본.pdf",
+   "size_mb": 5.1,
+   "combined": true,
+   "covers": [
+    "2023-3AB",
+    "2024-2AB"
+   ]
+  },
+  {
+   "rel": "2023/2023년 3CD 외과 턴말 복원.docx",
+   "year": 2023,
+   "ext": ".docx",
+   "base": "2023년 3CD 외과 턴말 복원.docx",
+   "size_mb": 3.8,
+   "combined": false
+  },
+  {
+   "rel": "2023/2023년 4AB 외과 턴말 복원.docx",
+   "year": 2023,
+   "ext": ".docx",
+   "base": "2023년 4AB 외과 턴말 복원.docx",
+   "size_mb": 4.1,
+   "combined": false
+  },
+  {
+   "rel": "2023/2023년 4CD 외과 턴말 복원.docx",
+   "year": 2023,
+   "ext": ".docx",
+   "base": "2023년 4CD 외과 턴말 복원.docx",
+   "size_mb": 3.0,
+   "combined": false
+  },
+  {
+   "rel": "2024/2024년 3AB 외과 턴말 복원.pdf",
+   "year": 2024,
+   "ext": ".pdf",
+   "base": "2024년 3AB 외과 턴말 복원.pdf",
+   "size_mb": 1.6,
+   "combined": false
+  },
+  {
+   "rel": "2024/2024년 통합턴 외과 턴말 복원_v2.docx",
+   "year": 2024,
+   "ext": ".docx",
+   "base": "2024년 통합턴 외과 턴말 복원_v2.docx",
+   "size_mb": 4.2,
+   "combined": false
+  },
+  {
+   "rel": "2025/2024~2022년 턴말 통합본.pdf",
+   "year": 2025,
+   "ext": ".pdf",
+   "base": "2024~2022년 턴말 통합본.pdf",
+   "size_mb": 31.5,
+   "combined": true,
+   "covers": [
+    "2022",
+    "2024"
+   ]
+  },
+  {
+   "rel": "2025/2025 1AB, 1CD 외과 턴말 복원.docx",
+   "year": 2025,
+   "ext": ".docx",
+   "base": "2025 1AB, 1CD 외과 턴말 복원.docx",
+   "size_mb": 3.9,
+   "combined": false
+  },
+  {
+   "rel": "2025/2025 2AB 외과 턴말 복원.docx",
+   "year": 2025,
+   "ext": ".docx",
+   "base": "2025 2AB 외과 턴말 복원.docx",
+   "size_mb": 4.3,
+   "combined": false
+  },
+  {
+   "rel": "2025/2025 2CD 외과 턴말 복원.docx",
+   "year": 2025,
+   "ext": ".docx",
+   "base": "2025 2CD 외과 턴말 복원.docx",
+   "size_mb": 3.5,
+   "combined": false
+  },
+  {
+   "rel": "2025/2025 3AB 외과 턴말 복원.docx",
+   "year": 2025,
+   "ext": ".docx",
+   "base": "2025 3AB 외과 턴말 복원.docx",
+   "size_mb": 3.0,
+   "combined": false
+  },
+  {
+   "rel": "2025/2025 3CD 외과 턴말 복원.docx",
+   "year": 2025,
+   "ext": ".docx",
+   "base": "2025 3CD 외과 턴말 복원.docx",
+   "size_mb": 2.8,
+   "combined": false
+  },
+  {
+   "rel": "2026/2026 3AB 외과 턴말 복원.pdf",
+   "year": 2026,
+   "ext": ".pdf",
+   "base": "2026 3AB 외과 턴말 복원.pdf",
+   "size_mb": 11.0,
+   "combined": false
+  },
+  {
+   "rel": "2026/2026 3CD 외과 턴말 복원.pdf",
+   "year": 2026,
+   "ext": ".pdf",
+   "base": "2026 3CD 외과 턴말 복원.pdf",
+   "size_mb": 1.9,
+   "combined": false
+  },
+  {
+   "rel": "2026/2026 4AB 외과 턴말 복원.pdf",
+   "year": 2026,
+   "ext": ".pdf",
+   "base": "2026 4AB 외과 턴말 복원.pdf",
+   "size_mb": 0.9,
+   "combined": false
+  },
+  {
+   "rel": "2026/2026 4CD 외과 턴말 복원.pdf",
+   "year": 2026,
+   "ext": ".pdf",
+   "base": "2026 4CD 외과 턴말 복원.pdf",
+   "size_mb": 0.4,
+   "combined": false
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "id": 74,
+ "section": "BP",
+ "topic": "급성 담관염(acute cholangitis) 중증도별 배액 치료",
+ "stem": "며칠 전부터 시작된 발열, 황달을 주소로 내원한 65세 남성이다. 활력징후는 혈압 90/50mmHg, 맥박 110회/분, 호흡수 20회/분, 체온 38.9도이다. 검사 결과는 아래와 같다. MRCP에서 좌우측 간내담관(intrahepatic duct)이 모두 확장되어 있고 간문부(hilar area)에 filling defect가 보인다. 다음 중 올바른 처치는?",
+ "labTable": [
+  [
+   "Hb",
+   "13.2 g/dL"
+  ],
+  [
+   "WBC",
+   "19,800/mm³"
+  ],
+  [
+   "Total bilirubin",
+   "18.1 mg/dL"
+  ],
+  [
+   "Direct bilirubin",
+   "15.2 mg/dL"
+  ],
+  [
+   "ALP",
+   "460 IU/L"
+  ],
+  [
+   "AST/ALT",
+   "80/210 IU/L"
+  ],
+  [
+   "GGT",
+   "450 IU/L"
+  ]
+ ],
+ "options": [
+  "담관절제술",
+  "담낭절제술",
+  "PTBD",
+  "PTGD",
+  "간우엽절제술"
+ ],
+ "answerKeys": [
+  3
+ ],
+ "multi": false,
+ "examCount": 7,
+ "appearances": [
+  "2019·2AB",
+  "2020·1AB",
+  "2021·1CD",
+  "2021·3CD",
+  "2022·1CD",
+  "2022·3AB",
+  "2023·1CD"
+ ],
+ "source_files": [
+  "2022/2022년 3AB 외과 턴말 복원.docx",
+  "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1CD 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [
+  "e0cfa0a3ba6.png"
+ ],
+ "images_dropped": [
+  {
+   "file": "ebe4a7b2a4e.png",
+   "reason": "e0cfa0a3ba6.png와 동일한 MRCP 사진의 중복 캡처"
+  },
+  {
+   "file": "e6061d69d00.jpg",
+   "reason": "e0cfa0a3ba6.png와 동일한 MRCP 사진의 저화질 중복 캡처"
+  },
+  {
+   "file": "e70c4869822.png",
+   "reason": "e0cfa0a3ba6.png와 동일한 MRCP 사진의 중복 캡처"
+  },
+  {
+   "file": "e6a8ffa3665.png",
+   "reason": "형광투시 담관조영술(cholangiogram) 사진으로, 같은 선지 세트를 공유하는 다른 문항(19-3CD, 54세 남자·상복부통증·MRCP 언급 없음)에 붙은 그림이라 이 문항과 무관하여 제외"
+  }
+ ],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "이 클러스터에는 사실상 두 가지 다른 상황이 섞여 있었다. (1) 활력징후·검사수치 표기 차이: 개별 복원본(2022년 3AB 턴말 복원, qid 74 본체)은 '혈압 90/70, WBC 19,000 정도, AST/ALT 105/210'으로 적었고, 22-3AB/1CD·21-1CD/3CD·20-1AB·19-2AB 여러 회차를 아우르는 합본(qid 455)과 이를 그대로 옮긴 2023년 복원본 3건(qid 1689/1806/2097)은 모두 'V/S 90/50-110-20-38.9, Hb 13.2, WBC 19,800, AST/ALT 80/210'으로 일치했다. 원본 docx를 직접 열어 두 표기가 실제로 그렇게 적혀 있음을 확인했고, 다수(4건)가 일치하는 후자를 채택했다. 두 표기 모두 저혈압·빈맥·백혈구증가·고빌리루빈혈증이라는 임상적 결론(패혈증 동반 중증 담관염)은 같아 정답에는 영향이 없다. (2) qid 456('19-3CD, 상복부통증과 황달로 내원한 54세 남자, T.bili 18.2, WBC 16500, 혈압 90/60, MRCP 언급 없음, 형광투시 담관조영술 사진 e6a8ffa3665.png')은 선지·정답(PTBD)이 동일해 같은 클러스터로 묶였으나, 환자 나이·활력징후·검사수치·영상 소견이 모두 달라 실제로는 같은 선지 세트를 재사용한 별개의 기출 문항으로 판단했다. 이 문항의 stem·labTable·images_final에는 반영하지 않았다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "발열, 황달이라는 담도 감염 소견에 순환기계 이상(저혈압, 빈맥)이 겹쳐 있어 단순 담관염이 아니라 패혈증을 동반한 상태인지를 먼저 가려야 한다. Tokyo Guidelines(TG18)의 급성 담관염 중증도 분류 기준에 이 환자의 소견을 하나씩 대입해 어느 등급에 해당하는지 정하고, 그 등급에 맞는 배액 시기와 방법을 고른다.",
+  "approachTable": [
+   [
+    "발열 38.9도 + 황달",
+    "담도 감염(acute cholangitis)을 시사하는 임상 소견"
+   ],
+   [
+    "WBC 19,800/mm³, Total bilirubin 18.1mg/dL",
+    "백혈구 이상, 고빌리루빈혈증 등 전신염증·담즙정체 소견"
+   ],
+   [
+    "혈압 90/50mmHg, 맥박 110회/분",
+    "순환기계 기능부전(패혈성 쇼크)을 시사하는 소견"
+   ],
+   [
+    "MRCP: 양측 간내담관 확장 + hilar area filling defect",
+    "간문부(hilar) 수준의 담도 폐쇄로, 유두부를 통한 접근만으로는 양측 담관계를 한 번에 감압하기 어려운 위치"
+   ]
+  ],
+  "correct": "이 환자는 저혈압이라는 순환기계 기능부전 소견이 동반되어 있어 중증(Grade III) 급성 담관염에 해당하며, Grade III에서는 초기 항생제·수액 치료에 대한 반응을 기다리지 않고 즉시 담도 배액을 시행해야 한다. 또한 MRCP상 폐쇄 부위가 간문부 수준으로 양측 간내담관을 모두 침범하고 있어, 내시경적 접근보다 경피경간담도배액술(percutaneous transhepatic biliary drainage, PTBD)이 우선 선택된다. 담관절제술이나 간우엽절제술 같은 근치적 절제는 패혈증이 조절되고 진단(악성 여부 등)이 확정된 이후에 고려할 선택지이고, 담낭절제술과 PTGD는 담낭을 대상으로 한 술식이라 담관 폐쇄가 원인인 이 담관염을 해결하지 못한다.",
+  "pearl": "패혈증(저혈압)을 동반한 급성 담관염은 Grade III로, 초기 치료 반응을 기다리지 않고 즉시 담도 배액이며, 폐쇄 부위가 간문부(hilar)로 양측 담관을 침범했다면 PTBD가 우선이다.",
+  "concepts": [
+   "acute-cholangitis-tokyo-guidelines"
+  ],
+  "compare_note": "저혈압 없이 발열·황달·검사 이상만 있는 Grade II라면 급한 즉시 배액 대신 항생제 등 초기 치료를 먼저 시행하고 반응이 부족할 때 조기 배액을 계획하며, 폐쇄 부위가 원위부 담도(담석 등)로 유두부 접근이 쉬운 경우라면 PTBD 대신 ERCP를 통한 내시경적 배액이 우선된다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [
+  {
+   "slug": "acute-cholangitis-tokyo-guidelines",
+   "title": "급성 담관염 Tokyo Guidelines(TG18) 진단기준·중증도 분류·배액 치료",
+   "why": "발열, 황달로 내원한 환자에서 급성 담관염을 진단하고, 중증도(Grade I/II/III)에 따라 배액 시기(초기 치료 후 vs 즉시)와 배액 방법(ERCP, PTBD, 수술적 배액)을 선택하는 문항에 공통으로 필요한 개념."
+  }
+ ],
+ "source_version": 1,
+ "content_version": 1
+}

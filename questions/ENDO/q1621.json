@@ -1,0 +1,94 @@
+{
+ "id": 1621,
+ "section": "ENDO",
+ "topic": "갑상선수질암",
+ "stem": "27세 여자가 초음파 검사에서 갑상선 좌엽에 2cm의 결절이 발견되었다. 초음파상 결절은 기도 및 식도와 거리를 두고 갑상선 중앙부에 위치하고 있으며 림프절 전이 의심 소견은 없었다. 시행한 혈액검사와 세침흡인검사 소견은 다음과 같다. 처치는?",
+ "labTable": [
+  [
+   "TSH",
+   "8.5 uIU/mL (참고치 0.4-4.1)"
+  ],
+  [
+   "Free T4",
+   "1.4 ng/dL (참고치 0.9-1.8)"
+  ],
+  [
+   "Calcitonin",
+   "150 pg/mL (참고치 0-10)"
+  ],
+  [
+   "세침흡인검사(FNA)",
+   "Suspicious for medullary thyroid carcinoma"
+  ]
+ ],
+ "options": [
+  "6개월마다 초음파 추적관찰",
+  "FNAC 재검",
+  "바늘 생검",
+  "갑상선좌엽절제술",
+  "갑상선전절제술 및 중앙구역 림프절 절제술"
+ ],
+ "answerKeys": [
+  5
+ ],
+ "multi": false,
+ "examCount": 5,
+ "appearances": [
+  "2018 이전",
+  "2020·4CD",
+  "2021·2AB",
+  "2023·2CD",
+  "2023·4CD"
+ ],
+ "source_files": [
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023 2CD 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf",
+  "2023/2023년 4CD 외과 턴말 복원.docx",
+  "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "5개 버전 중 4개(2023 2CD, 2023 4CD, 2022 4CD~2023 2AB 합본, 2023 3AB~2AB 합본)는 결절 크기 2cm, 세침흡인검사 'Suspicious medullary thyroid cancer'로 일치했고, 나머지 1개(2022년 대합본, src_tags 21-2AB·20-4CD)는 결절 크기 0.8cm, 세침흡인검사 'Suspicious malignancy'로 다르게 기재되어 있었다. 두 abs_path 원본을 직접 열어 확인한 결과, 2022 대합본 원본에는 실제로 0.8cm/Suspicious malignancy로 적혀 있었으나 선지 5번 '갑상선전절제술 및 중앙구역 림프절 절제술'이 빨간 글씨로(같은 문서 내 다른 문항의 정답 표시도 동일하게 빨간 글씨) 표시되어 있고 바로 아래 '해설: calcitonin 증가 '을 ' MTC'로가 붙어 있어 정답이 5번임을 확인했다. 2023 2CD 원본에는 2cm/Suspicious medullary thyroid cancer로 적혀 있고 선지 5번까지 동일하며 문서에 '답: 5'가 명시되어 있어 이 역시 정답 5번을 직접 확인했다. 즉 이 문항은 2020~2021학년도(20-4CD, 21-2AB)에는 0.8cm 결절과 비특이적인 'Suspicious malignancy'로 출제되었다가, 이후 2022~2023학년도 재출제 시 2cm 결절과 세포검사에서 수질암을 특정한 'Suspicious medullary thyroid cancer'로 수치와 판독이 구체화되어 재사용된 것으로 판단된다. 정답과 처치 논리(calcitonin 상승에 근거한 수질암 진단과 전절제술)는 두 버전에서 동일하므로, 더 많은 독립 재구성본(4/5)이 일치하고 출제 이력상 최신인 2cm/medullary thyroid cancer 버전을 채택했다. extract 파일에는 추출 스크립트가 5번째 선지와 '답' 표기를 놓쳐 4개 선지만 남아 있었으나, 실제로는 두 원본 문서 모두에서 5번째 선지와 정답 표시가 확인되어 generated_options 없이 원본 그대로 복원했다. 분과 라벨은 원본 3개 버전 모두 '총론'이었으나 대합본이 상위 분과 헤딩을 물려받지 못한 오염이며, 문항 내용이 갑상선 결절의 진단과 수술 범위를 다루므로 ENDO로 교정했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "이 환자의 처치를 정하는 결정적 단서는 혈청 calcitonin 수치와 세침흡인검사(fine needle aspiration, FNA) 결과다. 두 소견을 함께 해석하면 이미 임상적으로 갑상선수질암(medullary thyroid carcinoma, MTC) 진단이 선 상태로 보고 수술 범위를 정해야 한다.",
+  "approachTable": [
+   [
+    "Calcitonin 150 pg/mL(참고치 0-10)",
+    "정상 상한의 약 15배로 뚜렷하게 상승, C세포(parafollicular cell) 기원 종양인 갑상선수질암을 시사하는 특이 표지자"
+   ],
+   [
+    "세침흡인검사: Suspicious for medullary thyroid carcinoma",
+    "세포검사 결과도 수질암 가능성을 뒷받침, Bethesda 체계상 악성 의심(범주 V) 수준의 소견이며 calcitonin 상승과 함께 사실상 진단을 확정하는 근거"
+   ],
+   [
+    "TSH 8.5(경도 상승), Free T4 1.4(정상)",
+    "TSH가 억제되어 있지 않아 기능항진결절(hot nodule) 가능성은 낮음, 갑상선스캔 없이 초음파와 세침흡인검사로 바로 진행하는 경로가 타당함을 뒷받침"
+   ],
+   [
+    "결절이 기도·식도와 거리를 둔 갑상선 중앙부 위치, 림프절 전이 의심 소견 없음",
+    "국소 침범이나 영상학적 림프절 전이 증거가 없어 기관·식도 합병절제나 측경부곽청술 같은 확대 수술까지는 필요하지 않음"
+   ]
+  ],
+  "correct": "Bethesda 분류상 악성 의심(범주 V) 수준의 세침흡인검사 소견에 더해 calcitonin이 정상 상한의 10배 이상으로 뚜렷하게 상승해 있어, 이 결절은 갑상선수질암으로 사실상 확진된 상태로 간주하고 수술을 계획한다. 유두암이나 여포성 종양처럼 세포검사만으로 조직형이 확정되지 않는 결절은 진단 목적의 갑상선엽절제술로 시작할 수 있지만, 수질암은 여포세포가 아닌 C세포에서 기원해 갑상선호르몬을 만들지 않으므로 수술 후 갑상선글로불린으로 재발을 추적할 수 없고, 산발성이라도 반대쪽 엽에 잠재 병변이 남아 있을 위험을 배제하기 어렵다. 따라서 진단이 이미 선 수질암에서는 좌엽절제술에 그치지 않고 갑상선전절제술로 양쪽 엽을 모두 제거하며, 영상에서 뚜렷한 림프절 전이가 없어도 원발 종양이 5mm를 넘으면 잠재 전이 확률이 높아 중앙구역 림프절 절제술(central compartment lymph node dissection)을 예방적으로 함께 시행하는 것이 표준이다. 수술 후에는 calcitonin과 CEA로 재발을 추적한다.",
+  "pearl": "calcitonin이 정상 상한의 여러 배로 오르고 세침흡인검사가 수질암을 시사하면 그 자체로 진단이 선 것이나 마찬가지이며, 수질암은 갑상선글로불린 추적이 불가능하고 반대쪽 엽에 잠재 병변이 남을 위험이 있어 엽절제술이 아니라 전절제술과 예방적 중앙구역 림프절 절제술로 간다.",
+  "concepts": [
+   "thyroid-nodule-workup"
+  ],
+  "compare_note": "같은 소견이라도 세침흡인검사가 여포종양 의심(Bethesda IV)처럼 조직형이 아직 정해지지 않은 범주이고 calcitonin 상승이 없었다면, 진단 목적의 갑상선엽절제술로 시작해 최종 병리 결과를 보고 전절제술 여부를 다시 정한다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [],
+ "concept_gap": "thyroid-nodule-workup 카드는 Bethesda 범주별 권장 처치(범주 V는 근전절제술 또는 엽절제술)까지는 다루지만, calcitonin 상승으로 갑상선수질암이 강하게 시사되는 경우 조직형이 이미 특정되었으므로 엽절제술이 아니라 전절제술 및 예방적 중앙구역 림프절 절제술을 선택해야 하는 이유(갑상선글로불린 추적 불가, 반대쪽 엽 잠재 병변 위험, 원발종양 5mm 초과 시 예방적 중앙림프절절제 표준)는 다루지 않는다.",
+ "source_version": 1,
+ "content_version": 1
+}

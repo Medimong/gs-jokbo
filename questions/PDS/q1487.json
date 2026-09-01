@@ -1,0 +1,121 @@
+{
+ "id": 1487,
+ "section": "PDS",
+ "topic": "쇄항(항문직장기형) 신생아 평가 알고리즘",
+ "stem": "재태기간 39주 2일, 체중 3320g으로 정상 분만되어 태어난 남자 신생아에서 쇄항(항문직장기형, imperforate anus)이 진단되었다. 다음 표는 쇄항이 확인된 신생아를 평가하는 표준 알고리즘이다. 괄호 안에 들어가야 할 검사로 가장 적절한 것은?",
+ "labTable": [
+  [
+   "1단계: 신생아 남아, 항문직장기형 진단 후 회음부 진찰(perineal inspection)",
+   ""
+  ],
+  [
+   "생후 20~24시간 이내 평가 항목",
+   "척추(spine) 단순촬영, 신장초음파(kidney US), 요검사(urinalysis), 천골(sacrum) 단순촬영, 척수초음파(spinal US), 식도폐쇄 배제(R/O esophageal atresia), ( )"
+  ],
+  [
+   "2단계",
+   "재평가 및 측와위 교차촬영(cross-table lateral film)"
+  ],
+  [
+   "회음부누공(perineal fistula)",
+   "일차 항문성형술(anoplasty)"
+  ],
+  [
+   "미골 아래 직장가스, 동반기형 없음(rectal gas below coccyx, no associated defects)",
+   "PSARP 고려(장루 동반 여부는 선택적)"
+  ],
+  [
+   "미골 위 직장가스, 동반기형/천골 이상/편평 둔부(rectal gas above coccyx, associated defects, abnormal sacrum, flat bottom)",
+   "장루조성술(colostomy)"
+  ]
+ ],
+ "options": [
+  "Brain SONO",
+  "Abdominal CT",
+  "Thoracic X-ray",
+  "Echocardiography",
+  "Esophageal contrast study"
+ ],
+ "answerKeys": [
+  4
+ ],
+ "multi": false,
+ "examCount": 6,
+ "appearances": [
+  "2022·1CD",
+  "2022·4CD",
+  "2023·1AB",
+  "2023·2AB"
+ ],
+ "source_files": [
+  "2022/2022년 1CD 외과 턴말 복원_v2.docx",
+  "2022/2022년 4CD~2AB 외과 턴말 합본.pdf",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1AB 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [
+  "ec99d8d37c5.png"
+ ],
+ "images_dropped": [
+  {
+   "file": "e8665644b82.jpg",
+   "reason": "ec99d8d37c5.png과 완전히 동일한 쇄항 평가 알고리즘 차트를 재스캔한 저해상도 중복 이미지. 표 내용을 labTable로 옮겼으므로 대표 이미지 1장만 남긴다."
+  },
+  {
+   "file": "e25a56e4d33.jpg",
+   "reason": "동일 사유. ec99d8d37c5.png과 동일한 차트의 중복 이미지."
+  },
+  {
+   "file": "e4b744e25bf.png",
+   "reason": "동일 사유. ec99d8d37c5.png과 동일한 차트의 중복 이미지."
+  }
+ ],
+ "image_dependent": true,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "발문의 '정상 분만을 시행한 남자아이'는 분만의 주체가 산모임을 고려해 '정상 분만되어 태어난 남자 신생아'로 다듬었다. 6개 복원 버전 모두 발문·선지·정답(④ Echocardiography)이 동일해 이견이 없었다. 이미지 4장(e8665644b82.jpg, e25a56e4d33.jpg, ec99d8d37c5.png, e4b744e25bf.png)을 모두 직접 열어 확인한 결과 전부 동일한 쇄항(anorectal malformation) 평가 흐름도('Newborn male - Anorectal malformation' 알고리즘)였고, 빈칸(붉은 테두리 박스)은 생후 20~24시간 이내 시행하는 척추/신장초음파/요검사/천골/척수초음파/식도폐쇄 배제 검사 목록 옆에 위치했다. 이 목록은 VACTERL 연관 중 척추(V), 신장(R), 기관식도(TE) 항목에 해당하는 검사이고 심장(C) 항목만 빠져 있어 정답은 심초음파(Echocardiography)이다. 표는 흐름도 형태라 단계별로 나누어 labTable에 옮겼고, 이미지 4장은 모두 같은 차트의 재스캔본이라 가장 선명한 1장(ec99d8d37c5.png)만 남기고 나머지는 제외했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "쇄항이 진단된 신생아에서 생후 20~24시간 이내에 시행하는 평가 항목 중 하나가 비어 있다. 나열된 항목이 어느 동반기형을 찾는 검사인지 짝지어 보면 빠진 자리가 드러난다.",
+  "approachTable": [
+   [
+    "척추 단순촬영(spine X-ray), 척수초음파(spinal US)",
+    "V, 척추(vertebral) 기형 평가"
+   ],
+   [
+    "신장초음파(kidney US), 요검사(urinalysis)",
+    "R, 신장(renal) 기형 평가"
+   ],
+   [
+    "식도폐쇄 배제(R/O esophageal atresia, 식도조영술 또는 비위관 삽입)",
+    "TE, 기관식도(tracheoesophageal) 기형 평가"
+   ],
+   [
+    "( )",
+    "C, 심장(cardiac) 기형 평가"
+   ]
+  ],
+  "correct": "쇄항(imperforate anus)은 VACTERL 연관, 즉 척추(vertebral) 이상, 항문직장(anorectal) 기형, 심장(cardiac) 기형, 기관식도(tracheoesophageal) 누공, 신장(renal) 기형, 사지(limb) 기형과 함께 나타나는 경우가 많다. 이 표에 나열된 척추 단순촬영·척수초음파, 신장초음파·요검사, 식도폐쇄 배제(식도조영술 또는 비위관 삽입)는 각각 VACTERL의 척추, 신장, 기관식도 항목을 확인하는 검사이며, 심장 항목을 확인하는 검사만 빠져 있으므로 괄호에는 심초음파(echocardiography)가 들어간다. 신생아기에는 심초음파를 다른 검사와 함께 가장 먼저 시행하는데, 이는 이후 항문성형술이나 장루조성술처럼 전신마취를 동반하는 수술을 진행하기 전에 마취 위험을 좌우하는 심기형 유무를 미리 알아야 하기 때문이다. 따라서 정답은 ④ Echocardiography이다.",
+  "pearl": "쇄항 신생아 평가표에 척추, 신장, 식도 세 항목이 이미 나열돼 있으면 VACTERL의 나머지 축인 심장, 즉 심초음파가 빠진 자리다. 심초음파를 먼저 챙기는 이유는 진단 목적뿐 아니라 수술 마취 전 위험도를 정하기 위해서라는 점까지 기억해야 한다.",
+  "concepts": [
+   "imperforate-anus-workup"
+  ],
+  "compare_note": "이 알고리즘의 아래 단계는 쇄항 자체의 유형에 따라 수술 시기와 방법이 갈리는 것을 보여준다. 회음부누공처럼 누공이 낮게 열린 낮은 유형(low type)은 신생아기에 일차 항문성형술(anoplasty)로 바로 교정하지만, 직장요도루·직장질루처럼 누공이 높은 유형(high type)이거나 천골 이상, 편평한 둔부 같은 동반기형이 있으면 먼저 장루조성술(colostomy)로 분변을 전환한 뒤 후기에 후방시상항문직장성형술(posterior sagittal anorectoplasty, PSARP)을 시행한다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [
+  {
+   "slug": "imperforate-anus-workup",
+   "title": "쇄항(항문직장기형) 신생아 평가와 VACTERL 연관, 수술 시기 결정",
+   "why": "쇄항이 진단되면 VACTERL 연관(척추 vertebral, 항문직장 anorectal, 심장 cardiac, 기관식도 tracheoesophageal, 신장 renal, 사지 limb) 동반기형을 찾는 표준 알고리즘이 반복 출제된다. 카드에는 생후 20~24시간 이내 시행하는 항목별 검사(척추 단순촬영·척수초음파로 척추, 심초음파로 심장, 식도조영술 또는 비위관 삽입으로 기관식도, 신장초음파·요검사로 신장, 사지 단순촬영으로 사지)와 신생아기에 심초음파를 다른 검사보다 먼저 시행하는 이유(수술 마취 전 심기형 확인)를 정리한다. 이어서 회음부누공처럼 낮은 유형은 일차 항문성형술(anoplasty)로 바로 교정하고, 직장요도루·직장질루를 동반한 높은 유형이나 천골 이상·편평 둔부 같은 동반기형이 있으면 장루조성술(colostomy)을 먼저 시행한 뒤 후방시상항문직장성형술(PSARP)로 이행하는 수술 시기·방법 구분표를 함께 싣는다."
+  }
+ ],
+ "source_version": 1,
+ "content_version": 1
+}

@@ -1,0 +1,111 @@
+{
+ "id": 2548,
+ "section": "BR",
+ "topic": "유방암 보조요법",
+ "stem": "61세 여자가 좌측 침윤성 유관암(invasive ductal carcinoma) 진단으로 좌측 유방전절제술 및 감시림프절 생검술(total mastectomy with sentinel lymph node biopsy)을 시행받았다. 외과병리학적 검사 및 면역검사 결과는 다음과 같다. 이 환자에서 보조 요법으로 선택할 수 있는 치료 방법 또는 약물 중 적절한 것은?",
+ "labTable": [
+  [
+   "침윤성 종양 크기(invasive tumor size)",
+   "3.8 x 3.7 x 2.5 cm"
+  ],
+  [
+   "핵등급(nuclear grade)",
+   "3/3"
+  ],
+  [
+   "조직학적 등급(histologic grade)",
+   "III/III"
+  ],
+  [
+   "절제연(surgical margins)",
+   "음성(clear)"
+  ],
+  [
+   "전이 림프절 수 / 검사 림프절 수",
+   "5개 / 21개"
+  ],
+  [
+   "ER",
+   "95% 초과, 양성"
+  ],
+  [
+   "PR",
+   "음성"
+  ],
+  [
+   "c-erbB2(HER2)",
+   "음성"
+  ]
+ ],
+ "options": [
+  "표적치료(trastuzumab) + 항암화학요법 + 방사선치료 + 항호르몬치료",
+  "표적치료(trastuzumab) + 항암화학요법 + 방사선치료",
+  "표적치료(trastuzumab) + 방사선치료 + 항암화학요법",
+  "방사선치료 + 항호르몬치료 + 항암화학요법",
+  "방사선치료 + 항암화학요법"
+ ],
+ "answerKeys": [
+  4
+ ],
+ "multi": false,
+ "examCount": 4,
+ "appearances": [
+  "2023·3AB",
+  "2025·2CD"
+ ],
+ "source_files": [
+  "2025/2025 2CD 외과 턴말 복원.docx",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 3AB 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "4개 버전 모두 발문과 선지, 정답이 사실상 동일하다(줄바꿈 위치와 '61 세'의 띄어쓰기 차이만 있음, '61세'로 통일). 병리 소견은 원본에서 발문 아래 병리보고서 형식의 줄글로 붙어 있었고(qid 1883 버전은 별도 tables 필드로도 동일 내용을 중복 기재), 이를 labTable로 옮기고 발문에서는 걷어냈다. 4개 버전 모두 답을 4번(방사선치료 + 항호르몬치료 + 항암화학요법)으로 일치시켰고 answer_option 텍스트도 동일해 answer_conflict는 없다. 이미지가 첨부된 버전은 없다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "이 환자의 보조요법은 병리 소견 네 가지, 즉 종양 크기와 등급, 림프절 전이 개수, 호르몬수용체 상태, HER2 상태를 각각 표준 프로토콜에 대입해 결정한다.",
+  "approachTable": [
+   [
+    "종양 크기 3.8cm, 핵등급/조직학적 등급 III/III(고등급), PR 음성, 림프절 전이 양성",
+    "고위험 병리소견으로 보조 항암화학요법 적응"
+   ],
+   [
+    "전이 림프절 5개(4개 이상)",
+    "유방전절제술 후 방사선치료(post-mastectomy radiotherapy, PMRT)의 절대 적응증"
+   ],
+   [
+    "ER 95% 초과 양성, 61세로 폐경 후",
+    "호르몬수용체 양성, 항호르몬요법 적응. 폐경 후이므로 아로마타제 억제제가 타목시펜보다 우선"
+   ],
+   [
+    "c-erbB2(HER2) 음성",
+    "HER2 표적치료(trastuzumab) 적응 아님"
+   ]
+  ],
+  "correct": "네 가지 병리 소견을 아형별 보조요법 표(개념 카드 참조)에 대입하면 이 환자는 호르몬수용체 양성, HER2 음성 아형이면서 종양 크기, 고등급, 다발 림프절 전이라는 고위험 인자를 모두 갖추고 있어 항암화학요법이 필요하고, ER 양성이므로 항호르몬치료가 필요하며, 전이 림프절이 4개 이상이므로 유방전절제술 후 방사선치료가 필요하다. 반면 c-erbB2(HER2)가 음성이므로 trastuzumab을 포함한 표적치료는 적응이 되지 않는다. 따라서 표적치료가 포함된 1, 2, 3번은 모두 틀리고, 항호르몬치료가 빠진 5번도 ER 양성 소견과 맞지 않아 틀리다. 방사선치료, 항호르몬치료, 항암화학요법을 모두 포함한 4번이 정답이다.",
+  "pearl": "HER2(c-erbB2) 음성이면 trastuzumab이 포함된 선지는 바로 지운다. 유방전절제술 후 방사선치료는 종양 크기나 절제연이 아니라 전이 림프절이 4개 이상이면 그 자체로 적응증이 된다는 점이 이 문항의 핵심 갈림길이다.",
+  "concepts": [
+   "breast-cancer-adjuvant-therapy"
+  ],
+  "compare_note": "같은 병리소견에서 c-erbB2(HER2)가 양성이었다면 trastuzumab을 포함한 표적치료가 추가되어 1번이 정답이 된다. 전이 림프절이 1~2개뿐이고 종양이 5cm 미만, 절제연 음성이었다면 PMRT의 절대 적응증에서 벗어나 방사선치료 없이 항호르몬치료와 항암화학요법만 남는 조합도 가능해진다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [
+  {
+   "slug": "breast-cancer-adjuvant-therapy",
+   "title": "유방암 보조요법 결정: 아형별 표준 치료와 유방전절제술 후 방사선치료 적응증",
+   "why": "유방암 수술 후 보조요법을 병리 아형별로 정리하는 개념 카드가 필요하다. 호르몬수용체 양성/HER2 음성, HER2 양성, 삼중음성 세 아형별 표준 보조요법을 표로 정리하고, 항암화학요법 적응 기준(종양 크기, 림프절 전이 개수, 조직학적/핵등급, Oncotype DX 같은 유전자 검사가 적용되는 범위와 한계, 특히 이 문항처럼 림프절 전이가 4개 이상으로 많으면 유전자 검사 없이 화학요법이 바로 적응이 되는 이유)을 다뤄야 한다. 항호르몬요법은 폐경 전후로 타목시펜과 아로마타제 억제제가 왜 갈리는지(난소 기능 억제 여부, aromatase의 주 에스트로겐원 여부)와 표준 투여 기간(5년, 고위험군 10년 연장)을 설명해야 한다. 표적치료는 HER2 양성일 때만 trastuzumab(±pertuzumab)이 적응이 되고 HER2 음성에는 절대 쓰지 않는다는 원칙을 명확히 해야 한다. 마지막으로 이 문항의 핵심 갈림길인 유방전절제술 후 방사선치료(PMRT) 적응증(종양 크기 5cm 이상, 절제연 침범, 전이 림프절 4개 이상 중 하나라도 해당하면 적응)을 표로 정리한다. qid 2548(61세 여자, ER 양성/PR 음성/HER2 음성, 림프절 5개 전이 사례)이 이 카드를 참조하며, breast-cancer-risk-factors(위험인자)와 breast-surgery-complications(수술 후 합병증) 카드는 보조요법을 다루지 않으므로 역할이 겹치지 않는다."
+  }
+ ],
+ "source_version": 1,
+ "content_version": 1
+}

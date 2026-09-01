@@ -1,0 +1,73 @@
+{
+ "id": 2260,
+ "section": "TACS",
+ "topic": "외상 초기평가",
+ "stem": "30세 남성이 차량 전복 사고로 응급실에 내원하였다. 응급실 내원 당시에는 혈압 120/90, 호흡수 30, 맥박 120이었지만 얼마 뒤 혈압이 60/37까지 떨어졌다. 다음 중 Advanced trauma life support에서 primary survey에 해당하지 않는 것은?",
+ "labTable": [],
+ "options": [
+  "ABGA",
+  "골반 X-ray",
+  "CT",
+  "신경학적 검사",
+  "초음파"
+ ],
+ "answerKeys": [
+  3
+ ],
+ "multi": false,
+ "examCount": 3,
+ "appearances": [
+  "2022·1AB",
+  "2022·3AB",
+  "2023·4CD"
+ ],
+ "source_files": [
+  "2023/2023년 4CD 외과 턴말 복원.docx",
+  "2022/2022년 3AB 외과 턴말 복원.docx",
+  "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "추출본 발문 앞에 붙어 있던 '링거젖산용액 8880ml'은 실제 이 문항(28번)이 아니라 바로 앞 27번 문항(70세 남자 3도 화상, Parkland formula 8시간 수액량 계산)의 5번 선지가 파싱 과정에서 앞줄로 흘러든 것이다. 2023년 4CD 원본 docx를 직접 열어 27번과 28번이 별개 문항으로 나뉘어 있음을 확인하고 오염된 앞줄을 제거했다. 5개 버전(2022년 1AB·3AB, 2023년 4CD 및 두 합본 PDF) 모두 발문과 5개 선지가 동일하며, 2022년 3AB 복원본에는 '답: 3'이 명시되어 있고 나머지 버전의 answer 필드도 모두 3으로 일치해 answer_conflict는 없다. 원본 대합본 docx에서는 이 문항이 [Multiple trauma CBL] 표제 아래 배치되어 있었는데, 그 표제만 분과로 전승되지 않고 '총론'으로 잘못 물려받은 것으로 보인다. 문항 내용이 다발성 외상 환자의 ATLS 일차평가를 묻는 전형적 외상 문항이므로 section을 TACS로 교정했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "knowledge",
+  "approach": "발문은 내원 당시 혈압 120/90, 맥박 120, 호흡수 30으로 이미 빈맥과 빈호흡을 보이던 환자가 얼마 뒤 혈압 60/37까지 떨어지는 경과를 보여준다. 즉 초기에 안정적으로 보였다가도 짧은 시간 안에 저혈량성 쇼크로 진행할 수 있는 불안정 외상 환자라는 뜻이다. 이런 환자에서는 ATLS(Advanced Trauma Life Support)의 일차평가(primary survey)를 시행하면서 침상 곁에서 즉시, 반복적으로 시행 가능한 보조 검사만 함께 진행하고, 시간이 걸리고 환자를 감시가 소홀한 공간으로 옮겨야 하는 정밀 영상검사는 뒤로 미룬다.",
+  "approachTable": [
+   [
+    "내원 당시 BP 120/90, HR 120, RR 30",
+    "빈맥·빈호흡이 이미 동반된 초기 대상성 상태"
+   ],
+   [
+    "얼마 뒤 BP 60/37로 급격히 저하",
+    "지속적 출혈에 의한 저혈량성 쇼크로 진행, 반복 재평가가 필요한 불안정 소견"
+   ]
+  ],
+  "correct": "ATLS 일차평가는 기도, 호흡, 순환, 신경학적 상태(disability), 노출을 순서대로 확인하는 ABCDE 평가와 그 자리에서 바로 시행하는 보조 검사로 구성된다. 순환 평가의 보조 검사로 동맥혈가스분석(ABGA), 흉부·골반 X-ray, FAST(초음파)가 포함되고, 신경학적 검사(GCS 등)는 D단계 자체에 해당한다. 이 검사들은 모두 환자를 이동시키지 않고 침상 곁에서 몇 분 안에 반복 시행할 수 있다는 공통점이 있다. 반면 CT는 조영제를 주입하고 환자가 검사대 위에서 수 분간 움직이지 않아야 하는 정밀 검사로, 혈역학적으로 안정된 환자에서 이차평가(secondary survey) 단계로 넘어간 뒤에만 시행한다. 이 환자는 혈압이 60/37까지 떨어진 불안정 환자이므로 CT실로 보내는 것 자체가 지연을 만들고 위험하며, primary survey의 범주에도 들지 않는다. 따라서 정답은 3번 CT다.",
+  "pearl": "ATLS primary survey의 보조 검사는 ABGA, 흉부·골반 X-ray, FAST, 심전도, 도뇨관·위관처럼 침상에서 바로, 반복해서 할 수 있는 것들이고, CT는 혈역학적으로 안정된 환자에서만 하는 secondary survey 영역이라는 점을 기억해 두면 primary survey 구성 문항은 바로 걸러낼 수 있다.",
+  "concepts": [
+   "blunt-abdominal-trauma"
+  ],
+  "compare_note": "만약 발문에서 활력징후가 처음부터 끝까지 안정적으로 유지되는 환자였다면 이차평가로 넘어가 CT를 시행하는 것이 적절한 다음 단계가 되었을 것이다. 이 문항은 활력징후가 악화되는 경과를 통해 환자가 불안정하다는 점을 보여주고 있어 CT가 primary survey 범주 밖이라는 점이 더 분명해진다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "ABGA는 순환·호흡 평가를 위해 침상에서 바로 시행하는 primary survey 보조 검사다.",
+  "2": "골반 X-ray는 골반골절에 의한 출혈 여부를 즉시 확인하는 primary survey 보조 검사다.",
+  "3": "CT는 혈역학적으로 안정된 환자에서만 시행하는 정밀 영상검사로 secondary survey 영역이며, primary survey에 해당하지 않는다.",
+  "4": "신경학적 검사(GCS 등)는 ABCDE 중 D(disability) 단계 자체로 primary survey에 포함된다.",
+  "5": "초음파(FAST)는 복강내 출혈 여부를 침상에서 즉시 확인하는 primary survey 보조 검사다."
+ },
+ "new_concepts": [],
+ "concept_gap": "blunt-abdominal-trauma 카드는 소생술 반응 판정(반응군, 일시반응군, 무반응군)과 damage control surgery 적응증에서 대량수혈 필요성을 언급하지만, 출혈성 쇼크를 추정 실혈량·맥박·혈압·호흡수 기준으로 나누는 ATLS Class I부터 IV까지의 등급 분류표와, 대량수혈 프로토콜(massive transfusion protocol)의 구체적 내용(적혈구·혈장·혈소판 1대1대1 비율 수혈, tranexamic acid 투여 기준과 투여 시점)은 다루지 않는다. 활력징후로 쇼크 등급을 판정하거나 수혈 전략을 직접 묻는 문항이 나오면 이 카드만으로는 감별이 부족하므로 표를 추가하면 좋다.",
+ "source_version": 1,
+ "content_version": 1
+}

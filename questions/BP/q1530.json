@@ -1,0 +1,13 @@
+{
+ "id": 1530,
+ "section": "BP",
+ "excluded": true,
+ "duplicate_of": 2215,
+ "exclude_reason": "이미지를 직접 열어 대조한 결과 q2215의 images_final(edfe26c1f75.png)과 이 문항의 이미지(e2c337b6664.png)가 동일한 담도수지도(schematic biliary tree)다. 적색 침범 범위(간문부 합류부와 우간관, 좌간관 보존)와 캡션 'a' 표기까지 완전히 일치하며 해상도만 다른 동일 원본의 재캡처본이다. 발문도 '(짤족) 아래 사진의 Bismuth-Corlette classification은?'으로 동일하고 선지(Bismuth 3a/3b/4/1/2)와 답(3a)도 동일해, q2215와 같은 문항으로 판정한다.",
+ "appearances_to_merge": [
+  "2022·4CD~2023·2AB 합본",
+  "2023·3AB~2AB 합본",
+  "2023·3CD 복원"
+ ],
+ "appearances_to_merge_applied": true
+}

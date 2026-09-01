@@ -1,0 +1,76 @@
+{
+ "id": 1480,
+ "section": "ENDO",
+ "topic": "갑상선 결절",
+ "stem": "경부 종괴를 주소로 내원한 환자에서 시행한 갑상선 초음파 검사에서 결절이 확인되었다. 결절은 크기 2.5cm이며 등에코(isoechoic)에 가까운 소견을 보였으나, 전후경이 좌우경보다 긴 taller-than-wide 소견이 확실하게 동반되었다. 갑상선기능검사(TFT)는 모두 정상범위였다. 다음 중 가장 적절한 다음 검사는?",
+ "labTable": [
+  [
+   "갑상선자극호르몬(TSH)",
+   "정상범위"
+  ],
+  [
+   "유리 T4(free T4)",
+   "정상범위"
+  ]
+ ],
+ "options": [
+  "식도위내시경(EGD)",
+  "경부 전산화단층촬영(CT)",
+  "경부 자기공명영상(MRI)",
+  "세침흡인검사(FNA)",
+  "양전자방출단층촬영(PET)"
+ ],
+ "answerKeys": [
+  4
+ ],
+ "multi": false,
+ "examCount": 1,
+ "appearances": [
+  "2022·1CD"
+ ],
+ "source_files": [
+  "2022/2022년 1CD 외과 턴말 복원_v2.docx",
+  "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx",
+  "2022/2022년 4CD~2AB 외과 턴말 합본.pdf",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": true,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "4개 버전 모두 발문과 정답(FNAC)이 일치한다. 원본에는 'UGI(3문제)'라는 메모가 발문 끝에 붙어 있었는데, 이는 다음 세 문항이 UGI 파트라는 복원자의 구획 표시일 뿐 이 문항의 내용과 무관하여 발문에서 제거했다. 또한 'TFT 결과는 모두 정상범위(괄호 안에 정상치도 모두 주어짐)'라는 원본 메모는 실제 시험지에 TSH·free T4 수치와 참고치가 괄호로 병기되어 있었다는 뜻이지만, 구체적 수치는 어느 복원본에도 남아 있지 않아 지어내지 않고 '정상범위'로만 labTable에 옮겼다. 분과는 '총론'으로 표시된 버전이 있었으나 이는 여러 턴을 묶은 대합본 문서가 이전 헤딩을 잘못 물려받은 흔적이며, 문항 내용(갑상선 결절 진단 알고리즘)에 따라 ENDO로 바로잡았다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "이 문항은 갑상선 결절 진단 알고리즘의 두 갈림길을 순서대로 통과해야 한다.",
+  "approachTable": [
+   [
+    "갑상선기능검사(TFT) 정상",
+    "기능항진 결절(hot nodule) 가능성이 낮아 갑상선스캔을 생략하고 곧바로 초음파 위험도 평가·FNA 여부 판단으로 진행한다"
+   ],
+   [
+    "2.5cm, 등에코(isoechoic)에 가까운 고형 결절",
+    "이 소견만 보면 저위험(low suspicion) 패턴에 가까워 보이고 FNA 역치는 1.5cm이다"
+   ],
+   [
+    "taller-than-wide 소견 확실",
+    "ATA/K-TIRADS가 규정한 고위험(high suspicion) 초음파 소견 중 하나로, 다른 소견이 온건해도 이 소견 하나만으로 결절을 고위험 범주로 분류하며 FNA 역치가 1cm으로 낮아진다"
+   ]
+  ],
+  "correct": "갑상선 결절 평가는 TSH부터 확인한다. TSH가 정상이므로 기능항진 결절을 감별할 갑상선스캔은 필요 없고, 바로 초음파 소견에 따른 위험도 분류로 넘어간다. 이 결절은 등에코에 가까워 언뜻 저위험 패턴처럼 보이지만, taller-than-wide 소견이 확실히 동반되어 있다. taller-than-wide는 ATA(2015)와 K-TIRADS가 규정한 고위험 초음파 소견 중 하나이며, 이 소견이 하나라도 있으면 다른 소견과 무관하게 결절을 고위험(high suspicion) 범주로 분류하고 FNA 역치를 1cm으로 낮춘다. 이 결절은 2.5cm으로 저위험 역치(1.5cm)와 고위험 역치(1cm) 어느 쪽을 적용해도 이미 크게 초과한다. 따라서 다음 검사는 세침흡인검사(FNA)이다.",
+  "pearl": "taller-than-wide 소견은 그 자체로 고위험 초음파 소견이다. 결절이 등에코나 고에코처럼 온건해 보여도 taller-than-wide 하나만 확실하면 고위험 범주로 분류되고 FNA 역치가 1cm으로 내려간다. 갑상선기능검사가 정상이면 스캔을 거치지 않고 바로 초음파 위험도 평가로 간다.",
+  "concepts": [
+   "thyroid-nodule-workup"
+  ],
+  "compare_note": "같은 개념 카드의 같은 표를 보면서도 초음파 소견이 반대면 정답이 정반대로 갈린다. q90(1.5cm, 완전 무에코성 순수낭종)은 순수낭성이라는 소견 하나로 크기 역치 체계 자체가 무력화되어 크기와 무관하게 추적관찰이 정답이었다. 이 문항(2.5cm, 등에코에 가까운 고형 결절이나 taller-than-wide 동반)은 정반대로 taller-than-wide라는 고위험 소견 때문에 FNA 역치가 1cm까지 낮아지고, 2.5cm는 이를 크게 초과하므로 세침흡인검사가 정답이다. 즉 순수낭성이면 크기와 무관하게 관찰, 고위험 소견이 하나라도 있으면 크기와 무관하게(작아도) FNA에 가까워지는 것이 이 표의 핵심 구조이며, 두 문항은 그 양극단을 보여준다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}

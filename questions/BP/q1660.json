@@ -1,0 +1,11 @@
+{
+ "id": 1660,
+ "section": "BP",
+ "excluded": true,
+ "duplicate_of": 2327,
+ "exclude_reason": "q2327과 동일 문항(34세 남자, 건강검진에서 발견된 담낭 이상소견, 0.54cm대 소용종, 정답 주기적 초음파 검사). q1660의 3개 버전은 모두 원본을 대조한 결과 실제로는 단 한 번의 시험 출제(2023년 1AB)가 서로 다른 3개 추출 소스(단독 복원 docx 1개, 그 내용을 부록으로 포함한 합본 PDF 2개)에 중복 수록된 것이다. q2327의 기존 appearances(2022·4AB, 2023·4AB)에는 없던 2023·1AB 출제 이력이므로 병합 시 추가해야 한다. 첨부 이미지 e9501966ba4.png는 q2327에서 이미 images_dropped 처리된, 대표 이미지 e5bf278b037.png와 1px 크롭 차이만 있는 동일 사진이라 새로운 이미지 정보 없음.",
+ "appearances_to_merge": [
+  "2023·1AB"
+ ],
+ "appearances_to_merge_applied": true
+}
