@@ -1307,7 +1307,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "다음은 CT angiography의 coronal view이다. 췌십이지장절제술(pancreatoduodenectomy)을 할",
-  "done": false
+  "done": true
  },
  {
   "qid": 2328,
@@ -1321,7 +1321,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "평상시 건강하던 54세 여자가 외부병원에서 급성 담낭염으로 담낭절제술을 시행받은 후 조직검사에 서 담낭암으로 진단되어 내원하였",
-  "done": false
+  "done": true
  },
  {
   "qid": 2719,
@@ -1335,7 +1335,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "50세 여자가 진한 소변, 우상복부 통증 및 발열로 내원하였다. 6개월 전 담석성 췌장염 으로 치료받은 병력이 있다. 검사 결",
-  "done": false
+  "done": true
  },
  {
   "qid": 66,
@@ -1349,7 +1349,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "여자 환자. 침윤성 유방암으로 유방 보존술을 시행하였다. 4cm 크기였는데 resection margin에서 암세포가 발견되었",
-  "done": false
+  "done": true
  },
  {
   "qid": 1533,
@@ -1362,7 +1362,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "(족보) 환자가 유방통을 느껴 유방 초음파를 찍었고, C4a로 나와 유방 조직 검사를 진행한 결과 Atypical ductal",
-  "done": false
+  "done": true
  },
  {
   "qid": 1534,
@@ -1375,7 +1375,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "(짤족) 왼쪽 유방에 멍울이 만져져서 내원한 환자이다. 4.5cm 크기였고, 중심 침생검 결과 악성 엽상종양(malignant",
-  "done": false
+  "done": true
  },
  {
   "qid": 1662,
@@ -1388,7 +1388,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "42세 여자가 건강검진에서 발견된 이상소견으로 내원하였다. 유방촬영술에서 군집성 다형성 미 세석회화(clustered pleo",
-  "done": false
+  "done": true
  },
  {
   "qid": 1663,
@@ -1401,7 +1401,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "52세 여자 환자가 우측 침윤성 유관암 (invasive ductal carcinoma) 및 겨드랑이 림프절 전이가 있어 우측",
-  "done": false
+  "done": true
  },
  {
   "qid": 2340,
@@ -1415,7 +1415,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "60세 여성이 오른쪽 유두 아래에 만져지는 덩이로 왔다. 조직검사 결과 침윤성 유방암이 진단되었고, 8. 62 세 여성이 1 ",
-  "done": false
+  "done": true
  },
  {
   "qid": 2634,
@@ -1428,7 +1428,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "세계적으로 권고되는 유방암 선별검사는?",
-  "done": false
+  "done": true
  },
  {
   "qid": 2560,
@@ -1442,7 +1442,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "77 세 여자 가 아침부터 우측하복부 통증과 구토, 설사로 응급실 에 내원하였다. 혈압 110/80mmHg, 맥박 85 회/분",
-  "done": false
+  "done": true
  },
  {
   "qid": 791,
@@ -1456,7 +1456,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "11. 10세 남아가 하루 전부터 배꼽 부위의 불편감과 함께 소화불량을 호소하다가 내원 당일 6시간 전부터는 우하복부에 국한된",
-  "done": false
+  "done": true
  },
  {
   "qid": 838,
