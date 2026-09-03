@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 """다음 배치를 준비한다. 세션이 끊긴 뒤 재개할 때 이것만 실행하면 된다.
-  python3 _pipeline/next_batch.py [배치크기]
+  python3 _pipeline/next_batch.py [배치크기] [최소출제횟수]
 스냅샷을 남기고, 대상 목록을 갱신하고, 추출까지 한 번에 한다."""
 import os, sys, json, shutil, subprocess, datetime, collections
 
 P = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(P)
 N = int(sys.argv[1]) if len(sys.argv) > 1 else 12
+MIN_EXAM = sys.argv[2] if len(sys.argv) > 2 else '3'
 
 def sh(*cmd):
     return subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True).stdout
@@ -22,7 +23,7 @@ if not os.path.exists(snap):
     print(f"스냅샷 _backup_{ts}")
 
 # 2) 대상 목록 갱신 (questions/에 있는 것은 자동으로 done 처리된다)
-print(sh('python3', '_pipeline/f_targets.py').strip().split('\n상위')[0])
+print(sh('python3', '_pipeline/f_targets.py', MIN_EXAM).strip().split('\n상위')[0])
 
 # 3) 다음 배치 선정
 targets = json.load(open(os.path.join(P, 'f_targets.json')))
@@ -48,6 +49,8 @@ for t in batch:
     if len(imgs) >= 5: flags.append(f"이미지{len(imgs)}장")
     if '총론' in d['section_votes'] and len(d['section_votes']) > 1: flags.append('분과의심')
     if d['section_votes'].get('총론') and len(d['section_votes']) == 1: flags.append('분과미상')
+    if t.get('dup_of'): flags.append(f"중복의심 q{t['dup_of']}({t['dup_sim']})")
+    if t['examCount'] == 1: flags.append('단독복원')
     print(f"q{t['qid']:<5} {str(t['section']):<5} {t['examCount']:>2}회 "
           f"답{ans if ans else 'X'} 이미지{len(imgs)} {' '.join(flags)}")
     print(f"      {v['stem'][:96]}")

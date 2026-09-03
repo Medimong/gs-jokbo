@@ -15,9 +15,10 @@
   5
  ],
  "multi": false,
- "examCount": 3,
+ "examCount": 2,
  "appearances": [
-  "2023"
+  "2023",
+  "회차 미상"
  ],
  "source_files": [
   "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
@@ -39,7 +40,7 @@
  "generated_options": [],
  "answer_changed": null,
  "answer_conflict": null,
- "source_notes": "세 버전의 발문과 선지가 사실상 동일하다(줄바꿈 위치만 다름). 이미지는 유방촬영영상에서 군집성 미세석회화가 보이는 부위를 확대한 크롭으로, 발문에 이미 같은 소견(군집성 다형성 미세석회화, BI-RADS C4a)이 문장으로 기술되어 있어 이미지 없이도 풀이가 가능하다.",
+ "source_notes": "q2279로 따로 추출된 버전이 같은 문항으로 확인되어 출제 이력을 합쳤다. 세 버전의 발문과 선지가 사실상 동일하다(줄바꿈 위치만 다름). 이미지는 유방촬영영상에서 군집성 미세석회화가 보이는 부위를 확대한 크롭으로, 발문에 이미 같은 소견(군집성 다형성 미세석회화, BI-RADS C4a)이 문장으로 기술되어 있어 이미지 없이도 풀이가 가능하다.",
  "verify": "verified",
  "explanation": {
   "qtype": "differential",

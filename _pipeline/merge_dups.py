@@ -8,12 +8,21 @@ TURN = re.compile(r'((?:19|20)\d{2})\s*[·\-]\s*(\d[A-Da-d]{1,2})')
 YEAR = re.compile(r'^((?:19|20)\d{2})(\s*이전)?$')
 
 def clean(a):
-    """'2022·4CD~2023·2AB 합본' 같은 파일명에서 실제 턴 표기만 뽑는다."""
+    """'2022·4CD~2023·2AB 합본' 같은 파일명에서 실제 턴 표기만 뽑는다.
+    에이전트가 배열 대신 {label, source_files, note} 객체를 넣는 일이 있어 label을 꺼낸다."""
+    if isinstance(a, dict):
+        a = a.get('label') or a.get('turn') or a.get('appearance') or ''
     a = str(a).strip()
     m = YEAR.match(a)
     if m: return a
     m = TURN.search(a)
-    return f"{m.group(1)}·{m.group(2).upper()}" if m else None
+    if m: return f"{m.group(1)}·{m.group(2).upper()}"
+    # '2024·통합턴'처럼 회차 이름이 숫자+영문이 아닌 경우도 있다.
+    # 다만 합본 파일명은 출제 이력이 아니므로 걸러낸다.
+    if any(b in a for b in ('합본', '통합본', '복원', '정리', '~')):
+        return None
+    m = re.match(r'^((?:19|20)\d{2})\s*[·\-]\s*([^\s,()]+)', a)
+    return f"{m.group(1)}·{m.group(2)}" if m else None
 
 def main():
     merged = 0
