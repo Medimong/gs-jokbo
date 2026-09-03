@@ -1,0 +1,61 @@
+{
+ "id": 1682,
+ "section": "TACS",
+ "topic": "치사 삼징후",
+ "stem": "죽음의 삼징후(lethal triad)의 구성으로 옳은 것은?",
+ "labTable": [],
+ "options": [
+  "고열(hyperthermia), 저산소증(hypoxia), 패혈증(sepsis)",
+  "혈액희석(hemodilution), 조직관류저하(tissue hypoperfusion), 고젖산혈증(hyperlactatemia)",
+  "산증(acidosis), 응고장애(coagulopathy), 저체온증(hypothermia)",
+  "사이토카인 방출 증후군(cytokine storm), 전신염증반응증후군(systemic inflammatory response syndrome), 다발성 장기부전(multiple organ failure)",
+  "저칼슘혈증(hypocalcemia), 고칼륨혈증(hyperkalemia), 저마그네슘혈증(hypomagnesemia)"
+ ],
+ "answerKeys": [
+  3
+ ],
+ "multi": false,
+ "examCount": 1,
+ "appearances": [
+  "2023·1AB"
+ ],
+ "source_files": [
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1AB 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [
+  5
+ ],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "세 버전 모두 abs_path 원본을 직접 열어 대조했다(2022 4CD~2023 2AB 합본.pdf 163쪽, 2023년 1AB 외과 턴말 복원.docx 244행, 2023년 3AB~2AB 합본.pdf 81쪽). 세 원본 모두 선지가 ①에서 ④까지 네 개뿐이고 '답: ③' 다음 줄로 바로 다음 문항(28번)이 이어져, 애초에 다섯 번째 선지가 기록되지 않은 상태였다. 두 합본 PDF에서는 줄바꿈 때문에 선지 ④의 뒤쪽 절반('syndrome), 다발성 장기부전(multiple organ failure)')이 다음 줄로 밀려 추출기가 이를 발문에 붙여 넣는 오염이 발생했으므로 발문에서 걷어내고 선지 ④에 온전히 복원했다. AGENT_SPEC의 '선지가 3~4개만 복원됐으면 의학적으로 그럴듯한 오답을 채워 5개로 만든다' 규칙에 따라 대량수혈 중 나타나는 전해질 이상(저칼슘혈증, 고칼륨혈증, 저마그네슘혈증)을 ⑤로 채워 넣었다(generated_options: [5]). 정답 위치(③)는 세 원본 모두 번호와 내용이 일치해 그대로 유지했다. 선지 ③의 원문 표기 '응고병(coagulopathy)'은 표준 용어가 아니어서 개념 카드(concepts/blunt-abdominal-trauma.json)와 동일하게 '응고장애(coagulopathy)'로 바로잡았다. 분과 라벨은 세 원본 모두 'VS'였으나, 세 원본에서 이 문항 바로 앞줄의 섹션 표제가 모두 '[외상] (2)'로 동일해 TACS(외상)로 교정한다. 출제 회차 조사: 세 원본 모두 이 문항이 속한 구획의 표제가 '[1AB] 총 30문제 복원했습니다'(또는 파일명이 이와 일치하는 '2023년 1AB 외과 턴말 복원.docx')로 동일해 사실상 같은 2023년 1AB 복원본 하나가 두 합본 PDF에 재수록된 것으로 판단했다. 재출제가 아닌 중복 수록으로 보아 examCount를 1로, appearances를 '2023·1AB' 한 항목으로 정리했다. 중복 판정: questions/TACS/를 'lethal triad'와 '삼징후'로 grep한 결과 q1523과 q1554만 나왔다. 두 문항 모두 손상통제수술(damage control surgery/resuscitation)의 진행 절차와 정맥로 확보를 묻는 문항으로, 선지 집합이 이 문항(삼징후의 구성 요소 자체를 묻는 선지 5개)과 전혀 겹치지 않는다. 세 문항은 같은 손상통제 주제를 서로 다른 축(삼징후 구성/수술 진행 순서/정맥로 원칙)에서 묻는 별개 문항이므로 병합하지 않는다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "knowledge",
+  "approach": "외상성 출혈 환자에서 저체온, 산증, 응고장애는 서로를 악화시키며 맞물리는 악순환을 이룬다. 출혈로 조직관류가 떨어져 무산소 대사가 진행되면 젖산이 쌓여 산증이 생기고, 노출과 차가운 수액 투여, 열 생산 저하가 겹쳐 저체온이 온다. 응고 효소는 체온과 pH에 민감해 저체온과 산증이 있으면 제 기능을 하지 못하고, 여기에 응고인자 소모와 수액 희석까지 더해져 응고장애가 발생한다. 응고가 안 되면 출혈이 더 심해지고, 이는 다시 조직관류저하를 통해 산증과 저체온을 악화시켜 악순환이 반복된다. 이 세 가지를 묶어 치사 삼징후(죽음의 삼각, lethal triad)라 부르며, 손상통제수술(damage control surgery)은 이 악순환을 끊기 위해 완전한 재건을 뒤로 미루고 출혈과 오염만 최소한으로 조절한 뒤 중환자실에서 체온, 산증, 응고를 먼저 교정하는 전략이다.",
+  "approachTable": [],
+  "correct": "치사 삼징후를 구성하는 세 요소는 저체온증(hypothermia), 산증(acidosis), 응고장애(coagulopathy)이므로 ③이 정답이다. 세 단어를 따로 암기하기보다, 위에서 설명한 것처럼 하나가 다른 둘을 악화시키는 되먹임 관계에 있다는 점이 이 개념을 시험에서 다시 만났을 때 다른 선지를 걸러내는 기준이 된다.",
+  "pearl": "치사 삼징후는 저체온, 산증, 응고장애 세 가지이며, 서로를 악화시키는 악순환을 이룬다는 점이 손상통제수술 적응증의 근거다.",
+  "concepts": [
+   "blunt-abdominal-trauma"
+  ],
+  "compare_note": "손상통제수술의 실제 진행 순서(1차 수술에서 재건을 미루고 거즈패킹 후 임시 폐쇄)를 묻는 TACS q1523, 대량출혈 소생 시 정맥로 확보 원칙을 묻는 TACS q1554와 함께 손상통제 3부작을 이루며, 이 문항만 치사 삼징후의 구성 요소 자체를 직접 묻는다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "고열, 저산소증, 패혈증은 치사 삼징후에 속하지 않는다. 패혈증은 감염에 의한 별개의 병태생리이며 저체온이 아닌 발열을 동반하는 경우가 많다.",
+  "2": "혈액희석, 조직관류저하, 고젖산혈증은 출혈성 쇼크에서 산증에 이르는 병태생리 과정의 일부일 뿐, 치사 삼징후를 구성하는 세 진단명은 아니다.",
+  "3": "산증, 응고장애, 저체온증이 서로를 악화시키는 악순환을 이루는 치사 삼징후의 정의 그 자체다. 정답.",
+  "4": "사이토카인 방출 증후군, 전신염증반응증후군, 다발성 장기부전은 심한 염증반응이나 패혈증이 진행했을 때 나타나는 후기 합병증으로, 치사 삼징후와는 시점과 기전이 다른 별개 개념이다.",
+  "5": "저칼슘혈증, 고칼륨혈증, 저마그네슘혈증은 대량수혈 중 나타날 수 있는 전해질 이상이지만 치사 삼징후의 전통적 구성 요소는 아니다."
+ },
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}
