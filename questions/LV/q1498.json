@@ -1,0 +1,11 @@
+{
+ "id": 1498,
+ "section": "LV",
+ "excluded": true,
+ "duplicate_of": 375,
+ "exclude_reason": "q375와 동일한 원본 시험문제. 발문(우측 복부 불편감으로 내원, 혈액검사와 CT 소견 제시, 치료는)이 동일하고, labTable 수치(platelet·albumin·bilirubin 모두 정상, HBeAg·HBsAg·HBV DNA 모두 양성, AFP 약 230)가 완전히 일치한다. 이미지도 e85c95384a3.jpg, e63606fbfd9.png를 q375의 대표 이미지 e9cc7d520a5.png와 직접 열어 대조한 결과, 같은 환자·같은 슬라이스 위치(신장 상극 레벨)의 동일한 동맥기/문맥기 조영증강 CT 두 컷이며 q375 이미지에만 'Arterial phase'/'Portal phase' 라벨이 붙어 있을 뿐 병변 위치와 형태가 동일한 사본이다. 정답도 두 문항 모두 간절제술로 동일하다(선지 구성 순서만 다름: q1498은 경과관찰/RFA/TACE/간절제술/항암치료, q375는 TACE/RFA/PEI/간절제술/Sorafenib). 3개 복원본 모두 2023년 출처(2022 4CD~2023 2AB 합본, 2023 3AB 복원, 2023 3AB~2AB 합본)이며 q375의 기존 appearances 목록(2018 이전~2022 4CD)에는 2023년이 없어 신규 출제 회차로 병합한다.",
+ "appearances_to_merge": [
+  "2023"
+ ],
+ "appearances_to_merge_applied": true
+}

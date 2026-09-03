@@ -1,0 +1,12 @@
+{
+ "id": 1665,
+ "section": "ENDO",
+ "excluded": true,
+ "duplicate_of": 1538,
+ "exclude_reason": "q1538과 같은 문항으로 확인되어 합쳤다. 임상 시나리오(53세 여성, 갑상선유두암으로 갑상선전절제술 후 다음날부터 손발저림·수족경련·Chvostek 징후 양성, 검사상 저칼슘혈증)와 묻는 지점(경구 칼슘과 함께 투여할 약제)이 동일하고, 정답도 같은 약리 기전(부갑상선호르몬 소실로 신장의 1알파 수산화가 안 되어 활성형 비타민D를 직접 공급해야 함)을 가리키는 활성비타민D로 일치한다. 선지 구성만 다르다(q1665는 Furosemide/활성비타민D/Cinacalcet/PTH/Bisphosphonate, q1538은 Vit A/B/C/D/K). 원본을 대조한 결과 q1665의 3개 추출 버전(2022 4CD~2023 2AB 합본 PDF, 2023년 1AB 단독 복원 docx, 2023년 3AB~2AB 합본 PDF)은 모두 2023년 1AB 시험에서 나온 동일 문항이 서로 다른 합본 PDF에 반복 수록된 것이며, 추가로 2022 4CD~2023 2AB 합본 PDF의 '4CD 조장' 서두 섹션(25번, <25, 칼슘 비타민 d 두 가지 버전의 복원이 있습니다> 태그)에 성별 오기(53세 남자, 원래는 여자)와 다른 선지 순서(①PTH ②활성비타민D ③Bisphosphonate ④Furosemide ⑤Cinecalcet, 정답 ②)로 더 이른 2022년 4CD 출제 이력도 확인되어 함께 병합한다. q1538의 기존 appearances(2020·1CD, 2020·2AB, 2020·3CD, 2022·1CD, 2023·3CD, 2023·4CD)에는 없던 2022·4CD, 2023·1AB 출제 이력이므로 병합 시 추가해야 한다. 첨부 이미지는 없다.",
+ "appearances_to_merge": [
+  "2022·4CD",
+  "2023·1AB"
+ ],
+ "appearances_to_merge_applied": true
+}

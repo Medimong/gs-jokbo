@@ -26,7 +26,9 @@ def norm_one(a):
     if m: return a
     m = re.match(r'^(\d{2})$', a)
     if m: return '20' + a
-    return a
+    # 연도로 시작하지 않는 표기는 회차를 특정할 수 없다는 뜻이다.
+    # 에이전트가 산문 메모를 여기에 적어 넣는 일이 있어 한 칸으로 접는다.
+    return '회차 미상'
 
 def main():
     n = 0

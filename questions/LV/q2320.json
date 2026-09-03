@@ -1,0 +1,127 @@
+{
+ "id": 2320,
+ "section": "LV",
+ "topic": "간이식",
+ "stem": "8년 전부터 B형 간염(hepatitis B) 감염력이 있던 45세 남자 환자가 어제부터 헛소리를 한다며 내원하였다. 환자의 눈이 노랬다. 큰 소리로 말을 시키면 대답할 수 있으나 자극을 주지 않으면 자꾸 잠들려고 한다. V/S 96/66 mmHg, 112회/분, 22회/분, 36.8도이다. 혈액 검사와 CT 소견은 다음과 같다. 환자에게 적합한 치료는?",
+ "labTable": [
+  [
+   "Hb",
+   "9 g/dL"
+  ],
+  [
+   "Platelet",
+   "48,000/μL"
+  ],
+  [
+   "Total bilirubin",
+   "25.6 mg/dL"
+  ],
+  [
+   "INR",
+   "3.85"
+  ],
+  [
+   "Total protein / Albumin",
+   "5.4 / 2.4 g/dL"
+  ],
+  [
+   "ALP",
+   "141 U/L"
+  ],
+  [
+   "AST/ALT",
+   "48/26 U/L"
+  ],
+  [
+   "AFP",
+   "72 ng/mL"
+  ],
+  [
+   "Ammonia",
+   "300 μg/dL"
+  ]
+ ],
+ "options": [
+  "간이식",
+  "간내문맥전신단락술",
+  "색전술",
+  "PTBD",
+  "복강세척"
+ ],
+ "answerKeys": [
+  1
+ ],
+ "multi": false,
+ "examCount": 3,
+ "appearances": [
+  "2023",
+  "2025"
+ ],
+ "source_files": [
+  "2025/2024~2022년 턴말 통합본.pdf",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [
+  "ea3e67810b2.jpg"
+ ],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "세 버전(qid 2320·1578·1986)의 발문·선지·답이 원문 그대로 완전히 일치해 복원 오염 없이 그대로 확정했다. 원본에는 'AST/ALP 48/26'으로 적혀 있으나 ALP는 바로 앞 항목(141)에 이미 있고 48/26이라는 두 자릿수 쌍은 간효소 AST/ALT의 전형적 값 범위라 AST/ALT의 오기로 보고 고쳤다. 첨부 이미지(ea3e67810b2.jpg)는 복부 CT 축상면으로, 위축되고 결절진 윤곽의 간과 비장비대가 보여 만성 간경변·문맥압항진증 소견에 부합한다. 다만 국소 종괴나 조영증강 병변은 뚜렷하지 않아 진단 자체보다는 만성 간질환이라는 배경을 뒷받침하는 보조 소견이며, 이미지 없이도 병력과 검사 수치만으로 풀이가 가능하다. 원본 분과 라벨 중 2개 버전이 '총론'인 것은 2016년 이전 대합본에서 주제 헤딩을 분과로 잘못 물려받은 흔적으로 보이며, 문항 내용(간이식)에 따라 LV로 교정했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "발문의 핵심 단서는 세 갈래다. 첫째, 8년간 앓아온 만성 B형간염(chronic hepatitis B)이라는 기저 만성 간질환의 존재다. 둘째, 큰소리에는 반응하지만 자극이 없으면 다시 잠들려는 의식수준, 즉 West Haven grade III에 해당하는 중증 간성뇌증(hepatic encephalopathy)이다. 셋째, 총빌리루빈 25.6 mg/dL과 INR 3.85로 대표되는 극심한 간합성기능 저하다. AST/ALT가 48/26으로 경도 상승에 그치는 점은 대량 간세포 괴사를 시사하는 전격성 간부전(fulminant hepatic failure)의 검사 소견과는 거리가 있어, 순수 급성 간부전보다는 만성 간질환이 급성으로 악화된 상태(acute-on-chronic liver failure, ACLF)에 가깝다. CT에서도 위축되고 결절진 간 윤곽과 비장비대가 함께 보여 이미 진행된 간경변과 문맥압항진증을 뒷받침한다.",
+  "approachTable": [
+   [
+    "8년 전부터의 만성 B형간염 병력, 혈소판 48,000/μL",
+    "만성 간경변과 문맥압항진증에 의한 비장기능항진을 시사"
+   ],
+   [
+    "큰소리에는 반응하나 자극이 없으면 다시 잠들려는 의식수준",
+    "West Haven grade III(혼미 상태, 자극에는 반응하나 자발 각성 저하)에 해당하는 중증 간성뇌증"
+   ],
+   [
+    "총빌리루빈 25.6, INR 3.85, 암모니아 300",
+    "심한 간합성기능 저하와 고암모니아혈증, 매우 높은 간부전 중증도"
+   ],
+   [
+    "AST/ALT 48/26으로 경도 상승에 그침",
+    "대량 간세포 괴사(전격성 간부전)의 소견은 아니며, 만성 간질환의 급성 악화 양상에 부합"
+   ],
+   [
+    "CT: 위축되고 결절진 간 윤곽, 비장비대",
+    "만성 간경변과 문맥압항진증의 영상 소견"
+   ]
+  ],
+  "correct": "이 환자는 만성 B형간염을 기저로 한 간경변이 급성으로 악화되며 중증 간성뇌증과 극심한 응고장애, 고빌리루빈혈증이 겹친 상태다. 발문에 크레아티닌 수치가 없어 정확한 MELD(model for end-stage liver disease) 점수는 계산할 수 없지만, 크레아티닌을 정상치인 1.0 mg/dL로 가정한 최소 추정치만으로도 3.78×ln(25.6)+11.2×ln(3.85)+9.57×ln(1.0)+6.43 값이 약 34점에 이른다. 이는 cirrhosis-complications 카드가 정리한 수술 위험 구간(Child-Pugh C 또는 MELD 15~20 이상이면 선택적 수술 자체를 피함)을 훨씬 웃도는 값이며, 실제 크레아티닌이 조금이라도 상승해 있다면 점수는 더 올라간다. King's College criteria(비아세트아미노펜 급성 간부전 기준)로 봐도 연령 40세 초과, INR 3.5 초과, 빌리루빈 17.5 mg/dL 초과라는 세 항목을 모두 만족해, 지지치료만으로는 예후가 극히 불량한 범주에 든다. 다만 이 환자는 만성 B형간염이 8년째 있던 상태에서 급성 악화가 온 것이므로 엄밀히는 선행 간질환이 없는 순수 급성 간부전(King's College criteria의 원래 적용 대상)이 아니라 만성 간질환의 급성 악화(ACLF)에 더 가깝다. 그럼에도 같은 중증도 지표인 고빌리루빈혈증, 심한 응고장애, grade III 이상의 간성뇌증이 겹치면 두 상황 모두 간이식 평가를 서둘러야 한다는 결론은 같다. 나머지 선지는 오히려 이 환자에게 해가 되거나 표적이 어긋난다. 간내문맥전신단락술(TIPS)은 문맥혈을 간을 우회시켜 곧장 전신순환으로 보내는 시술이라 간성뇌증을 오히려 악화시키므로 이런 중증 뇌증 환자에게는 상대적 금기에 가깝다. 색전술은 간세포암(hepatocellular carcinoma, HCC) 병기에 따른 국소치료(TACE)에 해당하는데, AFP 72는 경도 상승에 그치고 CT에서도 국소 종괴 없이 간경변·비장비대 소견만 보여 HCC 국소치료의 적응증이 아니다. PTBD(경피경간담도배액술)는 담관 폐쇄로 인한 폐쇄성 황달을 배액하는 시술인데, 이 환자의 고빌리루빈혈증은 담관 폐쇄가 아니라 간세포 자체의 합성·배설 기능 상실에서 온 것이라 대상이 아니다. 복강세척은 복막염이나 범발성 복강내 오염을 다루는 처치로 이 임상상과 무관하다. 따라서 간부전 자체를 근본적으로 해결하는 간이식이 정답이다.",
+  "pearl": "만성 간질환자에서 급성 악화로 grade III 이상의 간성뇌증에 극심한 응고장애와 고빌리루빈혈증이 겹치면, 락툴로오스나 리팍시민 같은 대증치료의 반응부터 기다리지 말고 간이식 평가를 서둘러야 한다.",
+  "concepts": [
+   "cirrhosis-complications",
+   "hcc-treatment-algorithm"
+  ],
+  "compare_note": "간성뇌증이 자극 없이도 각성되는 grade I~II 수준이고 빌리루빈·INR 상승이 경미했다면, 우선 유발인자(위장관 출혈, 감염, 변비, 전해질 이상)를 찾아 교정하며 락툴로오스와 리팍시민으로 치료하고, 반응이 없을 때 비로소 간이식을 고려하는 순서로 바뀐다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "concept_gap": "cirrhosis-complications와 hcc-treatment-algorithm 두 카드 모두 간이식의 적응증(비대상성 간경변, 급성/급성-만성 간부전, HCC의 Milan·UCSF 기준)과 금기(활동성 감염, 조절 안 되는 간외 악성종양, 심각한 심폐질환 등), 이식 대상자 우선순위를 정하는 MELD 기반 장기 배분(KONOS/UNOS) 기준을 표로 정리하지 않았다. hcc-treatment-algorithm의 간이식 항목은 HCC 종양 기준(Milan criteria)에만 국한되고, cirrhosis-complications의 MELD 표는 '수술 위험 평가' 목적으로만 다뤄 '이식 적응' 목적의 절단점(예: MELD 15 이상이면 이식이 순수 수술적 치료보다 이득)이나 King's College criteria가 없다. 간성뇌증의 West Haven 임상 등급표도 두 카드 어디에도 없어, 이 문항처럼 의식수준 서술만으로 등급을 판정해야 할 때 참조할 근거 카드가 없다. 간이식이 정답인 문항이 앞으로 더 나올 것이므로 새 카드가 필요하다.",
+ "new_concepts": [
+  {
+   "slug": "liver-transplant-indications",
+   "title": "간이식의 적응증과 금기, MELD 기반 장기 배분",
+   "why": "비대상성 간경변, 급성/급성-만성 간부전, HCC(Milan·UCSF 기준)라는 세 갈래 간이식 적응증과 절대·상대 금기, King's College criteria, MELD 점수 기반 KONOS/UNOS 배분 우선순위를 정리하는 카드가 없다. 이 문항(qid 2320)처럼 간이식 자체가 정답인 문항이 반복해서 나오는데, 현재는 hcc-treatment-algorithm의 Milan criteria 항목과 cirrhosis-complications의 수술위험 MELD 표만으로 우회해서 설명해야 한다."
+  },
+  {
+   "slug": "hepatic-encephalopathy-west-haven-grading",
+   "title": "간성뇌증의 West Haven 임상 등급",
+   "why": "cirrhosis-complications 카드는 간성뇌증의 유발인자와 치료(락툴로오스, 리팍시민)만 다루고 grade 0부터 IV까지의 West Haven 임상 등급 기준표가 없어, 의식수준 서술만으로 중증도 등급을 판정할 근거 카드가 없다."
+  }
+ ],
+ "source_version": 1,
+ "content_version": 1
+}
