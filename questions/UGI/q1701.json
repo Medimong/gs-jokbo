@@ -1,0 +1,60 @@
+{
+ "id": 1701,
+ "section": "UGI",
+ "topic": "위절제술 재건 방법 비교(Billroth II vs Roux-en-Y)",
+ "stem": "원위부 위절제술(distal gastrectomy)을 시행할 때 그 문합 방법으로 빌로스 2형 문합(Billroth II anastomosis)보다 루와이 위공장문합(Roux-en-Y gastrojejunostomy)이 선호된다. 가장 큰 이유는?",
+ "labTable": [],
+ "options": [
+  "철결핍성 빈혈 예방",
+  "내탈장 예방",
+  "위배출지연 예방",
+  "덤핑증후군 예방",
+  "알칼리 역류 위염 예방"
+ ],
+ "answerKeys": [
+  5
+ ],
+ "multi": false,
+ "examCount": 3,
+ "appearances": [
+  "2023·1CD"
+ ],
+ "source_files": [
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1CD 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "3개 버전(2023·1CD 복원 docx, 합본 pdf 2건) 모두 발문, 선지 5개, 정답(⑤ 알칼리 역류 위염 예방)이 완전히 일치했다. 추출 스크립트가 canonical 'answer' 필드를 null로 남겼으나 이는 파싱 단계의 문제일 뿐, 세 원본 모두에서 '답: 5) 알칼리 역류 위염 예방'이 그대로 확인되어(2023년 1CD 복원.docx 129번째 문단 직접 대조) 정답이 없는 문항이 아니다. 1번 선지 '철결핍성 빈혈'은 원본 표기 그대로이며 두 술식이 공통으로 갖는 위험(십이지장 우회)이라 '예방'의 대상이 아니므로 선지 표기 의도를 살려 '철결핍성 빈혈 예방'으로 다듬었다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "knowledge",
+  "approach": "발문은 빌로스 2형과 루와이 위공장문합이라는 두 재건 방식의 해부학적 차이, 즉 담즙과 췌액이 흐르는 경로가 잔위와 얼마나 격리되는지를 묻고 있다. 빌로스 2형은 십이지장 절단부(수입각, afferent loop)가 위공장문합부에 직접 이어져 담즙과 췌액이 잔위로 곧장 역류할 수 있는 구조인 반면, 루와이 재건은 담췌액이 흐르는 공장 고리를 위공장문합부에서 40~60cm 아래로 내려 붙여 두 경로를 물리적으로 분리한다.",
+  "approachTable": null,
+  "correct": "루와이 위공장문합의 핵심은 담췌액 경로와 음식물 경로의 분리다. 담즙과 췌액은 십이지장공장문합부(위공장문합부에서 원위쪽으로 40~60cm) 아래에서 음식물이 지나가는 Roux limb과 합류하므로 잔위 쪽으로 역류할 통로 자체가 없어진다. 그 결과 빌로스 2형에서 흔한 담즙역류성 위염(alkaline reflux gastritis)이 구조적으로 예방된다. 이것이 두 재건법의 비교에서 가장 결정적인 차이이며, 나머지 선지가 다루는 문제들은 이 차이로 설명되지 않는다.",
+  "pearl": "재건 방식 비교 문항에서 '루와이가 나은 점'을 물으면 담즙역류성 위염 예방 하나로 답한다. 반대로 '루와이의 단점'을 물으면 문합부가 하나 늘어난다는 점과 Roux 정체증후군(Roux stasis syndrome)을 떠올린다.",
+  "concepts": [
+   "gastrectomy-types",
+   "post-gastrectomy-nutrition"
+  ],
+  "compare_note": "발문이 '담즙 섞인 구토 후 통증이 호전되는 경과가 반복된다'는 임상 시나리오로 바뀌면 재건법 비교가 아니라 빌로스 2형에서만 생기는 수입각증후군(afferent loop syndrome)을 묻는 문항이 되고 답은 q1671과 같은 방향으로 간다. 발문이 '수년 전 위전절제술 후 손발저림'으로 바뀌면 비타민 B12 결핍을 묻는 문항(q1387, q1510, q2555)이 되어 답의 축 자체가 재건법 비교에서 영양 결핍 감별로 옮겨간다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "철결핍성 빈혈은 두 술식 모두 십이지장을 우회하여 철 흡수 표면이 줄어드는 공통의 위험이다. 루와이가 빌로스 2형보다 이 문제를 줄여주지 않으므로 답이 아니다.",
+  "2": "오히려 루와이 재건은 Roux limb을 만들면서 장간막에 새로운 틈(Petersen's space 등)이 생겨 내탈장(internal hernia)의 위험을 새로 만드는 쪽이다. 예방이 아니라 루와이 고유의 단점이므로 답이 아니다.",
+  "3": "위배출지연(gastric stasis)은 루와이 재건에서 Roux limb이 정상 연동운동 박동원을 잃으면서 생기는 Roux 정체증후군(Roux stasis syndrome)으로 오히려 문제되는 합병증이다. 예방 효과가 아니므로 답이 아니다.",
+  "4": "덤핑증후군은 유문(pylorus) 소실로 위 내용물이 조절 없이 소장으로 쏟아지면서 생긴다. 빌로스 2형과 루와이 재건 모두 원위부 위절제술에서 유문을 함께 절제하므로 두 재건법 사이에 차이가 없어 답이 아니다.",
+  "5": "알칼리 역류 위염(alkaline reflux gastritis)은 담즙과 췌액이 잔위로 역류하여 점막을 자극하는 것이 기전이다. 루와이 재건은 담췌액 경로를 위공장문합부에서 멀리 분리하여 이 역류를 구조적으로 차단하므로 빌로스 2형보다 선호되는 가장 큰 이유가 된다."
+ },
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}

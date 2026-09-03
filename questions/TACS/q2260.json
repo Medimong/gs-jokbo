@@ -67,7 +67,6 @@
   "5": "초음파(FAST)는 복강내 출혈 여부를 침상에서 즉시 확인하는 primary survey 보조 검사다."
  },
  "new_concepts": [],
- "concept_gap": "blunt-abdominal-trauma 카드는 소생술 반응 판정(반응군, 일시반응군, 무반응군)과 damage control surgery 적응증에서 대량수혈 필요성을 언급하지만, 출혈성 쇼크를 추정 실혈량·맥박·혈압·호흡수 기준으로 나누는 ATLS Class I부터 IV까지의 등급 분류표와, 대량수혈 프로토콜(massive transfusion protocol)의 구체적 내용(적혈구·혈장·혈소판 1대1대1 비율 수혈, tranexamic acid 투여 기준과 투여 시점)은 다루지 않는다. 활력징후로 쇼크 등급을 판정하거나 수혈 전략을 직접 묻는 문항이 나오면 이 카드만으로는 감별이 부족하므로 표를 추가하면 좋다.",
  "source_version": 1,
  "content_version": 1
 }

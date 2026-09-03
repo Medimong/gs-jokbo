@@ -63,7 +63,6 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "concept_gap": "thyroid-nodule-workup과 thyroid-surgery-complications 두 카드 모두 그레이브스병 자체의 수술 적응증(항갑상선제 실패나 부작용, 압박 증상을 일으키는 큰 갑상선종, 안병증, 임신 계획, 방사성요오드 거부·금기, 악성 동반)과 그레이브스병 수술 전 준비(항갑상선제로 갑상선기능 정상화 후 요오드화칼륨/Lugol 용액으로 갑상선 혈류 감소, 준비 없이 수술 시 갑상선중독발작 위험)를 다루지 않는다. thyroid-surgery-complications 카드는 갑상선중독발작을 수술 후 합병증으로만 다루고 있어, 그 유발 원인이 되는 수술 전 준비 부족은 카드에 없다. 그레이브스병 문항이 이 카드들에 반복해서 걸릴 가능성이 높으므로, 그레이브스병 수술 적응증과 수술 전 준비를 별도 개념 카드로 만들 필요가 있다.",
  "new_concepts": [],
  "source_version": 1,
  "content_version": 1
