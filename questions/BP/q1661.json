@@ -1,0 +1,89 @@
+{
+ "id": 1661,
+ "section": "BP",
+ "topic": "위십이지장동맥(GDA)과 췌십이지장절제술",
+ "stem": "다음은 CT 혈관조영술(CT angiography)의 관상면(coronal view)이다. 췌십이지장절제술(pancreaticoduodenectomy)을 할 때 자르는 혈관으로, 화살표가 가리키는 혈관은?",
+ "labTable": [],
+ "options": [
+  "위샘창자동맥",
+  "좌위동맥",
+  "우간동맥",
+  "지라동맥",
+  "상장간막동맥"
+ ],
+ "answerKeys": [
+  1
+ ],
+ "multi": false,
+ "examCount": 1,
+ "appearances": [
+  "2023·1AB"
+ ],
+ "source_files": [
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1AB 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [
+  "e4a8dbd0f54.png"
+ ],
+ "images_dropped": [
+  {
+   "file": "e6261948e7c.jpg",
+   "reason": "e4a8dbd0f54.png와 완전히 동일한 도해(celiac trunk 조영 소견, LHA·RHA·CHA·LGA·SA·GDA 라벨 배치까지 동일)를 더 낮은 해상도(452x382, e4a8dbd0f54.png는 842x712)로 재첨부한 중복 사본."
+  }
+ ],
+ "image_dependent": true,
+ "crop_needed": "images_final의 e4a8dbd0f54.png에는 LHA, RHA, CHA, LGA, SA, GDA 여섯 혈관 이름표가 모두 흰 글씨로 그대로 노출되어 있어, 화살표가 가리키는 GDA(정답)는 물론 나머지 네 오답 선지의 이름까지 사진만으로 확인된다. 게시 전 여섯 이름표 텍스트를 모두 크롭하거나 마스킹해야 한다. 세 복원본 모두 발문 괄호에 '라벨링은 되어 있지 않았고, GDA가 빨간 화살표로 표시되어 있었습니다'라고 남겨, 실제 시험 사진은 이름표 없이 빨간 화살표 하나만 있었음을 밝히고 있다.",
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "세 복원본 모두 발문 끝에 '아래 사진과 거의 동일하게 celiac axis의 branch들이 명확하게 보였습니다. 라벨링은 되어 있지 않았고, GDA가 빨간 화살표로 표시되어 있었습니다'라는 메타 문장이 붙어 있었다. 이는 실제 시험 사진 설명이므로 여기 남기고 발문 본문에서는 걷어냈다. 현재 확보된 이미지(e4a8dbd0f54.png, 중복 사본 e6261948e7c.jpg)는 이 메모가 말하는 무라벨 원본이 아니라, 여섯 혈관 이름을 모두 표기한 교과서/논문형 대체 도해다. 실제 시험 이미지가 아니라 학습용 참고 이미지이므로 그렇게 밝혀둔다. 세 버전 모두 발문, 선지 순서, 정답이 완전히 일치해 answer_conflict는 없다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "differential",
+  "approach": "발문의 결정적 단서는 '췌십이지장절제술을 할 때 자르는 혈관'이라는 조건이다. 다섯 선지 중 총간동맥(common hepatic artery, CHA)에서 갈라져 나와 아래로 꺾인 뒤 췌장두부와 십이지장 쪽으로 주행하는 가지, 즉 화살표가 가리키는 혈관을 찾으면 된다. 이 주행과 위치가 위십이지장동맥(gastroduodenal artery, GDA)의 해부학적 특징과 일치하며, 실제로 Whipple 절제 시 결찰되는 혈관도 GDA다.",
+  "approachTable": [
+   [
+    "총간동맥에서 갈라진 뒤 아래로 꺾여 십이지장 쪽으로 향하는 가지",
+    "위십이지장동맥(GDA), Whipple에서 결찰"
+   ],
+   [
+    "복강동맥에서 곧장 위로 향하는 가지",
+    "좌위동맥(LGA), 위암 D2 곽청 대상이지 Whipple 대상 아님"
+   ],
+   [
+    "총간동맥의 종말 가지로 간문으로 들어가는 혈관",
+    "고유간동맥의 좌·우 분지, Whipple에서는 보존해야 하는 혈관"
+   ],
+   [
+    "복강동맥에서 좌측 비장 방향으로 주행하는 가지",
+    "지라동맥(비장동맥), Whipple 절제 범위 밖"
+   ],
+   [
+    "대동맥에서 복강동맥 아래로 별도로 기시하는 큰 혈관",
+    "상장간막동맥, 절제하면 소장·대장 전체가 허혈에 빠지는 치명적 손상"
+   ]
+  ],
+  "correct": "위십이지장동맥(gastroduodenal artery, GDA)은 총간동맥(common hepatic artery, CHA)에서 갈라져 나와 십이지장 구부(duodenal bulb) 뒤쪽을 지나며 우위대망동맥(right gastroepiploic artery)과 상췌십이지장동맥(superior pancreaticoduodenal artery)을 내어 췌장두부와 십이지장에 혈류를 공급한다. 췌십이지장절제술(pancreaticoduodenectomy, Whipple)은 이 GDA가 혈류를 대는 췌장두부, 십이지장 전체, 원위부 총담관, 담낭, 근위 공장 일부를 한 덩어리로 절제하는 수술이므로, 절제연을 넘어서는 이 혈관을 기시부 근처에서 결찰, 절단해야 한다. 다만 GDA를 자르기 전에는 반드시 간동맥 계통의 변이와 곁순환 여부를 확인해야 한다. 고유간동맥이 아니라 상장간막동맥(superior mesenteric artery, SMA)에서 갈라져 나오는 대체·부우간동맥이 존재하면 GDA를 잘라도 간 혈류에는 큰 영향이 없지만, 반대로 복강동맥(celiac axis)에 협착이나 정중궁상인대증후군(median arcuate ligament syndrome)이 있어 간으로 가는 혈류의 상당 부분이 상장간막동맥에서 GDA를 거슬러(역행성으로) 공급되고 있다면, GDA를 그대로 잘랐을 때 급성 간 허혈이 발생한다. 그래서 수술 중에는 GDA를 완전히 절단하기 전 혈관집게로 일시적으로 막아보고 고유간동맥의 박동이 유지되는지 촉지하거나 도플러로 확인하는 클램핑 검사(clamping test)를 시행하며, 박동이 약해지면 GDA를 보존하고 복강동맥 협착 자체를 먼저 교정한다. 또한 GDA를 결찰한 자리(GDA stump)는 췌십이지장절제술 후 가장 위험한 후기 합병증인 위십이지장동맥 출혈의 호발 부위다. 문합부, 특히 췌장공장문합에서 새어 나온 췌장루(postoperative pancreatic fistula)의 활성화된 췌장액이 주변 조직을 자가소화시키면서 GDA 결찰 부위의 혈관벽을 삭히면 가성동맥류(pseudoaneurysm)가 생기고, 이것이 파열되면 대량 출혈로 이어진다. 이때 먼저 소량의 출혈이 배액관이나 비위관, 대변으로 나타나는 전조출혈(sentinel bleed)이 선행하는 경우가 많아, Whipple 후 원인 불명의 소량 출혈이 있으면 반드시 GDA stump 가성동맥류를 의심하고 CT 혈관조영술이나 혈관조영술로 확인해야 한다.",
+  "pearl": "Whipple에서 GDA는 늘 자르는 혈관이지만, 자르기 전 클램핑 검사로 간 혈류가 GDA에 의존하고 있지 않은지(복강동맥 협착, SMA 기원 대체 간동맥) 반드시 확인한다. 수술 후에는 GDA stump가 췌장루에 의해 삭아 출혈하는 것이 가장 두려운 지연 합병증이며, 소량의 전조출혈(sentinel bleed)을 놓치면 안 된다.",
+  "concepts": [
+   "gastric-vascular-anatomy",
+   "periampullary-cancer-workup"
+  ],
+  "compare_note": "만약 화살표가 총간동맥에서 곧장 좌상방으로 향해 위 소만부로 이어지는 가지를 가리켰다면 답은 좌위동맥으로 바뀌고, 그 경우 물음도 Whipple이 아니라 위암 D2 림프절 곽청에서 결찰되는 혈관으로 바뀐다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "정답. 위십이지장동맥(gastroduodenal artery, GDA)은 총간동맥에서 갈라져 췌장두부와 십이지장으로 혈류를 공급하며, 이 부위가 통째로 절제되는 Whipple에서 기시부 근처에서 결찰, 절단된다.",
+  "2": "오답. 좌위동맥(left gastric artery)은 복강동맥의 직접 가지로 위 소만부에 혈류를 공급한다. 위암 D2 림프절 곽청(7번 림프절)에서 결찰되는 혈관이지 Whipple의 절제 대상이 아니다.",
+  "3": "오답. 우간동맥(right hepatic artery)은 간 우엽 실질을 공급하는 혈관으로 Whipple에서는 오히려 보존해야 한다. 고유간동맥이 아니라 상장간막동맥에서 갈라지는 변이(대체·부우간동맥)가 있으면 박리 중 손상되지 않도록 더 주의해야 한다.",
+  "4": "오답. 지라동맥(비장동맥, splenic artery)은 복강동맥의 직접 가지로 비장과 췌장 체부, 미부에 혈류를 공급한다. Whipple의 절제 범위(췌장두부까지)를 벗어난다.",
+  "5": "오답. 상장간막동맥(superior mesenteric artery)은 대동맥에서 복강동맥 아래로 따로 갈라져 나와 공장부터 근위부 횡행결장까지 소장, 대장 대부분에 혈류를 공급하는 핵심 혈관이다. Whipple에서 손상되면 광범위 장허혈로 이어지는 치명적 손상이며, 오히려 종양의 SMA 침범 여부가 절제가능성을 가르는 기준이 된다."
+ },
+ "new_concepts": [],
+ "concept_gap": "gastric-vascular-anatomy 카드는 GDA의 기시(총간동맥)와 상부위장관 출혈에서 GDA가 TAE 색전술의 표적이 된다는 점, SMA 기원 대체·부우간동맥 변이는 다루지만, Whipple에서 GDA를 결찰하는 이유(췌두부·십이지장 혈류)와 결찰 전 클램핑 검사(복강동맥 협착 또는 변이 간동맥이 있을 때 GDA가 간으로 가는 곁순환이 되는 상황), 그리고 GDA stump 출혈이 Whipple 후 대표적인 지연성 치명적 합병증(sentinel bleed, 췌장루에 의한 혈관벽 삭음)이라는 내용은 없다. periampullary-cancer-workup 카드도 Whipple의 절제범위·재건순서·췌장루(POPF)는 다루지만 post-pancreatectomy hemorrhage(PPH)나 GDA stump 출혈은 다루지 않는다. 두 카드 중 하나에 이 내용을 보강하면 좋겠다.",
+ "source_version": 1,
+ "content_version": 1
+}

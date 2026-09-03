@@ -1,0 +1,84 @@
+{
+ "id": 2328,
+ "section": "BP",
+ "topic": "담낭암",
+ "stem": "평상시 건강하던 54세 여자가 외부병원에서 급성 담낭염으로 담낭절제술(cholecystectomy)을 시행받은 후 조직검사에서 담낭암으로 진단되어 내원하였다. 외부 병리슬라이드를 판독한 결과는 다음과 같다. 치료는?",
+ "labTable": [
+  [
+   "조직형(histology)",
+   "Adenocarcinoma, well differentiated"
+  ],
+  [
+   "침범 범위(extent of tumor)",
+   "근육주위 결합조직(perimuscular connective tissue) 침범"
+  ],
+  [
+   "위치(location)",
+   "간쪽(hepatic side)"
+  ],
+  [
+   "담낭관절제연(cystic duct margin)",
+   "종양 침범 없음(no tumor involvement)"
+  ]
+ ],
+ "options": [
+  "경과관찰",
+  "림프절 박리",
+  "림프절 박리 + 담낭주위 간절제술",
+  "림프절 박리 + 담낭주위 간절제술 + 담관절제",
+  "항암치료 + 방사선치료"
+ ],
+ "answerKeys": [
+  3
+ ],
+ "multi": false,
+ "examCount": 3,
+ "appearances": [
+  "2024",
+  "2025"
+ ],
+ "source_files": [
+  "2025/2024~2022년 턴말 통합본.pdf",
+  "2025/2025 3CD 외과 턴말 복원.docx",
+  "2024/2024년 통합턴 외과 턴말 복원_v2.docx"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": "qid 2602(2025 3CD 턴말 복원)만 담낭관절제연을 'positive for tumor'로 기록하고 정답을 4번(림프절 박리+담낭주위 간절제술+담관절제)으로 적었다. 반면 qid 2328(2025년, 2022~2024년 턴을 취합한 통합본)과 qid 2304(2024년 통합턴 복원)는 서로 다른 해에 독립적으로 작성된 문서인데도 담낭관절제연을 'no tumor involvement'로, 정답을 3번(림프절 박리+담낭주위 간절제술)으로 일치시켰다. 세 버전 모두 발문과 선지 구성·순서가 완전히 같으므로 이는 선지 순서 차이가 아니라 병리 소견 한 줄(절제연 상태)의 전사 불일치이며, 그 불일치가 그대로 정답 선택에 반영된 것이다. 독립적으로 일치하는 두 복원본을 근거로 절제연 음성, 정답 3번으로 확정했다.",
+ "source_notes": "3개 버전 모두 발문과 선지는 동일하다. 병리 소견 중 담낭관절제연(cystic duct margin) 항목만 상이하며, 그 처리는 answer_conflict에 적었다. 복원자 메타 문장이나 대체 이미지 언급은 없다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "양성 질환(급성 담낭염)으로 판단해 시행한 담낭절제술 후 병리에서 뒤늦게 암이 확인된 상황이므로 우연히 발견된 담낭암(incidental gallbladder cancer) 처치 프로토콜을 적용한다. 병리 재검토로 T 병기를 확인하고, 이어서 담낭관절제연(cystic duct margin) 상태를 확인하는 두 단계로 수술 범위가 정해진다.",
+  "approachTable": [
+   [
+    "급성 담낭염으로 시행한 담낭절제술 후 병리에서 우연히 발견된 담낭암",
+    "우연히 발견된 담낭암 프로토콜: 병리 재검토, 절제연 확인, 영상 재평가, 재수술 순으로 판단"
+   ],
+   [
+    "Extent of tumor: invasion of perimuscular connective tissue, location hepatic side",
+    "AJCC T2b. T1b 이상이므로 단순 담낭절제술로는 불충분하고 확장 담낭절제술(담낭상 4b·5분절 쐐기절제 + 간십이지장인대 림프절곽청)이 필요하다"
+   ],
+   [
+    "Cystic duct margin: no tumor involvement",
+    "절제연이 음성이므로 담관절제를 추가할 근거가 없다"
+   ]
+  ],
+  "correct": "이 환자의 병리는 근육주위 결합조직(perimuscular connective tissue) 침범, 간쪽(hepatic side) 위치로 AJCC T2b에 해당한다. gallbladder-cancer-staging-surgery 카드의 T 병기별 수술 범위 결정표에 따르면 T1b 이상부터는 확장 담낭절제술, 즉 담낭상 4b·5분절 쐐기절제와 간십이지장인대를 따르는 림프절곽청이 표준이므로 경과관찰(1번)이나 림프절 박리만 시행(2번)은 불충분하다. 같은 표에서 담관절제는 T 병기와 무관하게 담낭관절제연이 양성일 때만 추가하는데, 이 환자는 절제연이 음성이므로 담관절제를 더할 근거가 없다. 따라서 정답은 림프절 박리 + 담낭주위 간절제술(3번)이며, 담관절제를 더한 4번이나 항암 방사선치료로 대체하는 5번은 근거가 없다.",
+  "pearl": "우연히 발견된 담낭암에서 확장 절제 여부는 T 병기(T1b 이상이면 시행)로, 담관절제 추가 여부는 담낭관절제연 양성 여부로 서로 다른 기준에 따라 각각 결정한다.",
+  "concepts": [
+   "gallbladder-cancer-staging-surgery"
+  ],
+  "compare_note": "만약 병리가 T1a(점막고유층 침범에 국한)였다면 이미 시행한 담낭절제술만으로 치유적이므로 추가 수술 없이 경과관찰(1번)이 정답이 된다. 이 문항의 병리는 근육주위 결합조직 침범(T2b)이므로 해당하지 않는다. 반대로 같은 T2b라도 담낭관절제연이 양성이었다면 담관절제를 추가해야 하므로 정답이 4번(림프절 박리+담낭주위 간절제술+담관절제)으로 바뀐다. 실제로 세 복원본 중 하나(2025 3CD 턴말 복원)는 절제연을 양성으로 기록하고 4번을 답으로 적었는데, 다른 두 독립 복원본과 일치하지 않아 소수 기록으로 판단하고 반영하지 않았다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}

@@ -1146,7 +1146,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "다음은 간 수술 후 복부 사진이다. 화살표가 가리키는 구조물은? 그림 똑같음.",
-  "done": false
+  "done": true
  },
  {
   "qid": 1401,
@@ -1160,7 +1160,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "70세 남자가 황달로 왔다. 복통, 발열, 오한 등은 없었다. 혈액 검사와 복부 CT 소견은 다음과 같 다. 진단은?",
-  "done": false
+  "done": true
  },
  {
   "qid": 2226,
@@ -1174,7 +1174,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "응급 유방절제술을 시행한다. 8. 30대 여성이 출산 후 유즙 분비가 멈추지 않아 내원하였다. 최근 들어 생리가 불규칙해지고 ",
-  "done": false
+  "done": true
  },
  {
   "qid": 2255,
@@ -1188,7 +1188,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "항생제 포함한 보존적 치료 24. 평소 건강하던 6개월 남자아이가 금일 새벽부터 발생한 구토, 보챔, 복부 팽만, 분유를 잘 ",
-  "done": false
+  "done": true
  },
  {
   "qid": 2254,
@@ -1202,7 +1202,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "빗장밑 동맥 도루 증후군 (subclavian steal syndrome) 08 PDS 23. 만삭, 1.2kg 로 태어난 생",
-  "done": false
+  "done": true
  },
  {
   "qid": 411,
@@ -1216,7 +1216,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "66세 남성이 황달로 내원하였다. 우상복부 압통/반발통은 없었고 검사실 소견과 영상 검사 결과는 다음과 같다. 진단은?",
-  "done": false
+  "done": true
  },
  {
   "qid": 1500,
@@ -1229,7 +1229,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "45세 여자 환자가 건강검진에서 시행한 복부초음파 이상으로 내원하였다. 소화기계 증상 및 다 른 특별한 증상은 없다. CT소견",
-  "done": false
+  "done": true
  },
  {
   "qid": 1501,

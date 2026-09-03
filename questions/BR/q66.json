@@ -1,0 +1,63 @@
+{
+ "id": 66,
+ "section": "BR",
+ "topic": "유방보존술 절제연",
+ "stem": "여자 환자가 침윤성 유방암(invasive breast cancer)으로 유방보존술(breast conserving surgery)을 시행받았다. 종양 크기는 4cm였고, 병리 결과 절제연(resection margin)에서 암세포가 발견되었다. 이후 적절한 치료는?",
+ "labTable": [],
+ "options": [
+  "항암화학요법",
+  "추가 절제 수술",
+  "표적치료",
+  "호르몬치료",
+  "방사선치료"
+ ],
+ "answerKeys": [
+  2
+ ],
+ "multi": false,
+ "examCount": 4,
+ "appearances": [
+  "2018 이전",
+  "2020·4CD",
+  "2021·4CD",
+  "2022·3AB"
+ ],
+ "source_files": [
+  "2022/2022년 3AB 외과 턴말 복원.docx",
+  "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx",
+  "2025/2024~2022년 턴말 통합본.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": null,
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "세 버전 모두 발문과 선지, 정답이 일치한다(원본 답 2 = 추가 절제 수술). 2025년 PDF 버전은 추출 과정에서 줄바꿈이 섞여 있어 정리했다. 원래 '총론'으로 분류된 버전이 있었으나 유방암 국소치료를 직접 묻는 문항이라 BR로 바로잡았다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "발문의 핵심 단서는 유방보존술 후 절제연에서 암세포가 발견되었다는 것이다. 이는 현행 절제연 판정 기준인 no ink on tumor(침윤암은 잉크에 종양세포가 닿지 않으면 음성)를 만족하지 못한 상태를 뜻하며, 종양이 유방 내에 남아 있을 가능성이 있다는 의미다.",
+  "approachTable": null,
+  "correct": "절제연 양성은 국소에 잔존암이 남아 있을 가능성을 뜻하므로, 항암화학요법이나 방사선치료, 호르몬치료, 표적치료 같은 전신·국소 보조요법으로는 대신할 수 없다. 절제연 양성을 방사선치료로 '메우는' 것은 표준 처치가 아니며, 절제연이 음성이 되어야만 국소재발 위험을 관리 가능한 수준으로 낮출 수 있다. 따라서 절제연이 음성이 될 때까지 추가 절제 수술(재절제, re-excision)을 우선 시행하는 것이 정답이며, 재절제로도 음성 절제연을 얻지 못하면 유방전절제술(total mastectomy)로 전환한다.",
+  "pearl": "유방보존술 후 절제연 양성이면 답은 항상 외과적 재절제(또는 필요시 전절제)다. 방사선치료는 절제연이 음성으로 확인된 다음에 국소재발을 낮추려고 추가하는 것이지, 양성 절제연을 대신하는 치료가 아니다.",
+  "concepts": [
+   "breast-conserving-surgery",
+   "breast-cancer-adjuvant-therapy"
+  ],
+  "compare_note": "같은 환자라도 절제연이 처음부터 음성이었다면 추가 절제 없이 유방보존술의 원칙대로 전유방방사선치료로 바로 넘어간다. 반대로 재절제를 시행해도 절제연 음성을 얻지 못하면(광범위한 미세석회화나 다발성 병소를 동반한 경우 등) 유방보존술 자체가 실패한 것으로 보고 유방전절제술로 전환한다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [
+  {
+   "slug": "breast-conserving-surgery",
+   "title": "유방보존술의 적응증과 절제연 관리",
+   "why": "기존 유방 카드 세 개(breast-cancer-adjuvant-therapy, breast-surgery-complications, breast-cancer-risk-factors)를 확인했으나 유방보존술 자체를 정면으로 다루는 카드가 없다. breast-cancer-adjuvant-therapy는 PMRT/전유방방사선치료 적응증만 다룰 뿐 절제연 판정 기준은 다루지 않고, breast-surgery-complications의 '절제연'은 감시림프절의 extranodal extension을 가리켜 종양 절제연과 무관하다. 새 카드에는 유방보존술의 적응증과 금기(다발성 병소, 광범위 미세석회화, 이전 흉부 방사선치료 병력, 임신 등), no ink on tumor 절제연 기준(침윤암은 잉크에 종양세포가 닿지 않으면 음성, 관상피내암(DCIS)은 2mm 기준), 종양 대 유방 크기 비율이 커서 처음에는 유방전절제술이 필요해 보이는 경우 선행항암화학요법(neoadjuvant chemotherapy)으로 종양을 줄여 보존술로 전환하는 전략, 절제연 양성 시 재절제 원칙과 반복 재절제 실패 시 전절제 전환, 유방보존술의 재수술률까지 담아야 한다. 이 카드가 있으면 절제연·재절제를 묻는 문항(q66 포함)에서 표를 참조로 걸 수 있다."
+  }
+ ],
+ "source_version": 1,
+ "content_version": 1
+}
