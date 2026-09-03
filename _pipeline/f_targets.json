@@ -2972,7 +2972,7 @@
   "stem": "(변족) 56세 남자가 2주 전부터 얼굴이 노래져서 병원에 왔다. 2개월 전부터 식사 후 배가 불편 하였고 2개월간 체중이 4",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2490,
@@ -2988,7 +2988,7 @@
   "stem": "다음은 복부 CT의 관상영상(coronal section) 사진이다. 화살표가 가리키는 구조물은?",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2491,
@@ -3003,7 +3003,7 @@
   "stem": "65세 여자가 소화불량으로 병원에 왔다. 시행한 복부 CT 사진과 혈액검사 소견이다. 진단은? 총빌리루빈 18.8 mg/dL,",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2495,
@@ -3019,7 +3019,7 @@
   "stem": "62세 여성이 1 주 전 우연히 발견한 좌측 유방 상외부의 무통성인 단단한 종괴를 주소로 내원하였 다. 3 개월 전 시행한 정",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1428,
@@ -3035,7 +3035,7 @@
   "stem": "48세 여성이 좌측 유방에서 덩이가 만져져서 내원하였다. 2년 전 건강검진에서는 유방에 이상 소견이 없었다. 유방 초음파 검사",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1429,
@@ -3051,7 +3051,7 @@
   "stem": "유방절제술 및 항암화학치료 예상 답: 4) 절제 생검 양(malignant phyllodes tumor)이 확인되었다. 다른 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2279,
@@ -3067,7 +3067,7 @@
   "stem": "42세 여자가 건강검진으로 시행한 유방촬영술 상 우연히 발견한 왼쪽 유방 상내측에 군집성 다형성 미세석회화(clustered ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2345,
@@ -3083,7 +3083,7 @@
   "stem": "41 세 여성이 우측 유방암으로 우측 유방 전절제술 및 액와부 림프절 곽청술을 시행 받은 이 20. 23세 여자가 우측 유방에",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2332,
@@ -3099,7 +3099,7 @@
   "stem": "(변족) 56 세 남자가 2 주 전부터 얼굴이 노래져서 병원에 왔다. 2 개월 전부터 식사 후 배가 불편 하였고 2 개월간 체",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2698,
@@ -3115,7 +3115,7 @@
   "stem": "85 세 남자가 이틀 전부터 시작된 좌측 서혜부 통증, 복부팽만, 구토 증상으로 내원하였다. 평소 좌측 서혜부에 종물이 생겼다",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2533,
@@ -3131,7 +3131,7 @@
   "stem": "37세 여자환자가 변비와 좌상복부 불편감을 주소로 내원하였다. 13년 전 교통사고로 수술받은 병력이 있다고 한다. 신체검사상 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2503,
@@ -3147,7 +3147,7 @@
   "stem": "72세 남자가 혈변을 주소로 내원하였다. 대장내시경과 조직검사 결과 항문연 직상방에 선암이 있었고, 경직장초음파, CT, MR",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1731,
@@ -4365,8 +4365,8 @@
   "hasAns": false,
   "nimg": 2,
   "stem": "(변족) 56세 남자가 2주 전부터 얼굴이 노래져서 병원에 왔다. 2개월 전부터 식사 후 배가 불편하였고 2개월간 체중이 4k",
-  "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_of": 1532,
+  "dup_sim": 0.86,
   "done": false
  },
  {
@@ -4996,7 +4996,7 @@
   "nimg": 5,
   "stem": "유관내 유두종 (intraductal papilloma) 5) 유관확장증 (Duct ectasia) 21-4AB, 2AB) 2",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.35,
   "done": false
  },
  {
@@ -5401,7 +5401,7 @@
   "nimg": 5,
   "stem": "분변 매복 (fecal impaction) 19-4CD) 37세 여자환자가 변비와 좌상복부 불편감을 주소로 내원하였다. 13년",
   "dup_of": null,
-  "dup_sim": 0.08,
+  "dup_sim": 0.13,
   "done": false
  },
  {

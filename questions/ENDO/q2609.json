@@ -1,0 +1,68 @@
+{
+ "id": 2609,
+ "section": "ENDO",
+ "topic": "갑상선 결절, Bethesda 분류",
+ "stem": "45세 여성이 좌측 경부의 종괴로 병원에 왔다. 초음파에서 3.5cm 크기의 갑상선 결절이 발견되었다. 세침흡인검사 결과는 다음과 같다.",
+ "labTable": [
+  [
+   "세침흡인검사(FNA) 판독",
+   "Thyroid, left, L1: suspicious follicular adenoma (category 4). Microfollicular proliferative lesion with a fibrous capsule."
+  ]
+ ],
+ "options": [
+  "전절제술과 중앙림프절 곽청술",
+  "진단적 엽절제술",
+  "ethanol 주입",
+  "추적관찰",
+  "갑상선제 복용"
+ ],
+ "answerKeys": [
+  2
+ ],
+ "multi": false,
+ "examCount": 2,
+ "appearances": [
+  "2023·2AB",
+  "2025·3CD"
+ ],
+ "source_files": [
+  "2025/2025 3CD 외과 턴말 복원.docx",
+  "2023/2023년 2AB 외과 턴말 복원.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "두 회차(2025·3CD, 2023·2AB) 복원본의 발문, 선지, 정답이 완전히 일치한다. 2025년 원본 docx(문항 12번)를 직접 열어 발문과 선지, 정답 표기를 눈으로 대조해 확인했다. 세침흡인 판독문에 적힌 'suspicious follicular adenoma'는 표준 Bethesda 용어인 'follicular neoplasm/suspicious for follicular neoplasm'과 표현이 다르지만, 괄호 안에 '(category 4)'가 명시되어 있어 Bethesda 범주 IV를 가리킨다는 데는 모호함이 없다. 줄글로 이어져 있던 판독 소견은 labTable로 옮겼다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "세침흡인검사 판독이 'category 4'로 명시되어 Bethesda 범주 IV(여포종양 또는 여포종양 의심)에 해당한다. 결절이 3.5cm로 큰 편이지만, 세포검사가 이미 확정적인 범주를 얻었으므로 다음 처치는 크기가 아니라 이 Bethesda 범주가 정한다.",
+  "approachTable": [
+   [
+    "세침흡인 소견",
+    "해석"
+   ],
+   [
+    "Category 4, 섬유피막을 동반한 microfollicular proliferative lesion",
+    "Bethesda 범주 IV(여포종양/여포종양 의심), 악성 위험도 약 25~40%"
+   ]
+  ],
+  "correct": "Bethesda 범주 IV는 세포검사만으로 양성인 여포선종(follicular adenoma)과 악성인 여포암(follicular thyroid carcinoma)을 구별하지 못한다. 둘의 차이는 피막과 혈관의 침습 여부이고, 이는 세침으로 뽑은 세포 몇 개가 아니라 절제된 조직 전체를 봐야 판정할 수 있기 때문이다. 그래서 분자검사가 여의치 않은 상황에서는 진단 자체를 목적으로 갑상선엽절제술을 시행해 최종 조직검사로 양성과 악성을 가른다. 이것이 진단적 엽절제술이며, 이 결절의 크기(3.5cm)만으로 처음부터 전절제술이나 중앙림프절 곽청술로 넘어갈 근거는 아직 없다.",
+  "pearl": "세침흡인 판독에 'follicular neoplasm/suspicious for follicular neoplasm' 또는 'category 4'가 보이면, 크기와 무관하게 우선 진단적 엽절제술부터 떠올린다. 조직검사에서 침습이 확인된 뒤에야 전절제술 여부를 다시 정한다.",
+  "compare_note": "같은 크기라도 세침흡인이 Bethesda II(양성)로 나왔다면 원칙은 추적관찰이다. 다만 결절이 4cm 이상으로 크면 세침 표본채취 오류로 인한 위음성 가능성이 커져, 양성 세포검사 결과가 나와도 수술을 고려하는 경우가 있다. 이 문항은 세포검사 자체가 이미 Bethesda IV(불확정)로 나온 상태라서 이 논쟁이 개입할 필요가 없다.",
+  "concepts": [
+   "thyroid-nodule-workup"
+  ]
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [],
+ "concept_gap": "thyroid-nodule-workup 카드의 Bethesda 표는 범주 IV에 진단적 엽절제술을 권고 처치로 이미 담고 있어 이 문항 판정에는 충분했다. 다만 카드에는 '크기가 4cm 이상으로 큰 결절은 세침흡인이 음성이어도 표본채취 위음성 위험 때문에 수술을 고려한다'는 크기 기반 예외가 없다. 이번 문항은 세포검사가 이미 불확정 범주로 나와 이 논점이 직접 필요하지는 않았지만, 향후 'Bethesda II(양성)인데 4cm 이상'인 문항이 나오면 이 예외가 필요하므로 카드에 추가를 제안한다.",
+ "source_version": 1,
+ "content_version": 1
+}
