@@ -1,0 +1,88 @@
+{
+ "id": 1417,
+ "section": "ENDO",
+ "topic": "갑상선 수술 후 저칼슘혈증의 처치",
+ "stem": "53세 여성이 갑상선유두암(papillary thyroid carcinoma)으로 갑상선전절제술(total thyroidectomy)을 받고 수술 다음날부터 입 주위의 저림과 손발의 저림, 강직성 경련(carpopedal spasm)을 호소하였다. 검사 결과는 다음과 같다. 적절한 처치는?",
+ "labTable": [
+  [
+   "iCa",
+   "0.97 mmol/L"
+  ],
+  [
+   "Ca",
+   "7.4 mg/dL"
+  ],
+  [
+   "P",
+   "5.3 mg/dL"
+  ]
+ ],
+ "options": [
+  "부갑상선호르몬(PTH) 투약",
+  "활성비타민 D 투약",
+  "Bisphosphonate 투약",
+  "Furosemide 투약",
+  "Cinacalcet 투약"
+ ],
+ "answerKeys": [
+  2
+ ],
+ "multi": false,
+ "examCount": 2,
+ "appearances": [
+  "2022·4CD",
+  "2023·1AB"
+ ],
+ "source_files": [
+  "2022/2022년 4CD 외과 턴말 복원.docx",
+  "2022/2022년 4CD~2AB 외과 턴말 합본.pdf",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1AB 외과 턴말 복원.docx",
+  "2023/2023년 3AB~2AB 외과 턴말 합본.pdf"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": true,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "추출본(q1417)에서 선지가 6개로 나온 것은 정답 줄이 선지로 잘못 파싱된 것이 아니라, 같은 문서(2022년 4CD 외과 턴말 복원.docx 등) 안에 두 학생이 같은 25번 문항을 각자 복원해 나란히 실어 둔 것을 추출 스크립트가 한 문항으로 합치면서 앞 선지(부갑상선호르몬 투약)가 중복 채집된 것이다. abs_path 원본 docx·pdf를 직접 열어 대조한 결과 두 복원 모두 선지 구성(부갑상선호르몬/활성비타민D/Bisphosphonate/Furosemide/Cinacalcet 투약)과 정답(②)이 동일했다. 발문의 '(Lab이 많았지만 관련된 것만 표시하면)'은 복원자 메모이므로 발문에서 걷어냈다. 2022·4CD 턴의 첫 번째 복원은 환자를 '53세 남자'로 적었으나, 같은 문서의 두 번째 복원과 2023·1AB 계열 복원 3건은 모두 '53세 여자'로 적었다. 검사 수치(iCa 0.97, Ca 7.4, P 5.3)와 선지, 정답이 완전히 같은 동일 문항이므로 다수(4건)를 따라 여성으로 통일했다(복원자 오기로 판단). Chvostek's sign 여부도 복원마다 갈린다: 2022·4CD의 두 번째 복원은 '관찰되지 않았다'고 적었고, 2023·1AB 계열 복원 3건은 '양성이었다'고 적었다. 상충하는 소견이라 발문에서 뺐다. 이 문항은 원래 별개 qid로 추출된 q1665(2023·1AB 턴, 3개 복원본: 2022 4CD~2023 2AB 합본 PDF/2023년 1AB 단독 복원 docx/2023년 3AB~2AB 합본 PDF)와 발문 취지·선지 구성·검사 수치가 모두 동일한 같은 문항이다. q1665는 이전 작업에서 questions/ENDO/q1538.json(45세 여성, PTH 3.2 pg/mL·Ca 8.0 mg/dL, 선지가 Vit A/B/C/D/K인 문항)의 중복으로 병합되어 있었는데, q1538은 발문에서 묻는 지점은 같은 개념(활성비타민D 병용)이지만 선지 구성과 검사 수치가 이 문항과 전혀 달라 별개 문항이므로 그 병합은 오류였다. 이번 작업에서 q1665를 이 문항(q1417)의 중복으로 재지정하고, q1538에 잘못 추가되어 있던 appearances(2022·4CD, 2023·1AB)와 관련 source_notes 문장을 병합 이전 상태로 되돌리는 수정본을 _pipeline/out/q1538.json, _pipeline/out/q1665.json으로 함께 작성했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "differential",
+  "approach": "발문의 단서 세 가지가 모두 같은 방향을 가리킨다.",
+  "approachTable": [
+   [
+    "갑상선전절제술 다음날부터 입 주위 저림, 손발 저림, 강직성 경련(carpopedal spasm)",
+    "저칼슘혈증에 의한 신경근 과흥분성(neuromuscular irritability) 소견이다"
+   ],
+   [
+    "iCa 0.97 mmol/L, Ca 7.4 mg/dL (모두 저하)",
+    "실제 저칼슘혈증이 동반되어 있음을 확인한다"
+   ],
+   [
+    "P 5.3 mg/dL (상승)",
+    "정상 PTH는 신장에서 인 재흡수를 억제해 인을 배설시키는데, PTH가 없으면 인이 정체되어 고인산혈증이 나타난다. 비타민D 결핍이 아니라 부갑상선기능저하증이 원인임을 시사한다"
+   ]
+  ],
+  "correct": "PTH는 신장 근위세뇨관의 1알파 수산화효소(1-alpha hydroxylase)를 활성화해 25-수산화비타민D를 활성형인 1,25-디하이드록시비타민D(calcitriol)로 전환한다. 갑상선전절제술 중 부갑상선이 손상되거나 혈류가 끊기면 PTH 분비가 급감하고, PTH가 없으면 이 수산화 단계가 일어나지 않아 경구 칼슘을 보충해도 장에서 제대로 흡수되지 않는다. 따라서 경구 칼슘과 함께 이미 활성화된 형태인 활성비타민D를 투여해 신장의 수산화 단계를 건너뛰어야 한다. 정답은 ② 활성비타민D 투약이다.",
+  "pearl": "갑상선전절제술 후 저칼슘혈증 문항에서 선지에 혈중 칼슘을 낮추는 약(Bisphosphonate, Furosemide, Cinacalcet)이 섞여 있어도 방향을 헷갈리지 말 것. 칼슘을 올리는 활성형 비타민D(calcitriol)가 답이다.",
+  "concepts": [
+   "thyroid-surgery-complications"
+  ],
+  "compare_note": "같은 개념(갑상선전절제술 후 저칼슘혈증에 활성비타민D 병용)을 다루는 questions/ENDO/q1538.json과는 발문과 선지 구성이 달라 별개 문항이다. q1538은 '칼슘제와 함께 투여할 약제'를 Vit A/B/C/D/K 중에서 고르며 PTH 3.2 pg/mL, Ca 8.0 mg/dL 수치를 제시하지만, 이 문항은 '적절한 처치'를 부갑상선호르몬/활성비타민D/Bisphosphonate/Furosemide/Cinacalcet라는 약물명 선지 중에서 고르며 iCa 0.97 mmol/L, Ca 7.4 mg/dL, P 5.3 mg/dL라는 다른 수치를 제시한다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "부갑상선호르몬(PTH) 투약: 결핍된 호르몬을 직접 보충한다는 발상이지만, 재조합 PTH 제제는 고가이고 표준 치료에 반응하지 않는 만성 부갑상선기능저하증에서 제한적으로 쓰인다. 수술 직후 급성 저칼슘혈증의 표준 처치는 아니다.",
+  "2": "활성비타민 D 투약: 정답. PTH 없이도 신장의 수산화 단계를 거치지 않고 바로 장에서 칼슘 흡수를 늘릴 수 있는 유일한 경로라 경구 칼슘과 함께 투여한다.",
+  "3": "Bisphosphonate 투약: 파골세포의 골흡수를 억제해 혈중 칼슘을 낮추는 약제로 악성종양성 고칼슘혈증이나 골다공증에 사용한다. 이미 저칼슘혈증인 이 환자에게는 증상을 악화시킨다.",
+  "4": "Furosemide 투약: 루프이뇨제는 헨레고리 상행각에서 칼슘 재흡수를 억제해 요중 칼슘 배설을 늘리므로 고칼슘혈증의 보조 치료로 쓰인다. 저칼슘혈증에는 반대 방향의 약이다.",
+  "5": "Cinacalcet 투약: 부갑상선의 칼슘감지수용체(calcium-sensing receptor)를 활성화해 PTH 분비를 억제하는 약으로, 원발성·이차성 부갑상선기능항진증의 고칼슘혈증에 사용한다. PTH가 이미 저하된 이 환자에게는 맞지 않는다."
+ },
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}

@@ -1630,7 +1630,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "53세 여자 환자가 갑상선유두암으로 갑상선전절제술을 받고 다음날부터 손발저림을 호소하였 다. 수족경련(carpopedal sp",
-  "done": false
+  "done": true
  },
  {
   "qid": 1700,
@@ -1643,7 +1643,7 @@
   "hasAns": false,
   "nimg": 1,
   "stem": "경부 종괴로 내원한 환자. 초음파 상 결절 확인되었다. 다음 검사는? TFT 결과: 모두 정상범위 (괄호 안에 정상치 모두 주",
-  "done": false
+  "done": true
  },
  {
   "qid": 2555,
@@ -1656,7 +1656,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "5년 전 진행성 위암으로 수술받은 병력이 있는 환자이다. 내시경은 다음과 같다. 수술 이후 보충해야 하는 영양소는?",
-  "done": false
+  "done": true
  },
  {
   "qid": 359,
@@ -1670,7 +1670,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "68세 남자가 건강검진에서 발견된 이상으로 왔다. CT 소견이 다음과 같을 때 조치는?",
-  "done": false
+  "done": true
  },
  {
   "qid": 371,
@@ -1684,7 +1684,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "71세 남성이 우상복부 통증으로 내원하였다. B형 간염 보균자였고 검사 결과 다음과 같았다. 진단은?",
-  "done": false
+  "done": true
  },
  {
   "qid": 1498,
@@ -1697,7 +1697,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "우측 복부 불편감으로 내원한 환자. 혈액 검사와 CT 소견은 다음과 같다. 치료는? <혈액검사> platelet, albumi",
-  "done": false
+  "done": true
  },
  {
   "qid": 1529,
@@ -1710,7 +1710,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "(짤족) 갑작스럽게 쥐어짜는 듯한 복통으로 온 45세 여자. BP 80/50 정도로 unstable 발열, WBC 증가, CR",
-  "done": false
+  "done": true
  },
  {
   "qid": 2320,
@@ -1724,7 +1724,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "8년 전부터 B형 간염 감염력을 알고 있던 45세 남자 환자가 어제부터 헛소리를 한다면서 병 원에 내원하였다. 환자의 눈이 노",
-  "done": false
+  "done": true
  },
  {
   "qid": 1656,
@@ -1737,7 +1737,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "58세 여자가 7일 전부터 열이 난다며 응급실에 왔다. 3년 전 간외담관암으로 절제술을 받고 추 적관찰 중이라고 한다. 혈압 ",
-  "done": false
+  "done": true
  },
  {
   "qid": 1657,
@@ -1750,7 +1750,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "만성 B형 간염으로 정기적으로 검진 중인 50세 남자 환자가 초음파에서 발견된 간 덩이를 주 소로 내원하였다. 간기능검사상 이",
-  "done": false
+  "done": true
  },
  {
   "qid": 1687,
@@ -1763,7 +1763,7 @@
   "hasAns": false,
   "nimg": 0,
   "stem": "이전에 건강하던 23세 젊은 남자가 10일 전부터 심해지는 황달이 있어 내원하였다. 여행 을 다녀온 적 없다고 하였고, 2주 ",
-  "done": false
+  "done": true
  },
  {
   "qid": 2686,
@@ -1777,7 +1777,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "39 세 남성이 건강검진 상 우연히 발견된 간 종괴로 내원하였다. 복부 CT 및 조직검사를 시행한 결과는 다음과 같다. 조직검",
-  "done": false
+  "done": true
  },
  {
   "qid": 1385,
