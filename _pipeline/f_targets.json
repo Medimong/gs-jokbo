@@ -1950,7 +1950,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "(짤족) 갑작스러운 복통. 압통과 반발압통, V/S 불안정, 37.9도 발열",
-  "done": false
+  "done": true
  },
  {
   "qid": 1542,
@@ -1963,7 +1963,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "(탈족) 65세 남자가 1주 전부터 반복되는 구토와 복통으로 병원에 왔다. 1개월 전부터 윗배가 쓰렸다고 하며 신물이 올라오고",
-  "done": false
+  "done": true
  },
  {
   "qid": 2399,
@@ -1977,7 +1977,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "(탈족) 65 세 남자가 1 주 전부터 반복되는 구토와 복통으로 병원에 왔다. 1 개월 전부터 윗배가 쓰렸다고 하며 신물이 올",
-  "done": false
+  "done": true
  },
  {
   "qid": 1668,
@@ -1990,7 +1990,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "73세 남자가 2개월 전부터 시작된 속쓰림을 주소로 내원하였다. 20년 전 위암으로 원위부위절 제술을 받았으며, 3년 전에 받",
-  "done": false
+  "done": true
  },
  {
   "qid": 1701,
@@ -2003,7 +2003,7 @@
   "hasAns": false,
   "nimg": 0,
   "stem": "Distal gastrectomy를 시행할 때 그 문합 방법으로 Billroth II anastomosis 보다 Roux-en",
-  "done": false
+  "done": true
  },
  {
   "qid": 1707,
@@ -2016,7 +2016,7 @@
   "hasAns": false,
   "nimg": 1,
   "stem": "그림과 같이 위각 직하방에 있는 진행성 위암에 대한 근치적 아전절제술을 시행할 때, 보존되는 구조물은?",
-  "done": false
+  "done": true
  },
  {
   "qid": 2393,
@@ -2030,7 +2030,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "Perineural invasion: not identified",
-  "done": false
+  "done": true
  },
  {
   "qid": 2398,
@@ -2044,7 +2044,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "81세 남자가 기운이 없어 응급실에 왔다. 1달 전부터 명치부위의 통증과 소화불량 있었고, 3일 전부터 식사를 못했다고 한다.",
-  "done": false
+  "done": true
  },
  {
   "qid": 2545,
@@ -2058,7 +2058,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "60세 복막투석을 하던 남성이 뇌사자에게 신장을 공여받았다. 기증자는 사고로 응급실에 와 당시 BUN/Cr이 14/0.7이었으",
-  "done": false
+  "done": true
  },
  {
   "qid": 1761,
@@ -2073,7 +2073,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "좌측 말초동맥폐쇄가 의심되는 임상상 제시. 좌, 우의 ABI를 옳게 계산한 것은?",
-  "done": false
+  "done": true
  },
  {
   "qid": 1766,
@@ -2088,7 +2088,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "다음과 같은 병변으로 환자가 내원하였다. 소독할 때 피가 조금 났으나 환자는 별로 아프지 않다고 한다. 다음 사진을 일으킬 것",
-  "done": false
+  "done": true
  },
  {
   "qid": 1520,
@@ -2101,7 +2101,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "(21-3CD) (20-3AB) (19-1AB) 뇌졸중 과거력이 있는 75세 남자가 좌측 다리에 심한 파행이 있어 내원하였다.",
-  "done": false
+  "done": true
  },
  {
   "qid": 1522,
@@ -2179,7 +2179,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "(탈족) 64세 남자가 3개월 전부터 오른쪽 다리가 아프다며 병원에 왔다. 200m 이상 걸으면 오 른쪽 장딴지가 쥐어짜는 듯",
-  "done": false
+  "done": true
  },
  {
   "qid": 1552,

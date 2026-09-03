@@ -24,12 +24,13 @@
   3
  ],
  "multi": false,
- "examCount": 5,
+ "examCount": 6,
  "appearances": [
   "2018 이전",
   "2021·2CD",
   "2022·4AB",
   "2023·2CD",
+  "2023·3AB",
   "2025·2AB"
  ],
  "source_files": [
@@ -66,7 +67,7 @@
  "generated_options": [],
  "answer_changed": null,
  "answer_conflict": null,
- "source_notes": "이미지 6장(e35423bebbc.png, ecf3900d6c6.png, ecec9d8089b.png, e1260e80593.png, e2ca65fc246.gif, ef43a2ab902.jpg)을 모두 직접 열어 비교한 결과 실제 임상 영상은 두 장뿐이었다. (1) 간 CT 단면에서 간 피막 쪽까지 뻗은 가지 모양의 저음영(gas density) 관상 구조에 '2cm' 화살표 주석이 붙어 있는 영상으로, 문맥정맥 공기(portal venous gas)를 간문맥(porta hepatis) 주변에 국한되는 담도 내 공기(pneumobilia)와 구별할 때 쓰는 전형적 교육용 계측(간 피막에서 2cm 이내까지 도달하면 PVG, 중심부에 국한되면 pneumobilia)이다. (2) 하복부 CT 단면에서 장간막 혈관 조영증강과 함께 소장벽을 따라 작은 저음영 점들이 흩어져 보이는 장벽내 공기(pneumatosis intestinalis) 소견이다. 나머지 네 이미지(e35423bebbc.png, ef43a2ab902.jpg, ecec9d8089b.png, e2ca65fc246.gif)는 이 두 영상을 다른 해상도/포맷으로 재캡처했거나 합성한 중복본이라 images_dropped로 처리했다. 4개 복원본의 발문, 선지, 정답(③ 응급개복술)은 모두 일치했고 '탈족'이나 '부정확' 같은 메타 표시는 없었다. 2022년 [GS] 합본 버전에는 이 문항이 2016년 이전부터 22-4AB, 21-2CD, 20-1AB, 1CD, 3AB로 여러 차례 반복 출제된 이력 태그가 남아 있어 appearances에 반영했다. 혈압과 체온은 문장 속에 나열되어 있던 것을 labTable로 옮겼다. section_votes가 총론 1, UGI 1로 갈렸던 것은 2016년 이전 대합본 문서가 '소장 폐색 및 ileus'라는 주제 헤딩을 분과 태그로 잘못 물려받은 흔적이며, 내용상 소장 폐색과 장관 허혈/괴사를 다루므로 UGI로 판정했다.",
+ "source_notes": "q1553로 따로 추출된 버전이 같은 문항으로 확인되어 출제 이력을 합쳤다. 이미지 6장(e35423bebbc.png, ecf3900d6c6.png, ecec9d8089b.png, e1260e80593.png, e2ca65fc246.gif, ef43a2ab902.jpg)을 모두 직접 열어 비교한 결과 실제 임상 영상은 두 장뿐이었다. (1) 간 CT 단면에서 간 피막 쪽까지 뻗은 가지 모양의 저음영(gas density) 관상 구조에 '2cm' 화살표 주석이 붙어 있는 영상으로, 문맥정맥 공기(portal venous gas)를 간문맥(porta hepatis) 주변에 국한되는 담도 내 공기(pneumobilia)와 구별할 때 쓰는 전형적 교육용 계측(간 피막에서 2cm 이내까지 도달하면 PVG, 중심부에 국한되면 pneumobilia)이다. (2) 하복부 CT 단면에서 장간막 혈관 조영증강과 함께 소장벽을 따라 작은 저음영 점들이 흩어져 보이는 장벽내 공기(pneumatosis intestinalis) 소견이다. 나머지 네 이미지(e35423bebbc.png, ef43a2ab902.jpg, ecec9d8089b.png, e2ca65fc246.gif)는 이 두 영상을 다른 해상도/포맷으로 재캡처했거나 합성한 중복본이라 images_dropped로 처리했다. 4개 복원본의 발문, 선지, 정답(③ 응급개복술)은 모두 일치했고 '탈족'이나 '부정확' 같은 메타 표시는 없었다. 2022년 [GS] 합본 버전에는 이 문항이 2016년 이전부터 22-4AB, 21-2CD, 20-1AB, 1CD, 3AB로 여러 차례 반복 출제된 이력 태그가 남아 있어 appearances에 반영했다. 혈압과 체온은 문장 속에 나열되어 있던 것을 labTable로 옮겼다. section_votes가 총론 1, UGI 1로 갈렸던 것은 2016년 이전 대합본 문서가 '소장 폐색 및 ileus'라는 주제 헤딩을 분과 태그로 잘못 물려받은 흔적이며, 내용상 소장 폐색과 장관 허혈/괴사를 다루므로 UGI로 판정했다.",
  "verify": "verified",
  "explanation": {
   "qtype": "guideline",
