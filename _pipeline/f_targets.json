@@ -5175,9 +5175,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "60세 남성이 2달 전 시작된 선홍색 대변을 본 것을 주소로 내원하였다. 3달 간 4kg 체중감소가 있었으며 혈액 검사에서 빈",
-  "dup_of": null,
-  "dup_sim": 0.19,
-  "done": false
+  "dup_of": 2536,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2615,
@@ -5190,9 +5190,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "67세 여자 환자가 건강검진을 목적으로 대장내시경 받은 뒤 4시간 후 발생한 복통과 복부팽만으로 내원하였다. 복부 전반의 압통",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2615,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2644,
@@ -5205,9 +5205,9 @@
   "hasAns": true,
   "nimg": 3,
   "stem": "저위전방절제술 후 회장루 조성했던 환자. 회장루복원술 하기 위해 검사 진행하였고, 다음은 그 결과이다. 진단은? barium ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2644,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2646,
@@ -5220,9 +5220,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "sigmoid colon에 게실염 있음. 장 주위에 공기방울 있음. abscess는 없었음. 있었음(?). CT 소견 제공 치",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2646,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2647,
@@ -5235,9 +5235,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "복원내용도확실하지않아잘모르겠습니다 하루 전부터 복통 있었던 젊은 여자 환자. 소화제 먹었으나 호전되지 않음. 다음날 우하복부에",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2647,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2674,
@@ -5250,9 +5250,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "가족성선종성용종증(FAP) 환자에서는대장뿐만아니라십이지장에도선종성용종이 호발하며, 이는팽대부암등으로 악화되어환자의주요사망원인이",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2674,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2675,
@@ -5265,9 +5265,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "배변 시 항문 통증과 출혈을 주소로 42세 여자 환자가 내원하였다. 진찰 상 항문 후방에 열상이 관찰되었다. 이 환자의 초기 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2675,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2676,
@@ -5280,9 +5280,9 @@
   "hasAns": false,
   "nimg": 0,
   "stem": "70세남자환자가직장암으로내원하였다. 병변은항문연상방 5cm에위치하고있었으며, 수술전병기 설정검사결과 T3N1M0로확인되었다. ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2676,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2697,
@@ -5295,9 +5295,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "85 세 여자가 항문 부위에 그림 A 와 같은 증상을 주소로 내원하여 그림 B 와 같은 치료를 받았다. 진단명은?",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2697,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2699,
@@ -5310,9 +5310,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "52 세 여자가 건강검진으로 시행한 대장내시경에서 항문연 상방 15cm 위치에서 사진과 같은 병변이 발견되었다. 다음으로 시행",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2699,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2700,
@@ -5325,9 +5325,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "85 세 여성이 5 일 전부터 시작된 우하복부 통증으로 내원하였다. 우하복부 통증이 시작되기 전에는 상복부 통증과 체한 느낌이",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2700,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2731,
@@ -5340,9 +5340,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "78세 남자가 혈변으로 내원하였다. 대장내시경에서 항문연 직상방에 종괴가 관찰되었 고, CT에서 원격전이는 없다. 골반 MRI",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2731,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2732,
@@ -5536,7 +5536,7 @@
   "nimg": 8,
   "stem": "Drainage Seton 19-2CD) 항문 주위 통증을 주소로 온 환자. 과저 압통 열감이 있었으며 배액이 되면 좋아지는 ",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.1,
   "done": false
  },
  {
@@ -9361,7 +9361,7 @@
   "nimg": 2,
   "stem": "72세 여자환자가 직장 항문 부위에 그림 A와 같은 증상을 주소로 내원하여 그림 B와 같은 치료를 받았다. 진단명은? (21-",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.59,
   "done": false
  },
  {
