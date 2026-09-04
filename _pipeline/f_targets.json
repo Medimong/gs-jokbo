@@ -4306,7 +4306,7 @@
   "stem": "만삭, 3.3kg, 질식분만으로 출생하여 별다른 문제 없이 지내오던 3개월된 남자가 1일 전 발견된 좌측 서혜부의 만져지는 덩",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2483,
@@ -4322,7 +4322,7 @@
   "stem": "70세 남자 환자가 화재 현장에서 입은 전신화상으로 응급실로 내원하였다. 환자의 키는 165cm, 체중 은 60kg 였다. 전",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 58,
@@ -4337,7 +4337,7 @@
   "stem": "(22-2AB) (21-4AB) (20-2AB, 3AB, 4AB) (18이전) 진행성 위암으로 7일전 수술받은 65세 환자에서",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 176,
@@ -4352,7 +4352,7 @@
   "stem": "47세 여자가 변이 검게 나온다며 병원에 왔다. 위내시경 검사에서 위 날문방 뒷벽에 4cm 크기의 출혈을 동반한 종괴가 발견되",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2148,
@@ -4365,9 +4365,9 @@
   "hasAns": false,
   "nimg": 2,
   "stem": "(변족) 56세 남자가 2주 전부터 얼굴이 노래져서 병원에 왔다. 2개월 전부터 식사 후 배가 불편하였고 2개월간 체중이 4k",
-  "dup_of": 1532,
-  "dup_sim": 0.86,
-  "done": false
+  "dup_of": 2148,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2520,
@@ -4380,9 +4380,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "72세 남자가 원위부담관암으로 유문보존췌십이지장절제술을 받았다. 수술 이후 4일 째에 경구 식이 시작하였으며 수술 후 7일 차",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2520,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2522,
@@ -4395,9 +4395,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "62세 여자 환자가 일주일 전부터 발생한 황달, 발열, 복통으로 내원하였다. 최근 6kg의 체중감소가 있었다. 복부 초음파에서",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2522,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2547,
@@ -4410,9 +4410,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "72 세 여자가 상복부 불쾌감 및 소화불량이 있어 내원 하였다. 혈액검사 및 복부 CT 검사 결과는 아래와 같았다. 적절한 치",
-  "dup_of": null,
-  "dup_sim": 0.31,
-  "done": false
+  "dup_of": 2547,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2603,
@@ -4425,9 +4425,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "며칠 전부터 시작된 발열, 황달 증상을 주소로 내원한 65 세 남성. 혈압 90/70, 체온 38.9 도, Hb 정상, WBC",
-  "dup_of": 74,
-  "dup_sim": 0.64,
-  "done": false
+  "dup_of": 2603,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2632,
@@ -4440,9 +4440,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "40~50대 여성, 2주 전부터 경한 식후 불편감으로 내원 CT 소견 - double duct sign 상부위장관내시경 소견 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2632,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2633,
@@ -4455,9 +4455,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "2일 전부터 복통, 발열로 내원한 여자 환자. 우상복부 통증, 불편감, 복부팽만 있고 반동압통 없음. 신체진찰 시 우상복부 촉",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2633,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2661,
@@ -4606,7 +4606,7 @@
   "nimg": 4,
   "stem": "간외담관절제술 및 담관절제술 21-1AB, 1CD, 2AB, 3AB, 4AB) 20-1CD, 2AB, 4CD) 71세 남자가 ",
   "dup_of": null,
-  "dup_sim": 0.13,
+  "dup_sim": 0.27,
   "done": false
  },
  {
@@ -6361,7 +6361,7 @@
   "nimg": 0,
   "stem": "(22- 2AB 변족) (21-1AB, 1CD, 2AB, 3AB, 4AB) (20-1CD, 2AB, 4CD) 68세 남자가 2",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.27,
   "done": false
  },
  {
@@ -8146,7 +8146,7 @@
   "nimg": 2,
   "stem": "hyper pigmentation 19-4CD) 다음 병변의 원인은? 21-1CD) 하지정맥류 치료법 중 thermal abl",
   "dup_of": null,
-  "dup_sim": 0.12,
+  "dup_sim": 0.21,
   "done": false
  },
  {
@@ -8656,7 +8656,7 @@
   "nimg": 1,
   "stem": "71세 남자가 2주 전부터 시작된 가려움증, 황달, 체중감소로 왔다. 복부 전산화단층촬영과 혈액검사 결과는 다음과 같았다. 적",
   "dup_of": null,
-  "dup_sim": 0.32,
+  "dup_sim": 0.38,
   "done": false
  },
  {
