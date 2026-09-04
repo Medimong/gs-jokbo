@@ -4290,7 +4290,7 @@
   "stem": "10 개월 여자를 보호자가 목욕 시키던 중 발견된 복부 덩이를 주소로 내원하였다. 눈 주위의 출혈반이 있었으며 목에서 덩이는 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2463,
@@ -4470,9 +4470,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "CT 상 담낭에 1.2cm 크기의 polyp 소견. (hypoechoic shadowing 없는 초음파 사진) 치료는?",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2661,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2662,
@@ -4485,9 +4485,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "담석증 및 담낭염으로 인해 담낭절제술 받은 환자. 수술 2일차에 갑자기 황달 증상과 소변색 이상 발생. lab 소견 상 tot",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2662,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2689,
@@ -4500,9 +4500,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "72 세 남성이 췌두부십이지장절제술을 받은 지 7 일째 되는 날부터 38.5℃의 고열과 함께 심한 우상복부 통증을 호소하였다.",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2689,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2690,
@@ -4515,9 +4515,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "50 대 남자가 담석증 및 담낭염으로 담낭절제술을 받았다. 수술 2 일차에 온몸이 노래지고 가렵고 검정색 소변이 나와서 내원하",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2690,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2691,
@@ -4530,9 +4530,9 @@
   "hasAns": false,
   "nimg": 1,
   "stem": "57 세 남자가 체중 감소 및 복통으로 내원하였다. CA 19-9 상승, AST/ALT 정상, ALP 상승 (시험에서는 훨씬 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2691,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2720,
@@ -4545,9 +4545,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "47세 여자가 2주 전부터 발생한 식후 불편감으로 내원하였다. 복부 CT: 총담관과 주췌관이 함께 확장된 double-duct",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2720,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2721,
@@ -4560,9 +4560,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "과거 급성 췌장염으로 치료받은 56세 남자가 갑작스러운 상복부 통증과 어지럼증으로 내원하였다. 혈압은 83/52 mmHg, 맥",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2721,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1189,
@@ -4575,9 +4575,9 @@
   "hasAns": true,
   "nimg": 7,
   "stem": "내시경적 역행성 담췌관조영술 22-4AB) 남자 환자가 황달로 내원하였다. 다음은 MRCP 및 CT 소견이다. 이 환자의 진단",
-  "dup_of": null,
-  "dup_sim": 0.25,
-  "done": false
+  "dup_of": 1189,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1190,
@@ -4590,9 +4590,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "췌두부암 2) 십이지장암 3) AoV cancer 딥: 1 19-1AB) 73세 남자 체중감소를 주소로 내원하였다. 5년 전 ",
-  "dup_of": null,
-  "dup_sim": 0.26,
-  "done": false
+  "dup_of": 1190,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1192,
@@ -4605,9 +4605,9 @@
   "hasAns": true,
   "nimg": 4,
   "stem": "간외담관절제술 및 담관절제술 21-1AB, 1CD, 2AB, 3AB, 4AB) 20-1CD, 2AB, 4CD) 71세 남자가 ",
-  "dup_of": null,
-  "dup_sim": 0.27,
-  "done": false
+  "dup_of": 1192,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1193,
@@ -4620,9 +4620,9 @@
   "hasAns": true,
   "nimg": 5,
   "stem": "21-1CD, 3CD) 34세 여자가 검진 목적으로 시행한 복부 초음파 사진이다. 평소 소화기 관련 증상은 없었다. 치료는? ",
-  "dup_of": null,
-  "dup_sim": 0.28,
-  "done": false
+  "dup_of": 1193,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1194,
@@ -4666,7 +4666,7 @@
   "nimg": 1,
   "stem": "발열, 복통 및 황달을 주소로 환자가 내원하였다. 2년 전 담낭염으로 복강경 담낭절제술을 시행 받",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.06,
   "done": false
  },
  {
@@ -8581,7 +8581,7 @@
   "nimg": 2,
   "stem": "72세 남자가 황달과 전신 가려움증으로 내원하였다. MRI를 이용한 췌담관조영 (MRCP)을 시행하여 아래 사진과 같은 결과를",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.18,
   "done": false
  },
  {
@@ -8596,7 +8596,7 @@
   "nimg": 1,
   "stem": "72세 남자가 황달과 전신 가려움증으로 내원하였다. MRI를 이용한 췌담관조영(MRCP)을 시행하여 아래 사진과 같은 결과를 ",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.16,
   "done": false
  },
  {
@@ -8716,7 +8716,7 @@
   "nimg": 1,
   "stem": "발열, 복통 및 황달을 주소로 환자가 내원하였다. 2년전 담낭염 복강경 담낭절제술을 시행 받았다고 한다. Bilirubin 4",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.13,
   "done": false
  },
  {

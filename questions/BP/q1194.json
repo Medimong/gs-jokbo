@@ -1,0 +1,52 @@
+{
+ "id": 1194,
+ "section": "BP",
+ "topic": "급성 담관염(총담관결석)",
+ "stem": "72세 남자가 일주일 전부터 발생한 복통과 발열을 주소로 내원하였다. 2년 전 담석증으로 담낭염을 진단받고 복강경 담낭절제술(laparoscopic cholecystectomy)을 받은 병력이 있다. 검사 결과 AST/ALT와 GGT/ALP가 모두 상승해 있었고, 영상 검사에서 담관에 결석 소견이 확인되었다. 치료는?",
+ "labTable": [],
+ "options": [
+  "내시경적 역행성 담췌관조영술(ERCP)",
+  "초음파 쇄석술",
+  "항생제 및 수액 치료",
+  "췌십이지장절제술(pancreaticoduodenectomy)",
+  "담관공장문합술(choledochojejunostomy)"
+ ],
+ "answerKeys": [
+  1
+ ],
+ "multi": false,
+ "examCount": 1,
+ "appearances": [
+  "2019·1CD"
+ ],
+ "source_files": [
+  "2022/[GS] 턴말 정리 19-22 4AB_고두혜, 박가을, 우한결, 윤한나.docx"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "추출본은 발문 앞에 바로 앞 문항(21-3CD, 20-4CD 버전: 담낭절제 후 CT에서 병변만 보이고 CA19-9 등 암 소견은 없는 환자, 답 1번 ERCP)의 정답 텍스트 '내시경적 역행성 담췌관 조영술'과 그 문항의 회차 태그 '19-1CD'가 실제로는 이 문항 자신의 회차 태그임을 오인해 한 덩어리로 흡수했고, 선지도 앞 문항의 2~5번(수액 및 항생제 치료/경피적 배액술/체외 충격파 쇄석술/개복 수술)과 이 문항의 실제 선지 3개(ERCP/초음파 쇄석술/항생제+수액치료)가 뒤섞여 7개로 부풀었다. 원본 docx(문단 628~636)를 열어 확인한 결과 '19-1CD)'는 이 문항 자신의 회차 태그이며, 실제 선지는 원문자 없이 번호로 적힌 5개(①ERCP ②초음파 쇄석술 ③항생제+수액치료 ④Pancreaticoduodenectomy ⑤담도-공장문합술)이고 답은 '답: 1'(ERCP)이다. 근접 중복 후보로 제시된 qid 458은 같은 발문과 답을 담은 동일 문항의 다른 추출 인스턴스로 보이며, 아직 questions/BP/에 완료본이 없어 중복 병합 대상이 아니다(다른 에이전트가 처리할 몫).",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "guideline",
+  "approach": "일주일간 지속된 발열과 복통, 담낭절제술 후 재발한 담관 결석, 그리고 AST/ALT·GGT/ALP가 함께 오르는 담즙정체형 간기능검사 소견은 TG18 급성 담관염(acute cholangitis) 진단기준의 전신 염증과 담즙정체, 영상 소견을 모두 만족한다. 쇼크나 의식 저하, 장기부전을 시사하는 서술이 없어 중증(Grade III)으로 볼 근거는 부족하므로, 원인이 되는 총담관결석을 내시경으로 바로 제거하며 배액하는 치료가 우선된다.",
+  "approachTable": null,
+  "correct": "ERCP는 조임근절개술(sphincterotomy)로 담관을 배액함과 동시에 원인인 담관 결석을 내시경으로 직접 제거할 수 있어 경도에서 중등도 급성 담관염의 표준 1차 치료다. 항생제와 수액 치료만으로는 패혈증 조절에는 도움이 되지만 폐쇄의 원인인 결석이 남아 재발하므로 단독 치료로는 불충분하다. 경피적 배액술(PTBD)이나 개복 수술은 내시경 접근이 불가능하거나 실패했을 때의 대안이며, 초음파 쇄석술은 이 부위 결석의 표준 치료가 아니다. 췌십이지장절제술과 담관공장문합술은 종양성 협착 등 구조적 병변에 쓰는 술식으로 단순 총담관결석에는 과도한 치료다.",
+  "pearl": "담낭절제 후 재발한 총담관결석에 발열이 겹치면 급성 담관염이며, 중증도가 경도에서 중등도인 한 ERCP로 배액과 결석 제거를 동시에 해결한다.",
+  "concepts": [
+   "acute-cholangitis-tokyo-guidelines",
+   "gallstone-disease"
+  ],
+  "compare_note": "쇼크나 의식 저하 같은 장기부전이 동반된 중증(Grade III) 담관염이면 응급 감압을 위해 경피경간담도배액술(PTBD)을 먼저 시행하고 결석 제거는 환자 상태가 안정된 뒤로 미룬다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}
