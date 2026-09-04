@@ -57,6 +57,7 @@ article.q:first-of-type{border-top:0}
 .badge{font-size:11.5px;color:var(--mute);border:1px solid var(--line);border-radius:2px;padding:1px 7px}
 .badge.hot{color:var(--accent);border-color:#e8d6da;background:var(--accent-soft)}
 .topic{font-size:12px;color:var(--mute)}
+.topic.veiled{display:none}
 .done{margin-left:auto;font-size:11.5px;color:var(--ok)}
 
 .stem{color:var(--ink);font-size:15.5px;line-height:1.78;white-space:pre-wrap;margin-bottom:12px}
@@ -344,7 +345,13 @@ function card(q, idx) {
   h.appendChild(el('span', 'qno', String(idx + 1)));
   h.appendChild(el('span', 'badge', q.section));
   if (q.examCount > 1) h.appendChild(el('span', 'badge hot', '출제 ' + q.examCount + '회'));
-  if (q.topic) h.appendChild(el('span', 'topic', q.topic));
+  let topicEl = null;
+  if (q.topic) {
+    topicEl = el('span', 'topic', q.topic);
+    // 주제가 곧 진단명인 문항이 많다. 퀴즈에서는 채점 전까지 가린다.
+    if (S.mode === 'quiz') topicEl.classList.add('veiled');
+    h.appendChild(topicEl);
+  }
   if (PROG[q.id] === 'ok') h.appendChild(el('span', 'done', '맞힘'));
   a.appendChild(h);
   a.appendChild(el('div', 'stem', q.stem));
@@ -391,6 +398,7 @@ function card(q, idx) {
         q.answerKeys.forEach(k => ol.children[k - 1].classList.add('reveal-ok'));
         ex.classList.add('show');
         if (a._unmask) a._unmask();
+        if (topicEl) topicEl.classList.remove('veiled');
         PROG[q.id] = picked.every(p => q.answerKeys.includes(p)) ? 'ok' : 'wrong';
         save();
         if (S.mode === 'quiz') afterGrade();
