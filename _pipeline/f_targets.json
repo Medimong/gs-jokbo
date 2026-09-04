@@ -4815,9 +4815,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "중년 여자가 우측 유방에 Ductal carcinoma in situ 진단으로 우측 유방보존술을 시행 받았다. 검체 검사에서 ",
-  "dup_of": null,
-  "dup_sim": 0.18,
-  "done": false
+  "dup_of": 2605,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2606,
@@ -4830,9 +4830,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "다음 그림은 유방재건술을 보이고 있다. 그림과 관련 있는 혈관은?",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2606,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2635,
@@ -4845,9 +4845,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "유방암 환자에서 유방보존술(BCS)하였고, 방사선치료 시행 예정이다. 병리 검사 결과가 다음과 같을 때, 환자에게 할 다음 조",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2635,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2636,
@@ -4860,9 +4860,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "유방비대로 인해 3년 전 유방축소술 한 50대 여성. 1년 전 유방촬영술 이상 소견 없었음. mammography에서 calc",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2636,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2665,
@@ -4875,9 +4875,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "환자에서 유방보존술(BCS)과감시림프절절제하였다. 유방암 병리결과림프전이없고 ER(+) HER(-) 재발위험도 12점 치료는?",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2665,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2666,
@@ -4890,9 +4890,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "55세 여성에 유두쪽 혈성 분비물로 내원. 중심침검사에서 BI-RADS4c 결과. 유방초음파에서 관내유두종 사진 제시됨. 처치",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2666,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2706,
@@ -4905,9 +4905,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "유방 습진과 가려움으로 내원한 환자이다. 이전에 방문한 병원에서 처방받은 스테로이드 고를 도포하였으나 효과가 없었다. 유방 촉",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2706,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2708,
@@ -4920,9 +4920,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "삼중음성유방암의 치료를 위해 선행항암화학요법을 시행하였다. 이후 유방 MRI 에서 영상학적 완전관해를 확인하였다. 이후 치료는",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2708,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2722,
@@ -4935,9 +4935,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "41세 여자가 우측 유방전절제술과 액와 림프절 곽청술을 받은 후, 다음과 같은 증상이 나타났다고 한다.",
-  "dup_of": null,
-  "dup_sim": 0.32,
-  "done": false
+  "dup_of": 2722,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2723,
@@ -4950,9 +4950,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "52세 여자가 건강검진으로 한 유방촬영술에서 segmental distribution의 pleomorphic calcifica",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2723,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2724,
@@ -4965,9 +4965,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "45세 여자가 유방보존술과 감시림프절 생검을 받았다. 선행항암치료는 시행하지 않았 다. 절제연은 음성이며 감시림프절 5개 중 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2724,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1198,
@@ -4980,9 +4980,9 @@
   "hasAns": true,
   "nimg": 3,
   "stem": "Fine needle aspiration cytology 22-3AB) 환자가 유방통을 느껴 유방 초음파를 찍었고, C4a로 ",
-  "dup_of": null,
-  "dup_sim": 0.29,
-  "done": false
+  "dup_of": 1198,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1202,
