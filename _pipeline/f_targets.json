@@ -3365,7 +3365,7 @@
   "stem": "23세 남자, 자전거 타다가 복부를 핸들에 부딪혔다. 혈압 75/52, 우상복부 찰과상 있었고 신체검진상 우상복부 압통 호소하",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1390,
@@ -3381,7 +3381,7 @@
   "stem": "제태주수 38 + 1주, 3.0 kg으로 태어난 여아로 태어나기 전 양수과다증 있었다. 출생 6일 후 심한 복부 팽만과 구토로",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1420,
@@ -3397,7 +3397,7 @@
   "stem": "제태연령 38주 4일에 3.2kg으로 출생한 1개월 여자로, 3시간 전부터 울고 담즙성 구토가 반복되",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1461,
@@ -3413,7 +3413,7 @@
   "stem": "재태주수 29주에 1.3kg로 태어난 아이가 생후 17일에 보채는 증상이 있다. 영양분유를 먹이 고 있고 먹이면 토하는 양상이",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1464,
@@ -3429,7 +3429,7 @@
   "stem": "31세 여성 or 30세 남성이 차량 전복 사고를 당하여 응급실로 왔다. 응급실 내원 당시 혈압은 90/60이었는데 이후 60",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 889,
@@ -3444,7 +3444,7 @@
   "stem": "10개월 소아가 4개월 전부터 이유식으로 전환 시작하자 변비가 생겼다. 병원에서 장염으로 여러 차례 진단받은 적이 있다. Tr",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1518,
@@ -3459,7 +3459,7 @@
   "stem": "여자아이가 계속 토해서 왔다. 구토는 1주전부터 시작하였고 점점 심해지는 양상, 토한 후에 는 다시 먹으려고 하였다. 구토는 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1548,
@@ -3474,7 +3474,7 @@
   "stem": "(짤족) 생후 3개월 소아가 서혜부 종괴가 보여 내원했다. 특별한 증상은 없었으며, 손으로 밀",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2507,
@@ -3490,7 +3490,7 @@
   "stem": "생후 3개월 소아가 서혜부 종괴가 보여 내원했다. 특별한 증상은 없었으며, 손으로 밀어넣으면 꼬르륵 거리는 소리와 함께 밀려 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2454,
@@ -3506,7 +3506,7 @@
   "stem": "10  개월 남아가 1 일전부터 담즙 성 구토를 보여 내원하였다. 복부 팽만이 있었고 피부 탄력도는 떨어지고 축 늘어져 간혹 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2565,
@@ -3521,7 +3521,7 @@
   "stem": "제태기간 39주 2일, 3320g으로 정상분만을 시행한 남자아이에서 태어난지 10시간 후 아래의 사진과 같은 모습이 보였다. ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2680,
@@ -3536,7 +3536,7 @@
   "stem": "12세 남아가 복통과 38.1℃의 발열을 주소로 응급실에 내원하였다. 과거력상 특이 병력은 없었다. 복부 CT에서 장중첩증(i",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2537,
@@ -6751,7 +6751,7 @@
   "nimg": 2,
   "stem": "제태주수 38 + 1주, 3.0 kg으로 태어난 여아로 태어나기 전 양수과다증 있었다. 출생 6일 후 심한 복부 팽만과 구토로",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.2,
   "done": false
  },
  {
@@ -6841,7 +6841,7 @@
   "nimg": 1,
   "stem": "1개월 남아가 계속 토해서 뫘다. 구토는 1 주전부터 시작하였고 점점 심해지는 양상, 토한 후에는 다시 먹으려고 하였다. 구토",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.32,
   "done": false
  },
  {
@@ -7336,7 +7336,7 @@
   "nimg": 9,
   "stem": "Duodenoduodenostomy Jejunoileal atresia 21-4AB, 20-3AB) 제태주수 38+1주, 3.",
   "dup_of": null,
-  "dup_sim": 0.22,
+  "dup_sim": 0.28,
   "done": false
  },
  {
@@ -7440,8 +7440,8 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "여자아이가 계속 토해서 왔다. 구토는 1주전부터 시작하였고 점점 심해지는 양상, 토한 후에는 다시 먹으려고 하였다. 구토는 분",
-  "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_of": 1518,
+  "dup_sim": 0.64,
   "done": false
  },
  {
@@ -8221,7 +8221,7 @@
   "nimg": 0,
   "stem": "골반강 출혈 - preperitoneal gauze packing 19-1AB) 남자가 가족들과의 불화로 배를 칼로 찔렀다. ",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.09,
   "done": false
  },
  {
@@ -9391,7 +9391,7 @@
   "nimg": 2,
   "stem": "재태주수 38+1주, 3.0 kg으로 태어난 여아로 출생 6일 후 심한 복부 팽만과 구토로 수술을 받았다. 다음 X-ray 소",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.14,
   "done": false
  },
  {
@@ -9481,7 +9481,7 @@
   "nimg": 0,
   "stem": "6개월 남아. 복부 팽만을 주소로 내원하였음. 6~7일에 한번 대변을 봄. 출생 36시간 만에 태변을 배출한 history. ",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.18,
   "done": false
  },
  {
@@ -9496,7 +9496,7 @@
   "nimg": 0,
   "stem": "Hirschsprung’s disease에서 확진검사는?",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.07,
   "done": false
  },
  {
