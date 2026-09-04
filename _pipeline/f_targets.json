@@ -3552,7 +3552,7 @@
   "stem": "만삭으로 태어난 생후 50일된 남자가 2주전부터 얼굴, 몸 노래지고 최근에는 아래와 같은 변을 보기 시작해 병원에 방문. 검진",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2509,
@@ -3583,7 +3583,7 @@
   "stem": "40세 여자가 차량 전복사고 후 내원하였다. 의식은 명료하고 혈압은 85/56 mmHg이 다. ATLS primary surv",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1433,
@@ -3863,7 +3863,7 @@
   "stem": "73세 남자환자가 갑자기 생긴 혈변과 복통을 주소로 응급실에 내원하였다. 과거력으로 고혈압과 심부정맥이 있는 환자로 해당하는 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 63,
@@ -3878,7 +3878,7 @@
   "stem": "환자가 복통을 주소로 내원하였고, 환자의 내시경과 CT 소견은 다음과 같다. 다음 중 환자의 치료는? (CT 사진은 병변이 비",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1051,
@@ -3893,7 +3893,7 @@
   "stem": "35세 남자가 오토바이를 타다가 내쳐서 내원하였다. 양쪽 폐에 피가 많이 고여 있어 수액 등을 주입한 후 응급 개흉술을 진행하",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 93,
@@ -3908,7 +3908,7 @@
   "stem": "65 세 남자가 복통과 38.3°C의 발열을 주소로 왔다. 컴퓨터단층촬영에서 담낭 천공이 확인되 었다. 경피적 쓸개즙배액술을 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 94,
@@ -6811,7 +6811,7 @@
   "nimg": 1,
   "stem": "73세 남자환자가 갑자기 생긴 혈변과 복통을 주소로 응급실에 내원하였다. 고혈압과 심부정맥이 있는 환자로 약물을 복용 중이었다",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.38,
   "done": false
  },
  {
@@ -7381,7 +7381,7 @@
   "nimg": 6,
   "stem": "Billorth ll operation Biliary atresia 19-4AB) 22-3AB) 20-4AB) 만삭 출생 생후",
   "dup_of": null,
-  "dup_sim": 0.08,
+  "dup_sim": 0.31,
   "done": false
  },
  {
@@ -7890,8 +7890,8 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "65 세 남자가 복통과 38.3°C의 발열을 주소로 왔다. 컴퓨터단층촬영에서 담낭 천공이 확인되었다. 경피적 쓸개즙배액술을 시",
-  "dup_of": null,
-  "dup_sim": 0.27,
+  "dup_of": 93,
+  "dup_sim": 0.7,
   "done": false
  },
  {
@@ -8236,7 +8236,7 @@
   "nimg": 2,
   "stem": "관혈적 정복술 및 외고정술 22-3CD) 중앙선을 침범한 차에 의해 사고를 당한 환자가 내원하였다. 내원 당시 혈압은 80/6",
   "dup_of": null,
-  "dup_sim": 0.03,
+  "dup_sim": 0.2,
   "done": false
  },
  {
