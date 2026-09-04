@@ -51,6 +51,17 @@ fs.writeFileSync(path.join(ROOT, 'data.js'), 'const DATA = ' + JSON.stringify(bu
 fs.writeFileSync(orderPath, JSON.stringify(qs.map(q => q.id)));
 const added = qs.filter(isNew).length;
 if (added) console.log(`새 문항 ${added}개를 각 분과 뒤에 붙였다`);
+// 브라우저가 옛 data.js를 붙들지 않도록 주소에 빌드 번호를 붙인다
+const stamp = new Date().toISOString().slice(0, 16).replace(/[-:T]/g, '');
+for (const page of ['index.html', 'v2/index.html']) {
+  const fp = path.join(ROOT, page);
+  if (!fs.existsSync(fp)) continue;
+  const html = fs.readFileSync(fp, 'utf8');
+  const fixed = html.replace(/(src=")(\.\.\/)?data\.js(\?v=\d+)?(")/,
+    (m, a, up, v, z) => a + (up || '') + 'data.js?v=' + stamp + z);
+  if (fixed !== html) fs.writeFileSync(fp, fixed);
+}
+
 const years = [...new Set(qs.flatMap(q => (q.appearances || []).map(a => String(a).slice(0, 4))))].sort();
 console.log(`문항 ${qs.length}, 개념 ${Object.keys(concepts).length}, 이미지 ${used.size}, 연도 ${years.join(' ')}`);
 console.log('분과별: ' + SEC_ORDER.map(s => s + ':' + qs.filter(q => q.section === s).length).filter(x => !x.endsWith(':0')).join('  '));

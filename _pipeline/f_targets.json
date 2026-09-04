@@ -3923,7 +3923,7 @@
   "stem": "35세 여자, 이틀 전부터 RUQ pain 있었다. 3개월 전에도 비슷한 경험 있었으며, 저절로 좋아짐. 7년간 경구피임약 복",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 97,
@@ -3938,7 +3938,7 @@
   "stem": "제태연령 38주 4일에 3.2kg으로 출생한 1개월 여자로, 3시간 전부터 울고 담즙성 구토가 반복 되어 왔다. 병원 방문 당",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 104,
@@ -3953,7 +3953,7 @@
   "stem": "(짤족) 40세 남자 환자가 항문주위 통증과 열감으로 40세 남자 환자가 항문주위 통증과 열감으로 응급실로 내원하였다. 내원 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1039,
@@ -3968,7 +3968,7 @@
   "stem": "중앙선을 침범한 차에 의해 사고를 당한 환자가 내원하였다. 내원 당시 혈압은 80/60, 맥박 128, 호흡수 28이었다. 농",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 356,
@@ -3983,7 +3983,7 @@
   "stem": "건강검진에서 시행한 CT 소견이 다음과 같았다. 치료는? (CT: peripheral enhancement 소견이 주어졌는데 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 381,
@@ -3998,7 +3998,7 @@
   "stem": "HCC 환자. 초음파 상 single mass가 있었으며 CT 소견은 다음과 같았다. 해설: C-P class C, Milan",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 124,
@@ -4013,7 +4013,7 @@
   "stem": "10개월 남아가 1일전부터 담즙성 구토를 보여 내원하였다. 복부 팽만이 있었고 피부탄력도는 떨어지고 축 늘어져 간혹 심하게 보",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 127,
@@ -4028,7 +4028,7 @@
   "stem": "83세 여성이 지주막하 출혈로 7일 전 입원하였다. 2일 전부터 오른쪽 다리가 부었으며, 왼쪽보다 오른쪽 다리 둘레가 3cm ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 128,
@@ -4043,7 +4043,7 @@
   "stem": "58세 남성이 1주일 전부터 밥을 못 먹었다. 먹으면 소화불량, 구토가 생겼고 1달 사이 체중이 8kg 감소했다. 결막이 창백",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 129,
@@ -4058,7 +4058,7 @@
   "stem": "55세 남자 환자가 3일 전부터 생긴 복통을 주소로 내원했다. 어제부터 소화가 안되고 배가 팽만해지고, 구역질이 나타났고, 오",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1040,
@@ -4073,7 +4073,7 @@
   "stem": "21세 남자가 오토바이 사고로 응급실로 이송되었다. 응급실에서 측정한 혈압은 82/59, 심박수는 131, 호흡수는 29, 체",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 156,
@@ -4088,7 +4088,7 @@
   "stem": "CT 사진과 CBC 결과가 다음과 같을 때, 다음 행해야 하는 것으로 알맞은 것은? 백혈구 7000, 호중구 56%, Na/K",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 159,
@@ -5791,7 +5791,7 @@
   "nimg": 2,
   "stem": "Phenoxibenzamine Primary aldosteronism 22-4AB, 21-2CD) 19-1CD) CT 사진과 ",
   "dup_of": null,
-  "dup_sim": 0.21,
+  "dup_sim": 0.39,
   "done": false
  },
  {
@@ -5866,7 +5866,7 @@
   "nimg": 1,
   "stem": "심인성 쇼크 2) 신경성 쇼크 3) 과민성 쇼크 4) 저혈량성 쇼크 5) 패혈성 쇼크 21-1CD) 19-2AB) 평소에 진통",
   "dup_of": null,
-  "dup_sim": 0.17,
+  "dup_sim": 0.18,
   "done": false
  },
  {
@@ -6570,7 +6570,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "환자가 유방통을 느껴 유방 초음파를 찍었고, C4a로 나와 유방 조직 검사를 진행한 결과 Atypical ductal hype",
-  "dup_of": 2149,
+  "dup_of": 1533,
   "dup_sim": 1.0,
   "done": false
  },
@@ -6630,7 +6630,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "비위관 및 수액 등 보존적 치료 8년 전부터 B형 간염 감염력을 알고 있던 45세 남자 환자가 어제부터 헛소리를 한다면서 병원",
-  "dup_of": 2320,
+  "dup_of": 1578,
   "dup_sim": 0.95,
   "done": false
  },
@@ -6765,7 +6765,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "83세 남자가 1개월 전부터 소화가 잘 되지 않고 밥 먹으면 구토하는 증상을 주소로 내원하였다구토는 식후 2-3h에 나타났으며",
-  "dup_of": 2235,
+  "dup_of": 1628,
   "dup_sim": 0.77,
   "done": false
  },
@@ -7065,7 +7065,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "건강하던 생후 1개월 남자가 계속 토해서 왔다. 구토는 1주 전부터 시작되었고 점점 심해지는 양상이었다. 구토물은 비담즙성이었",
-  "dup_of": 2057,
+  "dup_of": 1649,
   "dup_sim": 0.7,
   "done": false
  },
@@ -7125,7 +7125,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "제태기간 39주 2일, 3320g으로 정상분만을 시행한 남자아이에서 태어난 지 10시간 후 아래의 사진과 같은 모습이 보였다.",
-  "dup_of": 2161,
+  "dup_of": 1546,
   "dup_sim": 1.0,
   "done": false
  },
@@ -7155,7 +7155,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "건강하던 1개월 여자가 2일간 점점 심해지는 구토로 왔다. 구토는 분출성이었으며, 비담즙성이었다. 활력징후는 혈압 75/45m",
-  "dup_of": 2121,
+  "dup_of": 155,
   "dup_sim": 0.81,
   "done": false
  },
@@ -7965,7 +7965,7 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "손상통제소생술 (damage control surgery)에 관해 맞는 선지는?",
-  "dup_of": 2169,
+  "dup_of": 1554,
   "dup_sim": 1.0,
   "done": false
  },
@@ -8820,7 +8820,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "경부 종괴로 내원한 환자. 초음파 상 결절 확인되었다. 다음 검사는? TFT 결과: 모두 정상범위 (괄호 안에 정상치 모두 주",
-  "dup_of": 2108,
+  "dup_of": 1700,
   "dup_sim": 1.0,
   "done": false
  },
@@ -9375,7 +9375,7 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "건강하던 1개월 여자가 2일간 점점 심해지는 구토로 왔다. 구토는 분출성이었으며, 비담즙성이었다. 활력징후는 혈압 75/45m",
-  "dup_of": 2121,
+  "dup_of": 155,
   "dup_sim": 0.71,
   "done": false
  },
@@ -9540,7 +9540,7 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "생후 2개월 소아가 서혜부 종괴가 보여 내원했다. 이외 특별한 증상은 없었으며, 손으로 밀어 넣으면 꼬르륵 거리는 소리와 함께",
-  "dup_of": 2122,
+  "dup_of": 1714,
   "dup_sim": 1.0,
   "done": false
  },

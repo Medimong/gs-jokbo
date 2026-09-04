@@ -1,0 +1,98 @@
+{
+ "id": 159,
+ "section": "VS",
+ "topic": "발목위팔지수(ankle-brachial index, ABI) 계산",
+ "stem": "말초동맥질환이 의심되어 사지 분절 혈압을 측정하였다. 좌측 하지의 발목위팔지수(ankle-brachial index, ABI)를 구하시오.",
+ "labTable": [
+  [
+   "검사 부위",
+   "수축기혈압(mmHg)"
+  ],
+  [
+   "우측 상완동맥(brachial a.)",
+   "140"
+  ],
+  [
+   "좌측 상완동맥(brachial a.)",
+   "130"
+  ],
+  [
+   "우측 족배동맥(dorsalis pedis a., DP)",
+   "141"
+  ],
+  [
+   "좌측 족배동맥(dorsalis pedis a., DP)",
+   "80"
+  ],
+  [
+   "우측 후경골동맥(posterior tibial a., PT)",
+   "141"
+  ],
+  [
+   "좌측 후경골동맥(posterior tibial a., PT)",
+   "60"
+  ]
+ ],
+ "options": [
+  "60/130",
+  "80/130",
+  "80/140",
+  "60/140",
+  "130/140"
+ ],
+ "answerKeys": [
+  3
+ ],
+ "multi": false,
+ "examCount": 5,
+ "appearances": [
+  "2018이전",
+  "2019·2AB",
+  "2019·4AB",
+  "2020·1AB",
+  "2022·4AB"
+ ],
+ "source_files": [
+  "2022/2022년 4AB 외과 턴말 복원.docx",
+  "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "지목된 근접 문항 questions/VS/q1761.json(좌우 ABI를 모두 묻는 문항, 상완 119/114·PT 126/49·DP 122/62, 선지가 계산된 소수 비율)과 선지 집합과 혈압 수치를 대조했다. 이 문항은 좌측 다리만 묻고, 선지도 계산 전 원값 분수(예: 80/140) 형태이며, 혈압 수치도 완전히 다르다(상완 140/130, DP 141/80, PT 141/60). 같은 형식을 재사용한 별개 문항으로 판단해 duplicate_of를 걸지 않고 정상 작업했다. 두 복원본(qid159의 개별 복원 '2022년 4AB 외과 턴말 복원.docx' 12번, qid930의 합본 '[GS] 외과 실습족보_2016이전-2022 1CD.docx')이 발문, 표 수치, 선지 5개, 정답(3번)까지 완전히 일치해 answer_conflict는 없다. 분과는 두 버전 모두 '총론'/'해부학'으로 집계돼 있었으나 만성 사지 허혈(PAD)의 ABI 계산 문항이므로 VS로 바로잡았다. 출제 회차는 개별 복원 문서 '2022년 4AB 외과 턴말 복원.docx'의 첫 줄('2022 4AB 외과 턴말 복원', '4AB 윤정빈')로 22-4AB를 직접 확인했고, 합본 문서의 src_tags(22-4AB, 20-1AB, 19-2AB, 19-4AB, 18이전)도 22-4AB를 포함해 서로 어긋나지 않아 다섯 회차 모두 appearances에 반영했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "calculation",
+  "approach": "사지 분절 혈압을 이용해 발목위팔지수(ABI)를 구하는 문항이다. 분자는 구하려는 다리의 발목 동맥(후경골동맥, 족배동맥) 중 더 높은 값을, 분모는 좌우 상완동맥 중 더 높은 값을 쓰며, 분모는 좌우 다리에 동일하게 적용한다.",
+  "approachTable": [
+   [
+    "구할 값",
+    "대입"
+   ],
+   [
+    "분모(양팔 중 높은 값)",
+    "우측 상완 140, 좌측 상완 130 중 140"
+   ],
+   [
+    "좌측 분자(좌측 발목 중 높은 값)",
+    "좌측 족배동맥 80, 좌측 후경골동맥 60 중 80"
+   ]
+  ],
+  "correct": "좌측 하지 ABI = 좌측 발목 동맥(족배동맥 80, 후경골동맥 60) 중 더 높은 80mmHg를 분자로, 양팔 상완동맥(우측 140, 좌측 130) 중 더 높은 140mmHg를 분모로 하여 80/140이다. 이는 선택지 3번과 정확히 일치하며, 원본 정답(3번)과도 부합해 별도의 answer_changed나 answer_conflict가 필요 없다.",
+  "pearl": "ABI 분자는 그 다리의 후경골동맥과 족배동맥 중 더 높은 값, 분모는 좌우 상완동맥 중 더 높은 값이며 이 분모를 양쪽 다리에 똑같이 적용한다. 대퇴 압력을 상완 대신 쓰거나 발목에서 더 낮은 동맥 값을 분자로 잡으면 오답이 된다.",
+  "concepts": [
+   "chronic-limb-ischemia-pad"
+  ],
+  "compare_note": "좌측 발목 중 더 낮은 값(후경골동맥 60)을 분자로 잘못 쓰면 60/140(선택지 4번)이 나오고, 분모를 좌측 상완(130)으로 잘못 쓰면 80/130(선택지 2번)이 나온다. 분자·분모를 각각 낮은 값끼리 쓰면 60/130(선택지 1번), 상완끼리 비율을 내면 130/140(선택지 5번) 같은 무의미한 값이 나온다."
+ },
+ "optnotes_mode": "none",
+ "optnotes": {},
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}

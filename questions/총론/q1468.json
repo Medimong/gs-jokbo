@@ -1,0 +1,61 @@
+{
+ "id": 1468,
+ "section": "총론",
+ "topic": "수술 부위 피부 소독제",
+ "stem": "수술 부위 소독을 위해 사용하는 약제 중 가장 효과적이라고 입증된 것은?",
+ "labTable": [],
+ "options": [
+  "Acetic acid",
+  "Povidone-iodine",
+  "Hydrogen peroxide",
+  "Sodium hypochlorite",
+  "Chlorhexidine-alcohol"
+ ],
+ "answerKeys": [
+  5
+ ],
+ "multi": false,
+ "examCount": 2,
+ "appearances": [
+  "2022·4CD",
+  "2023·1CD"
+ ],
+ "source_files": [
+  "2022/2022년 4CD~2AB 외과 턴말 합본.pdf",
+  "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
+  "2023/2023년 1CD 외과 턴말 복원.docx"
+ ],
+ "images_final": [],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "추출본(q1468, q317) 두 버전 모두 발문이 'chlorhexidine-alcohol' 한 단어만 남고, 선지 자리에는 실제 선지가 아니라 다음 페이지의 '2022년 1CD 외과 턴말 복원, 총 30문제, 목차(LV 3문제, BP 3문제...)' 안내문이 잘못 들어가 있었다. 정답도 없었다. 원본을 직접 열어 확인한 결과 이 문항은 온전한 5지선다 지식형 문항이었다(원본 그대로 복원, 재작성 아님). 첫 appearance는 abs_path PDF(2022/2022년 4CD~2AB 외과 턴말 합본.pdf) 38페이지, '총론(3)' 표제 아래 28~30번 중 30번이며 첫 줄의 '4CD 조장 남윤후입니다' 서두로 2022년 4CD 턴임을 확인했다. 둘째 appearance는 abs_path PDF(2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf) 180페이지, '[수액, 전해질, 쇼크]' 표제 아래 30번인데, 이 페이지 앞의 유사한 목차성 표제('2022년 1CD...')는 다른 구간(40페이지 이후)에 해당하는 것이라 혼동하기 쉬웠다. 실제로 180페이지 문항은 대조 확인을 위해 원본 단독 docx를 모두 뒤진 결과 '2023년 1CD 외과 턴말 복원.docx'의 [총론](2) 29번, [수액,전해질,쇼크] 30번과 발문·선지·정답까지 완전히 일치해 2023년 1CD 턴으로 정정했다. 참고로 이 문항은 [GS] 외과 실습족보_2016이전-2022 1CD.docx 같은 누적 족보에 '(22-3CD,4AB,1AB)(21-4AB,4CD,2CD,3CD)(19-4CD)'로 훨씬 더 많은 출제 이력이 적혀 있으나, 그 이력들은 이 qid에 주어진 두 버전과 무관한 별도 qid로 처리되었을 가능성이 높아 이 문항의 appearances에는 직접 대조한 2건만 반영했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "knowledge",
+  "approach": "수술 부위 감염(SSI) 예방을 위한 피부 소독제 중 무작위 대조시험으로 우월성이 입증된 약제를 고르는 단순 지식형 문항이다.",
+  "approachTable": [],
+  "correct": "클로르헥시딘-알코올(chlorhexidine-alcohol)은 알코올의 신속한 살균 작용과 클로르헥시딘의 지속적인 광범위 항균 작용을 결합한 제제다. 청결오염(clean-contaminated) 수술을 포함한 대규모 무작위 대조시험에서 수용성 포비돈 아이오딘(aqueous povidone-iodine)보다 수술 부위 감염 발생률을 유의하게 낮춘 것이 확인되어, 현재 수술 부위 피부 소독의 1차 선택으로 권고된다.",
+  "pearl": "수술 부위 피부 소독의 1차 선택은 클로르헥시딘-알코올이다.",
+  "concepts": [
+   "surgical-antibiotic-prophylaxis"
+  ],
+  "compare_note": null
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "아세트산(acetic acid)은 녹농균(Pseudomonas) 억제 목적의 창상 세척액으로 국소 사용되며, 수술 전 피부 소독의 표준 약제가 아니다.",
+  "2": "포비돈 아이오딘은 전통적으로 널리 쓰인 소독제이나, 비교 임상시험에서 클로르헥시딘-알코올보다 수술 부위 감염률이 더 높았다.",
+  "3": "과산화수소(hydrogen peroxide)는 조직 독성이 있어 창상 세척에 제한적으로 쓰일 뿐 수술 부위 피부 소독의 표준 약제가 아니다.",
+  "4": "차아염소산나트륨(sodium hypochlorite)은 다킨 용액(Dakin's solution) 같은 창상 세정액의 성분으로 쓰이며 수술 전 피부 소독의 표준 약제가 아니다.",
+  "5": "정답. 클로르헥시딘-알코올이 수술 부위 감염 예방 효과가 가장 크다고 입증된 피부 소독제다."
+ },
+ "new_concepts": [],
+ "concept_gap": "concepts/surgical-antibiotic-prophylaxis.json은 수술 창상 분류와 예방적 '항생제' 투여 원칙만 다루고 있어, 이 문항이 묻는 '피부 소독제' 자체의 비교(클로르헥시딘-알코올 대 포비돈 아이오딘 등, 기전과 근거 문헌)는 다루지 않는다. 관련 문항이 더 모이면 피부 소독제 비교표를 담은 별도 카드나 이 카드에 절을 추가하는 것을 고려할 만하다.",
+ "source_version": 1,
+ "content_version": 1
+}
