@@ -19,10 +19,15 @@ def clean(a):
     if m: return f"{m.group(1)}·{m.group(2).upper()}"
     # '2024·통합턴'처럼 회차 이름이 숫자+영문이 아닌 경우도 있다.
     # 다만 합본 파일명은 출제 이력이 아니므로 걸러낸다.
-    if any(b in a for b in ('합본', '통합본', '복원', '정리', '~')):
+    # 합본 파일명은 출제 이력이 아니다. 다만 '복원'처럼 정당한 메모에도 쓰이는 말은
+    # 그것만으로 버리지 않고, 파일명임이 분명한 신호만 본다.
+    if any(b in a for b in ('합본', '통합본', '~', '.docx', '.pdf')):
         return None
     m = re.match(r'^((?:19|20)\d{2})\s*[·\-]\s*([^\s,()]+)', a)
-    return f"{m.group(1)}·{m.group(2)}" if m else None
+    if m: return f"{m.group(1)}·{m.group(2)}"
+    # 회차는 몰라도 연도가 확인된 경우
+    m = re.match(r'^((?:19|20)\d{2})\b', a)
+    return m.group(1) if m else None
 
 def main():
     merged = 0
@@ -40,7 +45,7 @@ def main():
         ap = sorted(before | set(add))
         if ap != sorted(before):
             t['appearances'] = ap
-            t['examCount'] = len(ap)
+            t['examCount'] = max(int(t.get('examCount') or 0), len(ap))
             note = f"q{d['id']}로 따로 추출된 버전이 같은 문항으로 확인되어 출제 이력을 합쳤다. "
             if note not in str(t.get('source_notes') or ''):
                 t['source_notes'] = note + str(t.get('source_notes') or '')

@@ -57,7 +57,7 @@ def main():
         uniq.sort()
         if uniq != ap:
             d['appearances'] = uniq
-            if uniq: d['examCount'] = len(uniq)
+            if uniq: d['examCount'] = max(int(d.get('examCount') or 0), len(uniq))
             json.dump(d, open(fp, 'w'), ensure_ascii=False, indent=1); n += 1
     print(f"출제 이력 표기 통일: {n}문항")
 
