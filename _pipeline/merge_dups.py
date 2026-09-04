@@ -36,6 +36,16 @@ def main():
         if not d.get('excluded'): continue
         tgt, raw = d.get('duplicate_of'), d.get('appearances_to_merge') or []
         if not tgt: continue
+        # 제외 문항이 또 다른 제외 문항을 가리키면 정본까지 따라간다.
+        # (A가 B로 흡수된 뒤 B가 다시 C로 흡수되는 사슬이 실제로 생겼다)
+        seen = {d.get('id')}
+        while True:
+            hop = glob.glob(os.path.join(ROOT, 'questions', '*', f'q{tgt}.json'))
+            if not hop: break
+            h = json.load(open(hop[0]))
+            if not h.get('excluded') or not h.get('duplicate_of'): break
+            if h['duplicate_of'] in seen: break
+            seen.add(tgt); tgt = h['duplicate_of']
         add = [x for x in (clean(a) for a in raw) if x]
         hits = glob.glob(os.path.join(ROOT, 'questions', '*', f'q{tgt}.json'))
         if not hits:
