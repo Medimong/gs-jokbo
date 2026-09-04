@@ -1,0 +1,76 @@
+{
+ "id": 2606,
+ "section": "BR",
+ "topic": "유방재건술 피판의 혈관(광배근피판과 흉배동맥)",
+ "stem": "다음 그림은 유방재건술을 보이고 있다. 그림과 관련 있는 혈관은?",
+ "labTable": [],
+ "options": [
+  "thoracodorsal a.",
+  "internal mammary a.",
+  "intercostal a.",
+  "subscapular a.",
+  "lateral thoracic a."
+ ],
+ "answerKeys": [
+  1
+ ],
+ "multi": false,
+ "examCount": 1,
+ "appearances": [
+  "2025·3CD"
+ ],
+ "source_files": [
+  "2025/2025 3CD 외과 턴말 복원.docx"
+ ],
+ "images_final": [
+  "e97b7bc2d68.png"
+ ],
+ "images_dropped": [],
+ "image_dependent": true,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "원본 docx(2025 3CD 외과 턴말 복원, 9번 문항)를 python-docx로 열어 발문·선지 5개·정답을 한 글자씩 대조했다. 첨부 이미지는 원본 word/media/image6.png이며 바이트 크기(89209바이트)까지 추출본 e97b7bc2d68.png와 동일함을 확인했다. 이미지는 등 쪽 조직을 혈관경을 유지한 채 앞가슴 결손부로 회전시키는 모습으로, 광배근피판(latissimus dorsi myocutaneous flap)의 전형적 모식도다. 그림 안에 혈관 이름표나 캡션은 없어 정답 노출은 없다. 출제 1회 문항이라 대조할 다른 복원본이 없어 원본 확인이 유일한 검증 수단이었다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "differential",
+  "approach": "그림에서 결정적 단서는 혈관을 절단해 미세문합하는 유리피판(free flap)이 아니라, 등 쪽 조직 덩어리가 혈관경을 유지한 채 회전축을 그대로 두고 앞가슴 결손부로 돌아가는 유경형(pedicled) 이동이라는 점이다. 이 형태는 광배근피판술의 전형적인 모식도이므로, 광배근에 분포하는 동맥을 찾으면 답이 된다.",
+  "approachTable": [
+   [
+    "광배근피판(latissimus dorsi flap), 유경형",
+    "흉배동맥(thoracodorsal a.)이 혈관경. 액와림프절곽청 때 이 혈관을 다치면 이 재건법을 쓸 수 없음"
+   ],
+   [
+    "횡복직근피판(TRAM), 유경형",
+    "상복벽동맥(superior epigastric a.)이 혈관경"
+   ],
+   [
+    "횡복직근피판(TRAM) 또는 심하복벽동맥천공지피판(DIEP), 유리형",
+    "심하복벽동맥(inferior epigastric a.)과 그 천공지가 혈관경. DIEP는 근육을 보존해 복벽 약화가 적음"
+   ],
+   [
+    "유리피판의 수혜부(가슴 쪽) 문합 혈관",
+    "대개 내유동맥(internal mammary a.) 또는 흉배동맥"
+   ]
+  ],
+  "correct": "광배근(latissimus dorsi)을 등 쪽 피부와 함께 절편으로 들어 올려 혈관경을 유지한 채 회전시켜 앞가슴 결손부를 재건하는 술식에서, 이 근육에 분포해 피판을 살리는 동맥은 흉배동맥(thoracodorsal artery)이다. 흉배동맥은 견갑하동맥(subscapular artery)의 가지로 광배근과 앞톱니근(serratus anterior) 일부에 분포하며, 유방암 수술의 액와림프절곽청술 때 이 혈관이 손상되면 이후 광배근피판을 이용한 재건이 불가능해진다는 점도 임상적으로 함께 기억해야 한다.",
+  "pearl": "그림이 등에서 앞가슴으로 혈관경을 유지한 채 회전시키는 모양이면 광배근피판, 답은 흉배동맥이다. 액와곽청 때 이 혈관이 다치면 이 재건법을 못 쓴다는 것까지 묶어 기억한다.",
+  "concepts": [
+   "breast-reconstruction-flaps"
+  ],
+  "compare_note": "그림이 배 쪽 조직을 유리피판으로 절제해 미세문합하는 모습이면 혈관경은 심하복벽동맥이 되고, 수혜부 문합 혈관을 물으면 내유동맥이 답이 된다. 유경형 횡복직근피판이면 상복벽동맥으로 바뀐다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "정답. 흉배동맥은 광배근에 분포하는 동맥으로, 그림처럼 등 조직을 혈관경째 회전시키는 광배근피판술의 혈관경이다.",
+  "2": "오답. 내유동맥은 주로 유리피판을 이식할 때 가슴 쪽 수혜부 문합 혈관으로 쓰이며, 그림처럼 혈관경을 유지한 채 회전시키는 유경형 피판의 혈관경이 아니다.",
+  "3": "오답. 늑간동맥은 흉벽에 분포하는 혈관으로 광배근피판이나 복직근피판의 주 혈관경으로 쓰이지 않는다.",
+  "4": "오답. 견갑하동맥은 흉배동맥이 갈라져 나오는 상위 혈관이지만, 광배근에 직접 분포해 피판을 살리는 혈관은 그 가지인 흉배동맥이다.",
+  "5": "오답. 외측흉동맥은 유방 외측부와 액와림프절 쪽에 분포하는 혈관으로 광배근피판의 혈관경이 아니다."
+ },
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}
