@@ -1,0 +1,11 @@
+{
+ "id": 2722,
+ "section": "BR",
+ "excluded": true,
+ "duplicate_of": 1663,
+ "exclude_reason": "원본(2026/2026 4CD 외과 턴말 복원.pdf, 7페이지 문항7)을 직접 열어 발문, 선지 5개, 정답(①)이 추출본과 일치함을 확인했다. 그러나 BR 완료 문항을 grep과 직접 열람으로 훑는 과정에서 q1663.json이 이 문항과 사실상 동일한 문항임을 발견했다. 두 문항 모두 우측 유방전절제술과 액와림프절곽청술 후 나타난 신경손상 위치를 짝짓는 형식이며, 결정적으로 원본 PDF에서 직접 확인한 수술 시야 사진(그림2, 'Chest wall'과 'Axillary vein' 이정표 사이에 A, B, C 화살표가 표시된 사진)이 q1663의 이미지(e61e79f699f.jpg 하단부)와 화살표 위치, 조직 형태, 견인기 배치까지 픽셀 단위로 동일한 사진이다. 선지도 형식과 내용이 거의 겹친다. q1663은 ①A-장흉신경(long thoracic n.) ②A-흉배신경(thoracodorsal n.) ③B-장흉신경 ④B-흉배신경 ⑤C-흉배신경이고, q2722는 ①A-Long thoracic nerve ②A-Thoracodorsal nerve ③B-Long thoracic nerve ④B-Intercostobrachial nerve ⑤C-Thoracodorsal nerve로, 다섯 선지 중 네 개(1, 2, 3, 5번)가 이름과 위치의 짝짓기까지 동일하고 정답도 똑같이 'A-장흉신경(long thoracic nerve)'이다. 4번 선지만 흉배신경 대신 갈비사이위팔신경(intercostobrachial nerve)으로 바뀌어 있으나, 익상견갑을 보여주는 증상 사진(그림1)이 두 문항에서 서로 다른 환자 사진으로 교체된 것과 함께 볼 때, 매년 재사용되는 동일 강의자료의 그림2를 그대로 쓰는 같은 문항이 다른 해에 재출제되면서 오답 선지 하나가 바뀌었거나 복원자가 다르게 옮겨 적은 것으로 판단된다. AGENT_SPEC이 판별 기준으로 제시한 '선지 집합'과 '이미지'가 사실상 동일하므로 정답이 같다는 사실만으로 병합한 것이 아니다. 같은 사이트의 q1475, q2345는 신경 이름만 고르는 다른 선지 형식이라 이미 별개 문항으로 분리되어 있어 이번 병합과 무관하다.",
+ "appearances_to_merge": [
+  "2026·4CD"
+ ],
+ "appearances_to_merge_applied": true
+}

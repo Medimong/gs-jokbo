@@ -4635,9 +4635,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "내시경적 역행성 담췌관 조영술 19-1CD) 72세 남자가 일주일 전부터 발생한 복통, 발열 증상으로 내원하였다.  2년 전 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 1194,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1196,
@@ -4650,9 +4650,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "괄약근절개술 + 담관배액술 IHD stone 22-4AB, 21-2CD) 58세 여자가 반복되는 발열 및 상복부 통증이 있어 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 1196,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1857,
@@ -4665,9 +4665,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "발열, 복통 및 황달을 주소로 환자가 내원하였다. 2년 전 담낭염으로 복강경 담낭절제술을 시행 받",
-  "dup_of": null,
-  "dup_sim": 0.06,
-  "done": false
+  "dup_of": 1857,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1858,
@@ -4680,9 +4680,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "72세 여자가 정기 건강검진에서 이상소견 보였다. 무증상이다. 적절한 치료는?",
-  "dup_of": null,
-  "dup_sim": 0.2,
-  "done": false
+  "dup_of": 1858,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2343,
@@ -4695,9 +4695,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "61 세 여자가 좌측 침윤성 유관암 (invasive ductal carcinoma) 진단으로 좌측 유방전절제술 및 감시림프절",
-  "dup_of": null,
-  "dup_sim": 0.47,
-  "done": false
+  "dup_of": 2343,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2492,
@@ -4710,9 +4710,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "45세 여자가 우측 유방의 광범위 악성석회화가 있어 조직검사 결과 침윤성 암이 확인되었다. 유방 보존술과 감시림프절 생검을 시",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2492,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2493,
@@ -4725,9 +4725,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "37 세 여자가 1 달 전부터 혈성 유두 분비물이 속옷에 묻어 나와 방문하였다. 유방 외상의 증거나 종괴는 촉지되지 않았으며,",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2493,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2494,
@@ -4740,9 +4740,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "60세 여성이 오른쪽 유두 아래에 만져지는 덩이로 왔다. 조직검사 결과 DCIS가 진단되었고, 유방전절제술 및 겨드랑이 림프절",
-  "dup_of": 2292,
-  "dup_sim": 0.63,
-  "done": false
+  "dup_of": 2494,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2523,
@@ -4755,9 +4755,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "58세 여자가 유방촬영술에서 미세석회화가 보인다고 했다. 상피 내암으로 진단되었고 좌측 유방 전절제술과 감시 림프절 생검술을 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2523,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2524,
@@ -4770,9 +4770,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "30대 여성이 출산 후 유즙 분비가 멈추지 않아 내원하였다. 최근 들어 생리가 불규칙해지고 두통이 심하며 양 유방에서 물 같은",
-  "dup_of": 1619,
-  "dup_sim": 0.84,
-  "done": false
+  "dup_of": 2524,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2549,
@@ -4785,9 +4785,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "30대 초반 여성 환자이다. 유방에 1.6cm의 fibroadenoma가 있었고, 1년 후 외래 방문 시 3.4cm 정도로 크",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2549,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2604,
@@ -4800,9 +4800,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "40대 여성이 건강검진에서 발견된 이상소견으로 조직검사 한 결과 침윤성 유관암 발견되어 유방보존술 및 감시림프절 생검을 시행하",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2604,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2605,
@@ -5026,7 +5026,7 @@
   "nimg": 0,
   "stem": "방사선치료 + 항암화학요법 해설: 약간의 변족. c-erbB2 (-) 이므로 trastuzumab 치료 필요하지 않고, ER+",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.26,
   "done": false
  },
  {
@@ -6420,8 +6420,8 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "(22-4CD, 2AB) (21-4AB, 2AB) (20-1CD) (19-2CD, 4CD)혈성 유두 분비물이 속옷에 묻어나와 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_of": 2493,
+  "dup_sim": 0.72,
   "done": false
  },
  {
@@ -6721,7 +6721,7 @@
   "nimg": 1,
   "stem": "58세 여자가 반복되는 발열 및 상복부 통증이 있어 병원에 왔다. 복부 CT 소견은 다음과 같다. 이로 인해 생길 수 있는 합",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.25,
   "done": false
  },
  {
@@ -6991,7 +6991,7 @@
   "nimg": 0,
   "stem": "50세 여자가 유방촬영술에서 미세 석회화가 보인다고 왔다. 상피 내암으로 진단되었고 유방 전절제술을 시행하였다. 다음은 조직검",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.35,
   "done": false
  },
  {
@@ -8716,7 +8716,7 @@
   "nimg": 1,
   "stem": "발열, 복통 및 황달을 주소로 환자가 내원하였다. 2년전 담낭염 복강경 담낭절제술을 시행 받았다고 한다. Bilirubin 4",
   "dup_of": null,
-  "dup_sim": 0.13,
+  "dup_sim": 0.33,
   "done": false
  },
  {

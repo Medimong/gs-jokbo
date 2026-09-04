@@ -17,7 +17,8 @@
  "multi": false,
  "examCount": 3,
  "appearances": [
-  "2023"
+  "2023",
+  "2026·4CD"
  ],
  "source_files": [
   "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
@@ -43,7 +44,7 @@
  "generated_options": [],
  "answer_changed": null,
  "answer_conflict": null,
- "source_notes": "세 버전 모두 발문, 선지, 정답이 동일했다. 그림 자료는 두 갈래로 나뉜다. PDF 합본에서 추출된 ecd4665e364.jpg에는 익상견갑을 보여주는 그림1만 남아 있고, 문항이 실제로 요구하는 그림2(액와부 수술 시야에 A, B, C가 화살표로 표시된 사진)는 docx 복원본(qid1780)에 첨부된 e61e79f699f.jpg에만 그림1과 함께 온전히 포함돼 있었다. eeab429959f.jpg는 같은 두 그림을 저해상도로 재첨부한 중복본이다. 그림2에는 A, B, C 화살표 외에 chest wall, axillary vein이라는 해부학적 이정표만 표시돼 있을 뿐 신경 이름이나 정답은 노출되지 않았다.",
+ "source_notes": "q2722로 따로 추출된 버전이 같은 문항으로 확인되어 출제 이력을 합쳤다. 세 버전 모두 발문, 선지, 정답이 동일했다. 그림 자료는 두 갈래로 나뉜다. PDF 합본에서 추출된 ecd4665e364.jpg에는 익상견갑을 보여주는 그림1만 남아 있고, 문항이 실제로 요구하는 그림2(액와부 수술 시야에 A, B, C가 화살표로 표시된 사진)는 docx 복원본(qid1780)에 첨부된 e61e79f699f.jpg에만 그림1과 함께 온전히 포함돼 있었다. eeab429959f.jpg는 같은 두 그림을 저해상도로 재첨부한 중복본이다. 그림2에는 A, B, C 화살표 외에 chest wall, axillary vein이라는 해부학적 이정표만 표시돼 있을 뿐 신경 이름이나 정답은 노출되지 않았다.",
  "verify": "verified",
  "explanation": {
   "qtype": "differential",
