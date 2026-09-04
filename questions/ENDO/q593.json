@@ -1,0 +1,15 @@
+{
+ "id": 593,
+ "section": "ENDO",
+ "excluded": true,
+ "duplicate_of": 171,
+ "appearances_to_merge": [
+  "2022·4AB",
+  "2021·4CD",
+  "2021·2CD",
+  "2020·4CD",
+  "2018 이전"
+ ],
+ "source_notes": "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx의 문단 1459에 실린 갑상선절제술 후 고음 발성 소실 문항이다. 선지를 문단으로만 나열해 추출기가 세 개(더부신경, 미주신경, 횡격막신경)까지만 잡았고 나머지 두 선지는 pool qid 594로 잘려 나가 둘 다 선지 4개 미만 필터에 걸렸다. 원본에는 선지 다섯 개가 모두 있고 4번 선지에 '(external branch of sup. laryngeal n.)'이라는 정답 주석이 달려 있다. 정본 q171(2022년 4AB 외과 턴말 복원.docx 21번, '답: 4')로 흡수한다. 회차는 원본 문단의 태그 '(22-4AB) (21-4CD, 2CD) (20-4CD) (18이전)'을 그대로 옮긴 것이다.",
+ "appearances_to_merge_applied": true
+}

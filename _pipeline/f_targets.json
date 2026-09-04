@@ -5535,9 +5535,9 @@
   "hasAns": false,
   "nimg": 8,
   "stem": "Drainage Seton 19-2CD) 항문 주위 통증을 주소로 온 환자. 과저 압통 열감이 있었으며 배액이 되면 좋아지는 ",
-  "dup_of": null,
-  "dup_sim": 0.1,
-  "done": false
+  "dup_of": 1289,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2497,
@@ -5550,9 +5550,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "39세 남자 환자가 그레이브스병으로 갑상선 전절제술을 받았다. 수술한 다음날 손발저림을 호소하였다. 검사 결과는 다음과 같을 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2497,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2526,
@@ -5565,9 +5565,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "53세 여자 환자가 갑상선유두암으로 전절제술을 받고 수술 다음날부터 손발의 저림을 호소하였다. 수족경련(carpopedal s",
-  "dup_of": 220,
-  "dup_sim": 0.6,
-  "done": false
+  "dup_of": 2526,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2552,
@@ -5580,9 +5580,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "20세 여자가 좌측 목덩이로 왔다. 경부 초음파 검사 및 미세침흡인세포검사 결과는 아래와 같다. 치료는? #Thyroid, “",
-  "dup_of": null,
-  "dup_sim": 0.57,
-  "done": false
+  "dup_of": 2552,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2637,
@@ -5595,9 +5595,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "갑상선 유두암(papillary thyroid cancer)에서 가장 흔한 유전자변이로, FNAC 결과가 불확실할 때 진단의 ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2637,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2638,
@@ -5610,9 +5610,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "그레이브스병으로 갑상선 수술 계획한 환자. 협부에서 1.2cm 크기 갑상선유두암 발견됨. 조치는? TSH <0.01, T4 증",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2638,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2639,
@@ -5625,9 +5625,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "45세 여성. 6개월부터 약 10kg 정도 체중이 증가하고, 얼굴이 달덩이처럼 붓는다고 내원함 (월상안, Moon face) ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2639,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2667,
@@ -5640,9 +5640,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "40세여자환자가갑상선안병증을동반한 Graves disease로 2년간 methimazole을복용후 호전되었으나, 4년전재발하여",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2667,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2668,
@@ -5655,9 +5655,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "Cushing syndrome 환자에서 cortisol-producing adrenal tumor로편측부신절제술을 시행하였다.",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2668,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2670,
@@ -5670,9 +5670,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "3cm, hypoechoic, irregular margin, non-parallel orientation 등 다음으로 시행할",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2670,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2709,
@@ -5685,9 +5685,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "초음파에서 1.1cm 의 hypoechoic 한 irregular margin 의 우측 갑상선 결절이 발견되었다. TSH 1.",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2709,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2711,
@@ -5700,9 +5700,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "얼굴이 달덩이처럼 둥글어지고 복부에 자색 선조 (등 쿠싱증후군 증상들). Dexamethasone 억제 검사에서 cortiso",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2711,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2725,
@@ -9331,7 +9331,7 @@
   "nimg": 1,
   "stem": "항문 주위 통증을 주소로 온 환자. 과저 압통 열감이 있었으며 배액이 되면 좋아지는 양상. 항문직장농양으로 6개월 전 inci",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.22,
   "done": false
  },
  {
@@ -9346,7 +9346,7 @@
   "nimg": 5,
   "stem": "47세 남자가 간헐적으로 발생하는 배변 후 출혈을 주소로 내원하였다. 간혹 배변 후 항문으로 종괴가 있었으나 배변 후 대부분 ",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.29,
   "done": false
  },
  {

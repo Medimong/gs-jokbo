@@ -1,0 +1,9 @@
+{
+ "id": 594,
+ "section": "ENDO",
+ "excluded": true,
+ "duplicate_of": 171,
+ "appearances_to_merge": [],
+ "source_notes": "2022/[GS] 외과 실습족보_2016이전-2022 1CD.docx의 문단 1464와 1465다. 문항이 아니라 pool qid 593과 같은 문항의 4번, 5번 선지가 잘려 나온 조각이다. 추출본의 발문 '상후두신경 (external branch of sup. laryngeal n.)'은 그 문항의 정답 선지이고 선지로 잡힌 '되돌이후두신경'은 5번 선지다. 정본 q171로 흡수한다. 이 조각 자체가 새로 더하는 회차는 없다.",
+ "appearances_to_merge_applied": true
+}

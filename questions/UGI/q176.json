@@ -15,13 +15,14 @@
   2
  ],
  "multi": false,
- "examCount": 5,
+ "examCount": 6,
  "appearances": [
   "2019·2AB",
   "2020·2AB",
   "2020·4AB",
   "2021·4AB",
-  "2022·4AB"
+  "2022·4AB",
+  "2025·2CD"
  ],
  "source_files": [
   "2022/2022년 4AB 외과 턴말 복원.docx",
@@ -35,7 +36,7 @@
  "generated_options": [],
  "answer_changed": null,
  "answer_conflict": null,
- "source_notes": "원본 두 종(2022년 4AB 턴말 복원, [GS] 외과 실습족보_2016이전-2022 1CD 합본)을 대조한 결과 발문, 선지, 정답(2번, 원위부위절제술) 모두 일치했다. 합본에서는 이 문항이 '[Gastric adenocarcinoma]' 표제 바로 아래 실려 있어, 추출 단계의 section_votes가 '총론'이었던 것과 달리 실제로는 UGI 문항임을 확정했다. 합본 문항 앞에 붙은 출제 이력 태그 '(22-4AB) (21-4AB) (20-2AB, 4AB) (19-2AB)'를 근거로 appearances를 5회로 확정했다. 2022년 4AB 복원본 자체(원 abs_path)에는 이 회차 이력 표기가 없었으므로 문서 안의 표제를 우선했다.",
+ "source_notes": "q2554로 따로 추출된 버전이 같은 문항으로 확인되어 출제 이력을 합쳤다. 원본 두 종(2022년 4AB 턴말 복원, [GS] 외과 실습족보_2016이전-2022 1CD 합본)을 대조한 결과 발문, 선지, 정답(2번, 원위부위절제술) 모두 일치했다. 합본에서는 이 문항이 '[Gastric adenocarcinoma]' 표제 바로 아래 실려 있어, 추출 단계의 section_votes가 '총론'이었던 것과 달리 실제로는 UGI 문항임을 확정했다. 합본 문항 앞에 붙은 출제 이력 태그 '(22-4AB) (21-4AB) (20-2AB, 4AB) (19-2AB)'를 근거로 appearances를 5회로 확정했다. 2022년 4AB 복원본 자체(원 abs_path)에는 이 회차 이력 표기가 없었으므로 문서 안의 표제를 우선했다.",
  "verify": "verified",
  "explanation": {
   "qtype": "differential",
