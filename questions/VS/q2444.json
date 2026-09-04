@@ -1,0 +1,64 @@
+{
+ "id": 2444,
+ "section": "VS",
+ "topic": "복부대동맥류 EVAR 후 Type II endoleak",
+ "stem": "복부대동맥류를 EVAR(endovascular aneurysm repair)로 치료한 뒤 속누출(endoleak)이 생길 수 있다. 다음 중 Type II endoleak의 원인이 되는 혈관은?",
+ "labTable": [],
+ "options": [
+  "splenic artery",
+  "marginal artery of Drummond",
+  "lumbar artery",
+  "profunda femoris artery",
+  "superior mesenteric artery"
+ ],
+ "answerKeys": [
+  3
+ ],
+ "multi": false,
+ "examCount": 1,
+ "appearances": [
+  "2024·통합턴"
+ ],
+ "source_files": [
+  "2024/2024년 통합턴 외과 턴말 복원_v2.docx",
+  "2025/2024~2022년 턴말 통합본.pdf"
+ ],
+ "images_final": [
+  "e0b5a7931b0.png"
+ ],
+ "images_dropped": [
+  {
+   "file": "e161127963c.jpg",
+   "reason": "e0b5a7931b0.png과 완전히 동일한 endoleak 분류 도해(Ia, Ib, IIa, IIb, IIIa, IIIb, Ic 표시)의 다른 저장 형식 사본이다. 같은 그림을 두 번 실을 이유가 없어 png본만 남기고 제외했다."
+  }
+ ],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "출제 회차 조사: PDF 원본(2025/2024~2022년 턴말 통합본.pdf)에는 이 문항이 94페이지와 121페이지에 발문, 선지 순서, 정답까지 완전히 동일하게 두 번 등장한다. 이 PDF는 2022~2024년 여러 회차 자료를 부서 단위(북마크: LV, BP, BR, ENDO, UGI, CR, VAS 93~105p, PDS, TRS 117p~, 총론)로만 묶은 대합본이라 문항 옆에 '[VS](n)'류 회차 표제가 붙어 있지 않고, 94페이지는 VAS 북마크 구간 안, 121페이지는 TRS 북마크 구간 진입 직전(바로 다음 문항부터 '[외상](2)' 표제 시작)에 위치한다. 두 위치 모두 근처에 1AB/2AB/3CD/4AB 같은 회차 표제가 전혀 없어, 같은 복원 뭉치가 대합본 제작 과정에서 두 번 삽입된 것으로 판단했다. 반면 별개 원본인 2024/2024년 통합턴 외과 턴말 복원_v2.docx는 표지에 '2024 통합턴 외과 턴말 복원 (통합턴 성원우) 총 30문제'라고 명시하여 하나의 독립된 시험 회차임이 분명하고, 그 15번 문항이 이 qid와 발문·선지·정답이 한 글자도 다르지 않다. 따라서 이 문항의 실제 출제는 2024 통합턴 1회뿐이며 PDF 안의 중복 등장은 재출제가 아니라 같은 자료의 중복 수록으로 판정한다(examCount=1, appearances=['2024·통합턴']). 추출본의 원래 appearances=['2024','2025']는 소스 파일이 위치한 폴더 연도를 그대로 옮긴 것일 뿐 문서 내부 근거가 없다.\n\n이미지: docx와 PDF 두 소스 모두 문항 바로 뒤에 요추동맥·하장간막동맥 기시부와 Type Ia/Ib/IIa/IIb/IIIa/IIIb/Ic 위치를 화살표로 표시한 표준 endoleak 분류 도해가 첨부돼 있다(concepts/abdominal-aortic-aneurysm.json의 endoleak 분류표와 같은 내용을 그림으로 보여준다). 발문 자체가 '다음 그림을 보고' 같은 지시 없이 순수 텍스트로 완결되고, 그림에도 어느 화살표가 몇 번 선지에 해당하는지 알려주는 캡션이 없어 정답을 노출하지 않는다. 실제 시험 지문에 포함된 그림인지 복원자가 학습용으로 첨부한 참고 도해인지는 원본에서 단정할 근거가 없으나, 학습에는 유용해 남긴다.\n\n중복 판정: 완료된 questions/VS/q2445.json(EVAR 3년 전 시행 후 외래 추적이 끊긴 80세 남자가 복부·허리통증으로 내원한 원인을 묻는 문항, 선지가 'Endoleak로 인한 rupture, Stent 막힘, 신장동맥으로의 혈류 부족, 혈관 확장으로 인한 요관 눌림, 스텐트 그라프트 감염' 등 임상적 원인 범주)와 questions/VS/q1522.json(70세 남성 건강검진에서 발견된 AAA의 수술 적응증을 묻는 문항, 선지가 '6개월에 0.7cm 증가, 4.8cm, Fusiform aneurysm, 소화불량의 증상, Intravascular thrombus' 등 크기·형태·증상 기준)를 모두 열어 선지 집합을 대조했다. 이 문항(q2444)은 'Type II endoleak을 일으키는 구체적 혈관 명칭'을 고르는 문항으로 선지가 5개 혈관명이며, 두 문항 어느 쪽과도 선지가 전혀 겹치지 않고 묻는 축도 다르다(q2445은 증상의 임상적 원인 감별, q1522는 수술 시점 판단, q2444는 Type II 기전의 해부학적 원인 혈관 식별). 따라서 세 문항 모두 중복이 아닌 별개 문항으로 판정한다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "differential",
+  "approach": "Type II endoleak은 그라프트가 덮는 구간에서 대동맥 자체나 그 곁가지가 아니라, 그라프트 밖의 곁가지 혈관이 반대 방향 순환을 통해 동맥류낭 안으로 역류해 채우는 유형이다. 다섯 선지 중 신하대동맥류(infrarenal AAA) 구간의 대동맥 후벽에서 직접 분지해 낭 안쪽으로 연결될 수 있는 혈관이 어느 것인지를 가려낸다.",
+  "correct": "정답은 ③ 요추동맥(lumbar artery)이다. 요추동맥은 신하대동맥 후벽에서 분절 형태로 직접 갈라져 나가는 혈관으로, 하장간막동맥(inferior mesenteric artery, IMV로 오인하지 않도록 주의)과 함께 그라프트가 기시부를 덮은 뒤에도 반대쪽 척추옆 정맥얼기나 골반 혈류를 통해 역행성으로 낭 안을 채우는 대표적인 Type II 원인 혈관이다. 나머지 네 혈관은 위치나 혈류 경로상 신하대동맥류낭과 직접 연결되지 않는다.",
+  "pearl": "Type II endoleak의 원인은 요추동맥과 하장간막동맥, 이 두 곁가지뿐이라고 외운다. 비장동맥, Drummond 변연동맥, 심대퇴동맥, 상장간막동맥처럼 이름은 익숙해도 신하대동맥류 구간과 해부학적으로 맞닿지 않는 혈관이 오답으로 자주 섞인다.",
+  "concepts": [
+   "abdominal-aortic-aneurysm"
+  ],
+  "compare_note": "같은 환자에서 그라프트의 근위부나 원위부 부착부 자체에서 누출이 확인되면 Type Ia 또는 Ib로 판정해 발견 즉시 재개입한다. 부품 이음부나 그라프트 천 손상이 원인이면 Type III로 마찬가지로 즉시 재개입 대상이며, 뚜렷한 누출 경로 없이 낭만 계속 커지면 Type V(endotension)로 분류해 추적을 강화한다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "비장동맥(splenic artery)은 복강동맥(celiac artery)에서 갈라져 비장으로 가는 혈관으로, 신하대동맥류 구간과 해부학적으로 접하지 않아 낭 안으로 역류할 경로가 없다.",
+  "2": "Drummond 변연동맥(marginal artery of Drummond)은 상장간막동맥과 하장간막동맥 영역을 잇는 대장벽의 곁가지 문합이지 대동맥에서 직접 분지하는 혈관이 아니어서 동맥류낭에 직접 연결되지 않는다.",
+  "3": "요추동맥(lumbar artery)은 대동맥 후벽에서 분절 형태로 직접 갈라져 나가며, 하장간막동맥과 함께 그라프트 시술 후에도 역류가 지속되는 Type II endoleak의 대표 원인 혈관이다.",
+  "4": "심대퇴동맥(profunda femoris artery)은 대퇴부 혈류를 담당하는 하지 혈관으로 복부대동맥류낭과 무관하다.",
+  "5": "상장간막동맥(superior mesenteric artery)은 신동맥보다도 위쪽, 즉 동맥류가 시작되는 지점보다 근위부에서 분지해 그라프트가 덮는 구간 바깥에 위치하므로 낭 안으로 역류할 경로가 없다."
+ },
+ "new_concepts": [],
+ "source_version": 1,
+ "content_version": 1
+}

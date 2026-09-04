@@ -15,11 +15,12 @@
   2
  ],
  "multi": false,
- "examCount": 3,
+ "examCount": 4,
  "appearances": [
   "2019·1CD",
   "2021·1CD",
-  "2022·1CD"
+  "2022·1CD",
+  "2024·통합턴"
  ],
  "source_files": [
   "2023/2022 4CD~2023 2AB 외과 턴말 합본.pdf",
@@ -35,7 +36,7 @@
  "generated_options": [],
  "answer_changed": null,
  "answer_conflict": null,
- "source_notes": "4개 복원 버전 모두 발문·선지·정답(② 하지 감각)이 완전히 일치해 이견이 없었다. 세 버전(qid 1491, 340, 942)이 분과를 '총론'으로 적었지만, 이는 2016년 이전 대합본에서 [해부학] 등 주제 헤딩을 분과로 잘못 물려받은 흔적이다. 문항 내용은 급성 사지 허혈(acute limb ischemia)의 중증도 판정을 묻는 혈관외과 문항이므로 분과를 VS로 바로잡았다. qid 942 버전은 원문에 src_tags(22-1CD, 21-1CD, 19-1CD)를 남겨 이 문항이 2019년부터 반복 출제되어 왔음을 보여준다. 발문의 'PAOD'와 'CT angiography'는 한글 병기 규칙에 따라 처음 등장 시 국영문을 함께 적었을 뿐 내용은 원문 그대로다. 이미지는 4개 버전 모두 첨부되어 있지 않았다(image_dependent: false).",
+ "source_notes": "q2449로 따로 추출된 버전이 같은 문항으로 확인되어 출제 이력을 합쳤다. 4개 복원 버전 모두 발문·선지·정답(② 하지 감각)이 완전히 일치해 이견이 없었다. 세 버전(qid 1491, 340, 942)이 분과를 '총론'으로 적었지만, 이는 2016년 이전 대합본에서 [해부학] 등 주제 헤딩을 분과로 잘못 물려받은 흔적이다. 문항 내용은 급성 사지 허혈(acute limb ischemia)의 중증도 판정을 묻는 혈관외과 문항이므로 분과를 VS로 바로잡았다. qid 942 버전은 원문에 src_tags(22-1CD, 21-1CD, 19-1CD)를 남겨 이 문항이 2019년부터 반복 출제되어 왔음을 보여준다. 발문의 'PAOD'와 'CT angiography'는 한글 병기 규칙에 따라 처음 등장 시 국영문을 함께 적었을 뿐 내용은 원문 그대로다. 이미지는 4개 버전 모두 첨부되어 있지 않았다(image_dependent: false).",
  "verify": "verified",
  "explanation": {
   "qtype": "guideline",
