@@ -70,13 +70,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "diverticulitis-hinchey-staged-management",
-   "title": "대장게실염의 중증도 분류(Hinchey)와 병기별 처치",
-   "why": "기존 acute-appendicitis 카드는 우측 대장게실염을 급성 충수염과의 감별 대상으로만 다루고, '게실염이면 대개 항생제로 호전된다'는 원칙만 짧게 언급할 뿐 게실염 자체의 중증도 분류나 병기별 처치 기준(경도 게실염, 국소 농양의 크기별 처치, 범발성 화농성/분변성 복막염의 응급 수술 적응증)은 다루지 않는다. 이 문항(qid2272)은 정확히 그 경계, 즉 어느 단계부터 항생제나 관찰이 아니라 응급 수술로 넘어가는지를 묻는다. Hinchey 병기(0~IV)를 축으로 병기별 영상 소견과 처치(항생제 단독, 경피적 배액, 응급 수술 및 수술 술식으로 Hartmann's procedure와 일차 문합의 선택)를 표로 정리한 카드가 있으면, 게실염의 중증도를 묻는 다른 문항에도 반복 참조할 수 있다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

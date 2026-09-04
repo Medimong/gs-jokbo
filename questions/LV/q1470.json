@@ -54,7 +54,9 @@
   ],
   "correct": "Brisbane 2000 용어에서 간을 나누는 기준은 분할 단계마다 다르다. 1차 분할은 중간간정맥이 지나는 Cantlie 선을 경계로 우반간(right hemiliver)과 좌반간(left hemiliver)을 나눈다. 2차 분할은 우간정맥(right hepatic vein)과 좌간정맥(left hepatic vein)이 지나는 면을 경계로 각 반간을 다시 두 개의 section, 즉 우전구역과 우후구역, 좌내측구역과 좌외측구역으로 나눈다. 3차 분할은 문맥, 간동맥, 담관이 함께 주행하는 문맥삼합의 분지가 도달하는 범위를 기준으로 각 section을 segment(Couinaud 분절)로 나눈다. 발문이 묻는 두 번째로 나누는 기준인 section은 이 중 2차 분할이므로 정답은 간정맥이다.",
   "pearl": "간정맥은 간을 나누는 경계이고 문맥은 분절에 혈류를 공급하는 축이라는 대비로 기억한다. 1차 분할은 중간간정맥(Cantlie 선), 2차 분할(section)은 간정맥, 3차 분할(segment)은 문맥 분지가 기준이라는 순서를 통째로 외워두면 몇 번째 분할을 묻든 바로 답할 수 있다.",
-  "concepts": [],
+  "concepts": [
+   "liver-segmental-anatomy"
+  ],
   "compare_note": "문항이 1차 분할, 즉 우반간과 좌반간을 나누는 기준을 물었다면 답은 중간간정맥이 지나는 Cantlie 선이 되고, 3차 분할인 segment를 나누는 기준을 물었다면 답은 문맥의 분지가 된다."
  },
  "optnotes_mode": "brief",
@@ -65,13 +67,7 @@
   "4": "정답. 우간정맥과 좌간정맥이 지나는 면이 각 반간을 section으로 나누는 기준이다.",
   "5": "오답. 간겸상인대(falciform ligament) 같은 인대는 표면 지표로 쓰이지만, 겸상인대가 나타내는 경계는 실제 좌내측구역과 좌외측구역의 경계(정중열)와 일치하지 않아 Brisbane 2000의 기능적 분할 기준으로 쓰이지 않는다."
  },
- "new_concepts": [
-  {
-   "slug": "liver-segmental-anatomy",
-   "title": "간 구역 해부학, Brisbane 2000 용어와 간절제술 명칭",
-   "why": "간 수술 문항 전반에서 반복적으로 필요한 기초 해부 카드다. Couinaud 분류의 8개 분절 번호와 위치(1분절은 미상엽, 2와 3분절은 좌외측구역, 4분절은 좌내측구역, 5와 8분절은 우전구역, 6과 7분절은 우후구역)를 정리하고, Brisbane 2000 용어의 1차 분할(중간간정맥이 지나는 Cantlie 선 기준, 우반간과 좌반간), 2차 분할(간정맥 기준, section, 우전구역과 우후구역, 좌내측구역과 좌외측구역), 3차 분할(문맥 분지 기준, segment) 세 단계 위계를 표로 싣는다. 간정맥은 구역 사이의 경계를 이루고 문맥은 분절 내부에 혈류를 공급한다는 대비를 명확히 정리한다. 마지막으로 간절제술 명칭과 절제 분절 범위를 대응시킨 표(우간절제 right hepatectomy는 5, 6, 7, 8분절, 좌간절제 left hepatectomy는 2, 3, 4분절, 확대 우간절제 extended right hepatectomy 또는 right trisectionectomy는 4, 5, 6, 7, 8분절, 좌외측구역절제 left lateral sectionectomy는 2와 3분절, 분절절제 segmentectomy는 단일 분절)를 함께 실어 간 수술 관련 문항 전반에서 참조할 수 있게 한다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1,
  "concepts_pending": [

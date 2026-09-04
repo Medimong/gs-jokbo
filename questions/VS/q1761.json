@@ -120,13 +120,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "chronic-pad-abi-rutherford",
-   "title": "만성 말초동맥질환의 진단(ABI 등)과 Rutherford 분류, 단계별 치료",
-   "why": "ABI 측정법과 해석 기준, 위양성 상황(석회화, 발가락위팔지수 대체), 운동부하 ABI, Rutherford/Fontaine 분류에 따른 파행-중증하지허혈 단계별 진단 및 치료 원칙을 다루는 카드가 없어 계산형·감별형 문항에서 반복 참조할 근거가 없다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

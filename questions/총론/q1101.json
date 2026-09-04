@@ -47,13 +47,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "surgical-antibiotic-prophylaxis",
-   "title": "수술 부위 감염(SSI)과 예방적 항생제 사용 원칙",
-   "why": "예방적 항생제의 투여 시점, 재투여 기준, 종료 시점, 대장수술의 약제 선택과 수술 창상 분류별 감염률을 다루는 개념 카드가 없어 새로 만들었다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

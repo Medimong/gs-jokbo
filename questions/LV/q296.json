@@ -72,13 +72,7 @@
   "compare_note": "같은 문항군에서 수혜자 체중만 60kg으로 바뀐 변형은 GRWR = 720 ÷ (60 × 1000) × 100 = 1.2%로 정답이 ③ 1.2가 된다. 발문에서 수혜자 체중 수치를 반드시 먼저 확인해야 한다."
  },
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "간이식-graft-recipient-weight-ratio",
-   "title": "GRWR (Graft-to-Recipient Weight Ratio)",
-   "why": "생체 간이식에서 이식편 크기의 적절성을 판단하는 핵심 지표. 이식편 무게(g)를 수혜자 체중(kg)으로 나누고 100을 곱해 구하며, 0.8% 미만이면 소간증후군 위험이 커진다는 임계값 개념과 함께 반복 출제된다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1,
  "optnotes_mode": "none"

@@ -59,19 +59,14 @@
   "pearl": "복수와 복막 파종은 위암에서 그 자체로 M1, 병기 IV를 뜻한다. 출혈이나 천공 같은 응급 합병증이 없다면 감량수술이 아니라 전신 항암화학요법이 답이다.",
   "concepts": [
    "gastric-cancer-staging-adjuvant",
-   "malignant-goo-palliation"
+   "malignant-goo-palliation",
+   "gastric-cancer-palliative-chemo-regimen"
   ],
   "compare_note": "조기위암(T1a, 절대·확대 적응증 충족)은 내시경점막하박리술(ESD)로 종결한다. 근치적 절제 후 병리에서 병기 IB 이상(예: T1bN3a)이 나오면 수술은 이미 끝났으므로 다음 단계는 보조 항암화학요법이다(q2553). 원격전이 없이 절제 가능한 국소 위암이 위장관 출구를 막고 있으면 스텐트나 우회가 아니라 곧바로 근치적 위절제술로 간다(q2382). 원격전이가 있어 절제가 불가능하면서 폐쇄 증상이 있으면 기대여명과 전신상태(ECOG PS)에 따라 내시경 스텐트나 위공장문합술 같은 완화적 시술을 고른다(q1392). 이 문항처럼 원격전이(복막 파종)가 있지만 출혈, 천공, 폐쇄 같은 응급 합병증이 없으면 감량수술 없이 곧바로 전신 항암화학요법을 시작한다."
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "gastric-cancer-palliative-chemo-regimen",
-   "title": "전이성·절제불가 위암의 전신 항암화학요법 요법 선택과 HER2 표적치료",
-   "why": "이 문항은 4기 위암에서 정답이 '항암화학요법'임을 요구하지만, 현재 개념 카드에는 실제 1차 전신 항암화학요법 요법(플루오로피리미딘+백금 병합 등)과 HER2 양성일 때 트라스투주맙을 추가하는 기준(ToGA 시험)을 다루는 카드가 없다. malignant-goo-palliation 카드는 국소 완화(스텐트·우회) 결정에 집중되어 있고 gastric-cancer-staging-adjuvant 카드는 근치적 절제 후 보조요법에 집중되어 있어, 둘 다 절제불가·전이성 질환 자체의 전신 항암 요법 선택은 다루지 않는다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

@@ -113,13 +113,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "gastric-cancer-staging-adjuvant",
-   "title": "위암 병기 판정(AJCC TNM)과 병기별 보조요법 결정",
-   "why": "gastrectomy-types 카드는 위절제술 술식과 재건 방법만 다루고 보조요법 결정은 다루지 않는다. 이 문항(qid 2553)처럼 병리 결과로 병기를 매기고 그에 따라 수술 후 치료를 정하는 문항에 반복 참조할 결정 카드가 필요하다. 반드시 담을 내용은 다음과 같다. (1) AJCC 8판 위암 T 분류(Tis, T1a 고유판·근육점막, T1b 점막하, T2 고유근육층, T3 장막하, T4a 장막, T4b 인접장기)와 N 분류(N0, N1 1~2개, N2 3~6개, N3a 7~15개, N3b 16개 이상) 표, 그리고 T/N 조합으로 병기(0, IA부터 IV)를 매기는 병기그룹표. (2) 병기별 5년 생존율 개형(대략 병기 I 90%대, II 70~80%대, III 40~60%대, IV 10% 미만 수준의 범위, 출처는 AJCC 8판 검증 코호트나 대한위암학회 자료임을 명시). (3) 병기별 보조요법 결정표: 병기 IA는 수술만, 병기 IB 이상은 D2 위절제술 후 보조 항암화학요법. 한국·일본은 병기 II에서 S-1 단독요법(ACTS-GC 시험 근거), 병기 II~IIIB에서 XELOX(카페시타빈+옥살리플라틴, CLASSIC 시험 근거)를 표준으로 쓰고 D2 곽청이 충분하면 항암방사선요법을 추가하지 않는다(ARTIST 시험). 서양은 D1 이하로 곽청 범위가 좁은 경우가 많아 수술 전후 항암화학요법(perioperative chemotherapy, FLOT4 시험의 FLOT 요법)이나 수술 후 항암방사선요법(INT-0116/Macdonald 요법)으로 국소 재발을 보완한다는 점을 한국 기준과 대비해서 밝힌다. (4) 조기위암 내시경점막하박리술(ESD)의 절대/확대 적응증과 수술로 넘어가는 경계는 gastrectomy-types 카드와 내용이 겹치므로, 이 카드에서는 병기 결정과의 연결점만 짧게 짚고 세부 적응증 판단은 gastrectomy-types를 참조하도록 교차 언급한다. 대한위암학회 Korean Practice Guideline for Gastric Cancer를 축으로 서술하고 related에 gastrectomy-types를 넣어 두 카드를 연결한다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

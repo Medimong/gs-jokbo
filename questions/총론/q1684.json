@@ -77,13 +77,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "surgical-nutrition-support",
-   "title": "수술 전후 영양지원: 경로 결정과 재급식증후군",
-   "why": "총론 영양 문항에서 반복적으로 요구되는 경장영양 대 정맥영양, 경로(위 대 공장), 기간(단기 대 장기), 공급 방식(간헐 대 지속) 결정 기준과 심한 영양불량 환자의 재급식증후군 예방 기준을 표와 흐름도로 정리해 이 문항 이후에도 재사용하기 위함."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

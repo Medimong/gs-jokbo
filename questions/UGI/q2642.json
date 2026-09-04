@@ -65,20 +65,15 @@
   "correct": "조직검사로 위선암이 확진된 뒤 병기를 결정하는 표준 초기 단계는 위내시경으로 병변의 위치와 범위를 다시 확인하고, 조영증강 복부CT로 국소 침습 정도와 림프절, 간을 포함한 인접 장기의 원격전이 여부를 평가해 M0와 M1을 가르는 것이다. 국내 국가암검진 체계도 이와 같은 순서를 따른다. 40세 이상에서 2년마다 위내시경(또는 위장조영촬영)으로 위암을 선별하고, 병변이 발견되면 조직검사로 확진하며, 확진되면 병기 결정을 위해 복부골반CT를 시행한다. 이 흐름에서 전신 PET/CT와 간전이 평가를 위한 복부MRI는 전이가 강하게 의심되는 경우에만 조건부로 추가하는 검사이므로 초기 필수 단계가 아니고(②는 EUS만, ④와 ⑤는 CT를 조건부 검사인 MRI나 PET로 대체했으므로 틀렸다), 위내시경초음파(EUS)는 침습 깊이(T 병기)를 세밀히 평가해 내시경절제 적응증을 판단할 때 시행하는 것으로 이 단계의 표준 검사가 아니다(②, ③은 틀렸다). 따라서 정답은 ① 위내시경, 복부CT이다.",
   "pearl": "위암 진단 후 병기 결정의 첫 단추는 위내시경 재확인과 복부CT이고, PET/CT와 MRI는 전이가 의심될 때만 조건부로 얹는 검사라는 것을 기억한다.",
   "concepts": [
-   "gastric-cancer-staging-adjuvant"
+   "gastric-cancer-staging-adjuvant",
+   "gastric-cancer-initial-workup"
   ],
   "compare_note": "만약 발문이 조기위암으로 판단되어 내시경절제(ESD) 적응증을 따지는 상황이라면 이 단계 이후에 위내시경초음파(EUS)로 침습 깊이를 확인하는 과정이 추가되지만, 이는 초기 필수 병기결정 단계가 아니라 그 이후 세부 결정 단계에서 필요할 때 쓰는 검사다."
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "concept_gap": "gastric-cancer-staging-adjuvant 카드는 수술 후 병리 보고서를 바탕으로 한 AJCC TNM 병기 판정과 병기별 보조요법만 다룬다. 이 문항이 묻는, 진단 확정 이후 병기를 결정하기 위한 초기 검사 순서(국가암검진 위내시경, 조직검사, 복부CT, 조건부 PET/CT·MRI, 필요시 EUS)를 다루는 카드는 없다.",
- "new_concepts": [
-  {
-   "slug": "gastric-cancer-initial-workup",
-   "title": "위암 초기 진단 및 병기결정 검사 흐름(국가암검진부터 CT, EUS, PET까지)",
-   "why": "gastric-cancer-staging-adjuvant 카드는 수술 후 TNM 병기와 보조요법만 다루고, 진단 확정 전후 병기 결정을 위한 초기 검사 알고리즘(위내시경, 복부CT를 강한 권고로, PET/CT와 MRI를 조건부로 두는 흐름)을 다루는 카드가 없다. q2642가 이 공백에 해당한다."
-  }
- ],
+ "concept_gap": null,
+ "new_concepts": null,
  "source_version": 1,
  "content_version": 1
 }

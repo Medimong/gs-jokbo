@@ -51,13 +51,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "breast-conserving-surgery",
-   "title": "유방보존술의 적응증과 절제연 관리",
-   "why": "기존 유방 카드 세 개(breast-cancer-adjuvant-therapy, breast-surgery-complications, breast-cancer-risk-factors)를 확인했으나 유방보존술 자체를 정면으로 다루는 카드가 없다. breast-cancer-adjuvant-therapy는 PMRT/전유방방사선치료 적응증만 다룰 뿐 절제연 판정 기준은 다루지 않고, breast-surgery-complications의 '절제연'은 감시림프절의 extranodal extension을 가리켜 종양 절제연과 무관하다. 새 카드에는 유방보존술의 적응증과 금기(다발성 병소, 광범위 미세석회화, 이전 흉부 방사선치료 병력, 임신 등), no ink on tumor 절제연 기준(침윤암은 잉크에 종양세포가 닿지 않으면 음성, 관상피내암(DCIS)은 2mm 기준), 종양 대 유방 크기 비율이 커서 처음에는 유방전절제술이 필요해 보이는 경우 선행항암화학요법(neoadjuvant chemotherapy)으로 종양을 줄여 보존술로 전환하는 전략, 절제연 양성 시 재절제 원칙과 반복 재절제 실패 시 전절제 전환, 유방보존술의 재수술률까지 담아야 한다. 이 카드가 있으면 절제연·재절제를 묻는 문항(q66 포함)에서 표를 참조로 걸 수 있다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

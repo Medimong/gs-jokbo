@@ -79,13 +79,7 @@
   "4": "안쪽가슴근신경(medial pectoral n.)은 소흉근(pectoralis minor)과 대흉근 일부를 함께 지배한다. 손상 시에도 가슴 근육 위축로 나타날 뿐 등 쪽의 익상견갑을 설명하지 못한다.",
   "5": "겨드랑신경(axillary n.)은 삼각근(deltoid)과 어깨 가쪽 피부감각을 담당한다. 액와부 곽청보다는 상완골 근위부 골절이나 견관절 탈구에서 주로 손상되며, 손상 시 어깨 벌림력 저하와 어깨 가쪽 badge patch 감각저하가 나타날 뿐 익상견갑과는 관련이 없다."
  },
- "new_concepts": [
-  {
-   "slug": "breast-surgery-complications",
-   "title": "유방암 수술의 합병증: 신경손상, 림프부종, SLNB 대 ALND",
-   "why": "유방 전절제술과 액와부 림프절 곽청술 후 손상되는 신경별 증상(긴가슴신경 손상의 익상견갑, 흉배신경 손상의 광배근 약화, 가쪽·안쪽가슴근신경 손상의 대흉근 위축, 늑간상완신경 손상의 상완 내측 감각저하, 겨드랑신경 손상의 삼각근 위약)을 한눈에 비교하는 감별표가 필요하다. 유방 카드는 현재 breast-cancer-risk-factors 하나뿐이라 이 주제를 다루지 못한다. 유방 수술 관련 문항이 앞으로 더 나올 것으로 예상되므로, 신경손상 감별표뿐 아니라 액와 수술 전반의 합병증인 림프부종(lymphedema)의 위험인자·예방·처치, 감시림프절생검(sentinel lymph node biopsy, SLNB)과 액와림프절곽청(axillary lymph node dissection, ALND)의 적응증 구분(ACOSOG Z0011 기준 포함), 액와막증후군(axillary web syndrome, cording)까지 함께 담아 재사용 가능한 카드로 만든다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

@@ -88,13 +88,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "gallbladder-polyp-management",
-   "title": "담낭용종의 크기별 처치와 악성 위험인자",
-   "why": "이 문항의 정답이 0.54cm이라는 작은 크기 하나로 결정되므로, 6mm/10mm 크기 문턱과 크기 외 악성 위험인자(무경성 형태, 50세 이상, 원발경화성담관염 동반, 인도인, 담석 동반, 크기 증가 속도)를 정리한 판단표가 필요하다. 유럽 다학회 합동 권고(ESGAR 등)의 3단계 기준(6mm 미만/6~9mm/10mm 이상)과 한국 진료지침의 1cm 절제 기준을 함께 실어야 한다. 담낭선근종증(adenomyomatosis)과 콜레스테롤 용종처럼 담낭용종과 감별해야 하는 질환도 같은 카드에서 다뤄야 이 문항군 전체를 커버한다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

@@ -94,13 +94,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "abdominal-stab-wound-triage",
-   "title": "복부 자상의 초기 처치 알고리즘",
-   "why": "concepts/ 폴더에 관통성 복부 외상(자상) 처치 알고리즘 카드가 없다. 국소상처탐색(local wound exploration), 진단적 복강경, 연속 신체검진(serial abdominal exam), 응급개복술의 적응증이 혈역학적 안정성, 복막자극징후, 복막 관통 여부, 장기 탈출 네 기준으로 갈리는 결정표가 필요하며 이 문항을 포함해 여러 외상 문항에서 반복 참조될 주제다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

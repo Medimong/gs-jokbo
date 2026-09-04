@@ -75,13 +75,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "thyroid-surgery-complications",
-   "title": "갑상선 수술 후 합병증: 시기별 감별과 처치",
-   "why": "갑상선전절제술 후 서로 다른 시점에 나타나는 대표 합병증(수술 후 혈종에 의한 기도폐쇄, 반회후두신경 손상, 저칼슘혈증, 갑상선중독발작)을 발생 시점별로 정리한 표가 필요하다. 특히 혈종성 기도폐쇄에서는 기관내 삽관보다 침상 옆 상처 개방을 통한 혈종 배출이 먼저라는 처치 순서를 강조해야 한다. qid44(혈종/기도폐쇄)와 qid1538(저칼슘혈증)이 같은 카드를 참조하므로 슬러그를 통일한다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

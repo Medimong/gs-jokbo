@@ -142,7 +142,8 @@
   "concepts": [
    "hcc-treatment-algorithm",
    "cirrhosis-complications",
-   "hepatectomy-preop-assessment"
+   "hepatectomy-preop-assessment",
+   "liver-transplant-indications"
   ],
   "compare_note": "같은 2cm 단일 종양이라도 Child-Pugh A이고 문맥압항진증이 없었다면 간절제술이 정답이 되고, 종양이 Milan criteria를 벗어난 다발성·큰 병변이었다면 간기능과 무관하게 경동맥화학색전술(TACE)이 정답이 된다."
  },

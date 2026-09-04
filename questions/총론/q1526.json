@@ -90,13 +90,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "catheter-related-bloodstream-infection",
-   "title": "중심정맥관 관련 혈류감염(CRBSI)의 진단과 처치",
-   "why": "중심정맥관 관련 혈류감염(catheter-related bloodstream infection, CRBSI)의 진단(다른 발열 원인을 먼저 배제하는 순서, 카테터 혈액과 말초 혈액 배양의 시간차 양성 differential time to positivity)과 처치를 결정표로 정리한다. 카테터를 즉시 제거해야 하는 경우(패혈증 또는 혈역학적 불안정, 화농성 혈전정맥염, 심내막염, 황색포도알균 및 칸디다 감염, 적절한 항생제 치료 72시간 후에도 지속되는 균혈증)와 유지하며 항생제 잠금요법(antibiotic lock therapy)을 시도할 수 있는 경우를 나누고, 가이드와이어를 통한 카테터 교체가 활동성 감염 상황에서 부적절한 이유(피하 경로의 생물막을 제거하지 못하고 새 카테터를 같은 통로로 재삽입하게 됨)를 명시한다. 총론 문항에서 반복적으로 출제되는 수술 후 발열의 시기별 감별(수술 후 1~2일 무기폐, 3~5일 요로감염, 5~7일 창상감염 또는 문합부 누출, 1주 이후 카테터 관련 감염과 심부정맥혈전증 등 이른바 5W's 틀)과, 정맥영양(total parenteral nutrition, TPN)의 대사성 합병증(고혈당, 재영양증후군, 간기능 이상, 담즙정체)·기계적 합병증(기흉, 카테터 폐쇄, 정맥혈전)·감염성 합병증을 함께 담아 총론 문항 전반에서 재사용할 수 있도록 범용적으로 구성한다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

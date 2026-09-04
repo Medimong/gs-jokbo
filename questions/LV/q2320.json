@@ -103,25 +103,15 @@
   "pearl": "만성 간질환자에서 급성 악화로 grade III 이상의 간성뇌증에 극심한 응고장애와 고빌리루빈혈증이 겹치면, 락툴로오스나 리팍시민 같은 대증치료의 반응부터 기다리지 말고 간이식 평가를 서둘러야 한다.",
   "concepts": [
    "cirrhosis-complications",
-   "hcc-treatment-algorithm"
+   "hcc-treatment-algorithm",
+   "acute-liver-failure",
+   "liver-transplant-indications"
   ],
   "compare_note": "간성뇌증이 자극 없이도 각성되는 grade I~II 수준이고 빌리루빈·INR 상승이 경미했다면, 우선 유발인자(위장관 출혈, 감염, 변비, 전해질 이상)를 찾아 교정하며 락툴로오스와 리팍시민으로 치료하고, 반응이 없을 때 비로소 간이식을 고려하는 순서로 바뀐다."
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "concept_gap": "cirrhosis-complications와 hcc-treatment-algorithm 두 카드 모두 간이식의 적응증(비대상성 간경변, 급성/급성-만성 간부전, HCC의 Milan·UCSF 기준)과 금기(활동성 감염, 조절 안 되는 간외 악성종양, 심각한 심폐질환 등), 이식 대상자 우선순위를 정하는 MELD 기반 장기 배분(KONOS/UNOS) 기준을 표로 정리하지 않았다. hcc-treatment-algorithm의 간이식 항목은 HCC 종양 기준(Milan criteria)에만 국한되고, cirrhosis-complications의 MELD 표는 '수술 위험 평가' 목적으로만 다뤄 '이식 적응' 목적의 절단점(예: MELD 15 이상이면 이식이 순수 수술적 치료보다 이득)이나 King's College criteria가 없다. 간성뇌증의 West Haven 임상 등급표도 두 카드 어디에도 없어, 이 문항처럼 의식수준 서술만으로 등급을 판정해야 할 때 참조할 근거 카드가 없다. 간이식이 정답인 문항이 앞으로 더 나올 것이므로 새 카드가 필요하다.",
- "new_concepts": [
-  {
-   "slug": "liver-transplant-indications",
-   "title": "간이식의 적응증과 금기, MELD 기반 장기 배분",
-   "why": "비대상성 간경변, 급성/급성-만성 간부전, HCC(Milan·UCSF 기준)라는 세 갈래 간이식 적응증과 절대·상대 금기, King's College criteria, MELD 점수 기반 KONOS/UNOS 배분 우선순위를 정리하는 카드가 없다. 이 문항(qid 2320)처럼 간이식 자체가 정답인 문항이 반복해서 나오는데, 현재는 hcc-treatment-algorithm의 Milan criteria 항목과 cirrhosis-complications의 수술위험 MELD 표만으로 우회해서 설명해야 한다."
-  },
-  {
-   "slug": "hepatic-encephalopathy-west-haven-grading",
-   "title": "간성뇌증의 West Haven 임상 등급",
-   "why": "cirrhosis-complications 카드는 간성뇌증의 유발인자와 치료(락툴로오스, 리팍시민)만 다루고 grade 0부터 IV까지의 West Haven 임상 등급 기준표가 없어, 의식수준 서술만으로 중증도 등급을 판정할 근거 카드가 없다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

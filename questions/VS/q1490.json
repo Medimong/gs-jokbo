@@ -54,11 +54,11 @@
   "correct": "정답은 고주파절제술(radiofrequency ablation)이다. 다섯 선지를 팽창마취가 필요한 열 손상 기전인지로 나누면, 고위결찰과 정맥발거술(①)과 정맥류 절제술(⑤)은 수술적 치료, 기계화학적 폐쇄술(②)과 접착제 폐쇄술(③)은 비열 비종창 치료로 열을 쓰지 않는다. 오직 고주파절제술(④)만이 고주파 에너지로 정맥벽에 열손상을 가해 폐쇄시키는 열 절제(thermal ablation)에 해당한다.",
   "pearl": "하지정맥류 치료법을 분류할 때는 먼저 팽창마취가 필요한지를 물어라. 필요하면 열 절제(고주파, 레이저, 증기), 필요 없으면 접착제, 기계화학적 폐쇄술, 경화요법 같은 비열 비종창 치료이고, 정맥을 물리적으로 뽑아내거나 절제하면 수술적 치료다.",
   "concepts": [
-   "chronic-venous-insufficiency"
+   "chronic-venous-insufficiency",
+   "varicose-vein-treatment-options"
   ],
   "compare_note": "이 문항은 사진 없이 하지정맥류 치료법의 분류(무엇이 thermal ablation인지)를 직접 묻는 지식형 문항이고, questions/VS/q1549.json은 시술 사진(카테터 삽입, 팽창마취, pullback firing 3단계)을 보고 시술명을 역으로 판독하는 감별형 문항이다. 두 문항 모두 정답은 고주파절제술로 같지만, 이 문항의 선지에는 q1549에 없는 Endovenous glue ablation과 Ambulatory phlebectomy가 있고, q1549의 선지에는 이 문항에 없는 Cyanoacrylate glue와 Ultrasound-guided foam sclerotherapy가 있어 선지 구성이 다르다. 이 문항이 '분류 지식'을, q1549가 '사진 판독'을 검증한다는 점에서 서로 다른 능력을 묻는 별개 문항이다."
  },
- "concept_gap": "questions/VS/q1549.json이 이미 concept_gap에 'concepts/chronic-venous-insufficiency.json의 치료 원칙 단락이 압박치료·경화요법·정맥내 열소작술·발거술을 문장으로만 나열할 뿐, 시술적 치료 6가지를 원리·마취·회복·합병증으로 나란히 비교하는 표가 없다'고 남겨두었고 new_concepts로 varicose-vein-treatment-options 카드를 이미 제안했다. 이 문항은 그 표 부재를 더 직접적으로 드러낸다. q1549는 사진 단서(팽창마취 유무)로 좁혀가는 감별형이라 표가 없어도 임상 추론으로 우회할 여지가 있지만, 이 문항은 임상 단서 없이 '팽창마취 필요 여부'라는 분류 축 자체를 알아야만 풀리는 순수 분류 지식형이라 표가 없으면 대응이 어렵다. 이미 제안된 카드이므로 중복해서 new_concepts에 다시 적지 않는다.",
  "optnotes_mode": "brief",
  "optnotes": {
   "1": "High ligation and stripping(고위결찰과 정맥발거술)은 접합부를 결찰하고 정맥을 물리적으로 뽑아내는 수술적 치료로, 열을 쓰지 않는다.",

@@ -123,18 +123,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "hcc-bclc-치료알고리즘",
-   "title": "간세포암 BCLC 병기별 치료 알고리즘",
-   "why": "종양 인자(크기·개수·혈관침습·전이)와 간기능·문맥압항진증에 따라 절제, RFA/PEI, TACE, 전신항암제, 간이식 중 1차 치료가 갈리는 핵심 알고리즘이며 이 문항을 포함해 외과 족보에 반복 출제됨."
-  },
-  {
-   "slug": "child-pugh-분류",
-   "title": "Child-Pugh 간기능 분류",
-   "why": "빌리루빈, 알부민, 프로트롬빈시간(PT/INR), 복수, 간성뇌증 5개 항목으로 간기능을 A/B/C로 나누며, HCC 치료 선택에서 절제·이식 가능 여부를 정하는 핵심 기준."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

@@ -83,7 +83,7 @@
   "5": "오답. 상장간막동맥(superior mesenteric artery)은 대동맥에서 복강동맥 아래로 따로 갈라져 나와 공장부터 근위부 횡행결장까지 소장, 대장 대부분에 혈류를 공급하는 핵심 혈관이다. Whipple에서 손상되면 광범위 장허혈로 이어지는 치명적 손상이며, 오히려 종양의 SMA 침범 여부가 절제가능성을 가르는 기준이 된다."
  },
  "new_concepts": [],
- "concept_gap": "gastric-vascular-anatomy 카드는 GDA의 기시(총간동맥)와 상부위장관 출혈에서 GDA가 TAE 색전술의 표적이 된다는 점, SMA 기원 대체·부우간동맥 변이는 다루지만, Whipple에서 GDA를 결찰하는 이유(췌두부·십이지장 혈류)와 결찰 전 클램핑 검사(복강동맥 협착 또는 변이 간동맥이 있을 때 GDA가 간으로 가는 곁순환이 되는 상황), 그리고 GDA stump 출혈이 Whipple 후 대표적인 지연성 치명적 합병증(sentinel bleed, 췌장루에 의한 혈관벽 삭음)이라는 내용은 없다. periampullary-cancer-workup 카드도 Whipple의 절제범위·재건순서·췌장루(POPF)는 다루지만 post-pancreatectomy hemorrhage(PPH)나 GDA stump 출혈은 다루지 않는다. 두 카드 중 하나에 이 내용을 보강하면 좋겠다.",
+ "concept_gap": null,
  "source_version": 1,
  "content_version": 1
 }

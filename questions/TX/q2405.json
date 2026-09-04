@@ -76,13 +76,7 @@
   "4": "Mycophenolate mofetil. 항대사물질로 T세포와 B세포의 증식을 억제하지만 calcineurin 경로와는 무관하다.",
   "5": "Bortezomib. proteasome 억제제로 형질세포를 표적으로 하여 급성 항체매개거부반응 치료 등에 쓰이나 유지 면역억제제로 상용되지 않는다."
  },
- "new_concepts": [
-  {
-   "slug": "transplant-immunosuppression",
-   "title": "이식 후 면역억제요법: 유도·유지요법과 거부반응",
-   "why": "이 문항(qid 2405)처럼 개별 면역억제제의 계열을 묻는 문항이 반복 출제되므로, 약제를 계열별로 정리한 표와 거부반응 분류를 담은 개념 카드가 필요하다. 카드에는 다음을 담는다. (1) 유도요법과 유지요법의 구분: 이식 직후 단기간 강하게 T세포를 고갈시키거나 차단하는 유도요법(항흉선세포글로불린 ATG, IL-2 수용체 길항제 basiliximab)과, 이식편이 생착한 이후 평생 지속하는 유지요법을 나눈다. (2) 표준 3제 요법: 칼시뉴린 억제제(tacrolimus 또는 cyclosporine)에 항대사물질(mycophenolate mofetil 또는 azathioprine), 스테로이드를 더한 조합이 표준 유지요법이며, mTOR 억제제(sirolimus, everolimus)는 칼시뉴린 억제제의 신독성을 피해야 할 때 대체제로 쓴다. (3) 각 약제의 기전과 주요 독성: tacrolimus는 calcineurin 억제로 IL-2 전사를 차단하며 신독성, 신경독성(진전, 두통), 당뇨 유발이 문제되고, cyclosporine은 같은 기전이면서 잇몸증식과 다모증이 특징적이다. mycophenolate mofetil은 purine 합성을 억제해 골수억제(백혈구감소)와 설사 등 위장관 증상을 일으키고, sirolimus는 mTOR 억제로 세포 증식을 막아 상처치유 지연과 고지혈증을 일으킨다. (4) 약물 농도 모니터링이 필요한 이유: 칼시뉴린 억제제와 mTOR 억제제는 치료역이 좁아 trough level이 낮으면 거부반응, 높으면 독성으로 바로 이어지므로 정기적인 혈중 농도 측정이 필수다. (5) 거부반응의 분류와 대응: 초급성 거부반응(hyperacute, 이식 전 존재하던 공여자 특이 항체에 의해 수술 중 즉시 발생, 예방이 최선), 급성 세포성 거부반응(acute cellular rejection, T세포 매개, 생검에서 세관염과 사이질 침윤 확인 후 고용량 스테로이드로 치료), 급성 항체매개거부반응(acute antibody-mediated rejection, 공여자 특이 항체가 원인, C4d 양성 소견이 특징이며 혈장교환술과 리툭시맙 등으로 치료), 만성 거부반응(chronic rejection, 서서히 진행하는 섬유화와 혈관병증으로 뚜렷한 치료법이 없어 예방이 중심)으로 나눈다. (6) 장기 합병증: 만성 면역억제로 인한 기회감염(거대세포바이러스, BK바이러스 등), 피부암과 이식후림프증식질환(post-transplant lymphoproliferative disorder, PTLD) 같은 악성종양 위험 증가를 함께 다룬다. 같은 배치에서 다른 에이전트가 맡은 췌장이식 그래프트 혈관 문항(qid 1521)은 이식 수술의 해부학적 측면을 다루므로 계열이 다르지만, 두 문항 모두 이식외과(TX) 분과에 속한다. 개념 카드 생성 단계에서 q1521 쪽에 이식 관련 카드(혈관 재건, 해부 등)가 새로 만들어지면 이 transplant-immunosuppression 카드의 related 필드에 그 슬러그를 추가해 상호 연결해야 한다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

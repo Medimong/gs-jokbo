@@ -86,13 +86,7 @@
   "4": "오답. Bismuth IIIb는 IIIa와 좌우가 반대로, 좌간관이 침범되고 우간관은 보존된 경우다. 그림은 반대로 우측이 침범되어 있다.",
   "5": "오답. Bismuth IV는 좌우 간관이 모두 침범되었거나 양측 이차 분지부까지 진행한, 또는 다발성으로 침범된 경우다. 그림에서 좌간관은 정상으로 남아 있어 해당하지 않는다."
  },
- "new_concepts": [
-  {
-   "slug": "bismuth-corlette-classification",
-   "title": "간문부담관암(Klatskin tumor)의 Bismuth-Corlette 분류와 절제 범위",
-   "why": "이 문항(qid2215)을 비롯해 간문부담관암 문항들이 그림만으로 Bismuth-Corlette 유형을 묻거나 그 유형에 따른 수술 범위를 묻는데, 현재 이 사이트에는 이 분류를 정리한 개념 카드가 없다. Type I(총간관에 국한, 합류부 미침범), Type II(합류부까지만 침범, 좌우 간관 미진행), Type IIIa(합류부와 우간관 침범, 좌간관 보존), Type IIIb(합류부와 좌간관 침범, 우간관 보존), Type IV(양측 간관 모두 침범 또는 양측 이차 분지부까지 진행, 또는 다발성 침범) 다섯 유형의 침범 범위를 표로 정리해야 한다. 같은 표 또는 이어지는 문단에 유형별 표준 절제 범위를 짝지어야 하는데, Type I과 II는 간외담관절제술과 간문부 담관공장문합술(hepaticojejunostomy)에 미상엽절제(caudate lobectomy)를 동반할지 여부, Type IIIa는 우간절제술(right hepatectomy)과 미상엽절제 동반, Type IIIb는 좌간절제술(left hepatectomy)과 미상엽절제 동반, Type IV는 과거 절제불가(unresectable)로 분류되었으나 최근에는 확대 간절제나 문맥 합병절제 등 공격적 절제를 시도하는 기관이 늘고 있다는 변화까지 함께 정리해야 한다. 아울러 Bismuth-Corlette 분류는 담관 내 침범 위치만 반영할 뿐 문맥이나 간동맥 같은 혈관 침범, 잔존 간엽의 용적, 원격전이 여부는 반영하지 않는다는 한계와, 그래서 실제 절제가능성 판정에는 이 분류에 더해 별도의 병기·혈관침범 평가가 함께 쓰인다는 점도 언급하면 좋다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

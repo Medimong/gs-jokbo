@@ -66,13 +66,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "gynecomastia-and-male-breast",
-   "title": "여성형 유방(gynecomastia)의 평가와 남성 유방암 감별",
-   "why": "생리적/약물성/병적 원인 분류, 병력의 약물 확인부터 시작하는 단계별 평가 알고리즘, 남성 유방암과의 감별점(편측성, 편심성 위치, 경도, 유두·피부 변화, 액와 림프절), 남성 유방암의 위험인자(BRCA2, 클라인펠터 증후군)와 치료(전유방절제술, 타목시펜 우선)를 이 문항과 이후 유사 문항에 공통으로 필요한 개념으로 정리."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

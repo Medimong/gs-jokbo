@@ -109,13 +109,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "imperforate-anus-workup",
-   "title": "쇄항(항문직장기형) 신생아 평가와 VACTERL 연관, 수술 시기 결정",
-   "why": "쇄항이 진단되면 VACTERL 연관(척추 vertebral, 항문직장 anorectal, 심장 cardiac, 기관식도 tracheoesophageal, 신장 renal, 사지 limb) 동반기형을 찾는 표준 알고리즘이 반복 출제된다. 카드에는 생후 20~24시간 이내 시행하는 항목별 검사(척추 단순촬영·척수초음파로 척추, 심초음파로 심장, 식도조영술 또는 비위관 삽입으로 기관식도, 신장초음파·요검사로 신장, 사지 단순촬영으로 사지)와 신생아기에 심초음파를 다른 검사보다 먼저 시행하는 이유(수술 마취 전 심기형 확인)를 정리한다. 이어서 회음부누공처럼 낮은 유형은 일차 항문성형술(anoplasty)로 바로 교정하고, 직장요도루·직장질루를 동반한 높은 유형이나 천골 이상·편평 둔부 같은 동반기형이 있으면 장루조성술(colostomy)을 먼저 시행한 뒤 후방시상항문직장성형술(PSARP)로 이행하는 수술 시기·방법 구분표를 함께 싣는다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

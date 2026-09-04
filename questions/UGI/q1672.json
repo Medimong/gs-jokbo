@@ -115,13 +115,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "bowel-obstruction-management",
-   "title": "장폐색의 보존적 치료와 수술 적응증",
-   "why": "장폐색 문항에서 반복되는 핵심 갈림길은 교액(strangulation) 여부에 따라 금식, 비위관 감압, 수액의 보존적 치료로 관찰할지 즉시 응급수술로 갈지를 정하는 것이다. 지속적인 심한 통증, 발열, 빈맥, 백혈구 증가, 대사성 산증, 복막자극징후, CT에서 장벽 조영증강 감소나 폐쇄고리(closed loop) 같은 교액 시사 소견이 하나라도 있으면 즉시 수술, 없으면 대개 48시간에서 72시간을 넘기지 않는 범위에서 관찰하며 수용성 조영제(gastrografin)를 진단 겸 치료 목적으로 쓴다는 프로토콜을 표로 정리해야 한다. 이와 함께 단순 유착성 장폐색과 감별해야 할 폐쇄성 대장암(obstructing colon cancer), 장중첩(intussusception), 탈장 감돈(incarcerated hernia), 가성 장폐색(Ogilvie 증후군, Ogilvie syndrome) 네 가지의 임상적 구분점도 비교표로 함께 실어야 한다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

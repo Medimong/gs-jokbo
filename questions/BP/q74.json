@@ -120,13 +120,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "acute-cholangitis-tokyo-guidelines",
-   "title": "급성 담관염 Tokyo Guidelines(TG18) 진단기준·중증도 분류·배액 치료",
-   "why": "발열, 황달로 내원한 환자에서 급성 담관염을 진단하고, 중증도(Grade I/II/III)에 따라 배액 시기(초기 치료 후 vs 즉시)와 배액 방법(ERCP, PTBD, 수술적 배액)을 선택하는 문항에 공통으로 필요한 개념."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

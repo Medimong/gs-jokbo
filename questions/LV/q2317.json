@@ -114,25 +114,16 @@
   "pearl": "HBV 보균자에서 우연히 발견된 간종양은 동맥기 조기 조영증강과 문맥기 씻김만으로 조직검사 없이 간세포암으로 진단하며, Child-Pugh A이고 문맥압항진증이 없으면 종양 크기와 무관하게 간절제술이 표준이다. 동반된 고도비만 소견에 낚여 비만대사수술을 고르지 않는다.",
   "concepts": [
    "hcc-treatment-algorithm",
-   "benign-liver-lesions"
+   "benign-liver-lesions",
+   "bariatric-surgery-indications",
+   "fatty-liver-disease"
   ],
   "compare_note": "만약 혈소판감소, 비장비대, 정맥류 등 문맥압항진증 소견이 동반되었거나 Child-Pugh B/C였다면 절제 대신 간이식으로 답이 바뀐다. 종양이 다발성이면서 Milan criteria를 벗어났다면 간동맥색전술(TACE)이 답이 된다."
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "concept_gap": "concepts/ 폴더에 비만대사수술(bariatric surgery) 적응증 카드와 대사이상 지방간질환(MASLD/NAFLD) 카드가 없다. 이번 문항은 hcc-treatment-algorithm 카드만으로 정답 판정이 충분해 새 카드 없이 처리했지만, 오답 ②소매위절제술을 상세히 설명하려면 비만대사수술 카드가 있는 편이 낫고, 비만 환자의 지방간 영상 소견을 정답 축으로 묻는 문항이 향후 나오면 지방간 카드가 필요하다.",
- "new_concepts": [
-  {
-   "slug": "bariatric-surgery-indications",
-   "title": "비만대사수술의 적응증과 술식 선택",
-   "why": "BMI 기준(동반질환 있으면 35 이상, 없어도 40 이상)과 위소매절제술·루앙와이위우회술 선택 기준을 다루는 카드가 없다. 이 문항의 오답 ②소매위절제술을 배제하는 근거로, 또 향후 비만대사수술 자체를 정답 축으로 묻는 문항에 쓸 수 있다."
-  },
-  {
-   "slug": "fatty-liver-disease",
-   "title": "대사이상 지방간질환(MASLD)의 진단과 경과",
-   "why": "고도비만·당뇨 환자의 초음파 소견(bright liver), 간효소 패턴(알코올성은 AST/ALT 2 이상, MASLD는 ALT 우세), 섬유화 평가(FIB-4, NFS, 일시탄성측정) 카드가 없다. 비만 환자에서 우연히 발견된 간 병변을 다루는 문항에 반복적으로 필요하다."
-  }
- ],
+ "concept_gap": null,
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

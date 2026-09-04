@@ -62,13 +62,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "vascular-access-resuscitation",
-   "title": "대량수혈과 소생을 위한 혈관 접근: 하겐 푸아죄유 법칙과 도관 선택",
-   "why": "굵기(Fr, G)와 길이가 다른 여러 도관 중 무엇이 대량수혈에 가장 효과적인지는 하겐 푸아죄유 법칙으로만 설명되고, 도관별 유량 비교표와 대량수혈프로토콜, 골내주사 위치를 다루는 카드가 없었기 때문."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

@@ -87,13 +87,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "thyroid-surgery-complications",
-   "title": "갑상선 수술 후 합병증: 저칼슘혈증과 경부 혈종",
-   "why": "갑상선 전절제술 후 나타나는 두 대표적 급성 합병증을 한 카드에 정리해야 한다. 하나는 부갑상선 손상으로 인한 저칼슘혈증(진단: Chvostek 징후, Trousseau 징후, 이온화칼슘, PTH 측정 / 중증도별 처치: 경증은 경구 칼슘+활성형 비타민D, 중증·강직경련은 정맥 내 칼슘글루코네이트)이고, 다른 하나는 수술 후 출혈로 인한 경부 혈종(기도폐색 위험, 발견 즉시 봉합 개방과 재수술 필요성)이다. 이 배치에서 qid1538(저칼슘혈증)과 qid44(경부 혈종)이 같은 카드를 참조하므로 slug를 thyroid-surgery-complications로 통일했다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }

@@ -65,18 +65,7 @@
  },
  "optnotes_mode": "none",
  "optnotes": {},
- "new_concepts": [
-  {
-   "slug": "acute-limb-ischemia-rutherford-classification",
-   "title": "급성 사지 허혈의 Rutherford 분류",
-   "why": "감각·운동 소실과 도플러 신호 유무로 병기(I/IIa/IIb/III)를 나누고, 그 병기에 따라 관찰/혈전용해술/수술적 재관류/일차절단이 결정되는 급성 사지 허혈 치료의 핵심 분류체계이기 때문."
-  },
-  {
-   "slug": "arterial-embolism-vs-thrombosis",
-   "title": "급성 동맥 폐색의 색전과 혈전 감별",
-   "why": "발병 양상(급성 vs 점진적), 파행력, 반대쪽 맥박, 혈관조영 소견(초승달 징후 vs 협착과 풍부한 곁순환)으로 원인을 색전과 혈전으로 감별해야 치료(색전제거술 vs 혈전용해술/우회술)가 달라지기 때문."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }
