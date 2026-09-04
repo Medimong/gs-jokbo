@@ -18,10 +18,19 @@ if (fs.existsSync(qdir)) for (const sec of fs.readdirSync(qdir)) {
     qs.push(q);
   }
 }
-// 비슷한 문항끼리 이웃하도록: 분과, 주제, 출제횟수 순
-qs.sort((a, b) => (SEC_ORDER.indexOf(a.section) - SEC_ORDER.indexOf(b.section))
-  || String(a.topic || '').localeCompare(String(b.topic || ''))
-  || (b.examCount || 1) - (a.examCount || 1) || a.id - b.id);
+// 이미 공부 중인 순서를 흔들지 않는다.
+// order.json에 기록된 문항은 그 순서를 그대로 지키고,
+// 새로 들어온 문항만 같은 분과의 맨 뒤에 붙인다.
+const orderPath = path.join(__dirname, 'order.json');
+const prev = fs.existsSync(orderPath) ? JSON.parse(fs.readFileSync(orderPath, 'utf8')) : [];
+const rank = new Map(prev.map((id, i) => [id, i]));
+const isNew = q => !rank.has(q.id);
+qs.sort((a, b) =>
+  (SEC_ORDER.indexOf(a.section) - SEC_ORDER.indexOf(b.section))
+  || (isNew(a) - isNew(b))                                   // 기존 문항이 먼저
+  || (!isNew(a) ? rank.get(a.id) - rank.get(b.id)            // 기존끼리는 예전 순서 유지
+      : String(a.topic || '').localeCompare(String(b.topic || ''))
+        || (b.examCount || 1) - (a.examCount || 1) || a.id - b.id));
 
 const cdir = path.join(ROOT, 'concepts');
 let concepts = {};
@@ -38,6 +47,10 @@ const bundle = { meta: { built: new Date().toISOString().slice(0, 10),
     count: qs.length, sections: SEC_ORDER.filter(s => qs.some(q => q.section === s)),
     sectionNames: SEC_NAME }, questions: qs, concepts };
 fs.writeFileSync(path.join(ROOT, 'data.js'), 'const DATA = ' + JSON.stringify(bundle) + ';');
+// 이번 순서를 다음 빌드의 기준으로 남긴다
+fs.writeFileSync(orderPath, JSON.stringify(qs.map(q => q.id)));
+const added = qs.filter(isNew).length;
+if (added) console.log(`새 문항 ${added}개를 각 분과 뒤에 붙였다`);
 const years = [...new Set(qs.flatMap(q => (q.appearances || []).map(a => String(a).slice(0, 4))))].sort();
 console.log(`문항 ${qs.length}, 개념 ${Object.keys(concepts).length}, 이미지 ${used.size}, 연도 ${years.join(' ')}`);
 console.log('분과별: ' + SEC_ORDER.map(s => s + ':' + qs.filter(q => q.section === s).length).filter(x => !x.endsWith(':0')).join('  '));

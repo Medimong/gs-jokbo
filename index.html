@@ -105,9 +105,11 @@ ol.opts.locked li{cursor:default}
 #lb.on{display:flex}
 #lb img{max-width:100%;max-height:100%}
 
-aside#cp{position:fixed;top:0;right:0;width:min(560px,100%);height:100%;background:#fff;
-  border-left:1px solid var(--line);transform:translateX(101%);transition:transform .22s ease;
+aside#cp{position:fixed;inset:0;width:100%;height:100%;background:#fff;
+  transform:translateX(101%);transition:transform .22s ease;
   z-index:50;overflow-y:auto;padding:26px 30px 70px}
+aside#cp>*{max-width:900px;margin-left:auto;margin-right:auto}
+aside#cp .close{max-width:none}
 aside#cp.on{transform:none}
 aside#cp h2{font-family:var(--serif);font-size:20px;color:var(--ink);margin:0 0 3px;font-weight:600}
 aside#cp .close{position:absolute;top:18px;right:24px;border:0;background:none;font-size:22px;
@@ -118,8 +120,9 @@ aside#cp .close{position:absolute;top:18px;right:24px;border:0;background:none;f
 .cbody p{margin:0 0 10px}
 .cbody ul,.cbody ol{margin:0 0 10px;padding-left:20px}
 .cbody li{margin-bottom:4px}
-.cbody table{border-collapse:collapse;width:100%;font-size:13px;margin:12px 0;display:block;overflow-x:auto;
-  -webkit-overflow-scrolling:touch}
+.cbody table{border-collapse:collapse;width:100%;font-size:13px;margin:12px 0}
+.tscroll{margin:12px 0;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.thint{display:none}
 .scrollhint{font-size:11.5px;color:var(--mute);margin:-6px 0 10px}
 .cbody th,.cbody td{border:1px solid var(--line);padding:6px 9px;text-align:left;vertical-align:top}
 .cbody th{background:var(--panel);color:var(--ink);font-weight:600;white-space:nowrap}
@@ -172,31 +175,30 @@ footer{border-top:1px solid var(--line);padding:20px 0;font-size:12px;color:var(
 
   .figs img{max-width:100%;max-height:none}
 
-  /* 표는 좌우 여백을 넘어 화면 폭을 꽉 채운다. 첫 열은 고정해 비교가 가능하게. */
-  table.lab, .cbody table{
-    display:block;width:calc(100% + 32px);margin-left:-16px;margin-right:-16px;
-    max-width:none;overflow-x:auto;-webkit-overflow-scrolling:touch;
-    border-left:0;border-right:0;font-size:12.5px}
-  table.lab tbody, .cbody tbody, table.lab thead, .cbody thead{display:table;width:100%;min-width:max-content}
-  table.lab th, table.lab td, .cbody th, .cbody td{padding:7px 9px;white-space:normal;min-width:88px}
-  .cbody th:first-child, .cbody td:first-child,
-  table.lab th:first-child{position:sticky;left:0;z-index:2;background:var(--panel);
-    box-shadow:1px 0 0 var(--line);min-width:96px}
-  .cbody thead th{position:sticky;top:0;z-index:3;background:#f0f1f3}
-  .cbody thead th:first-child{z-index:4}
+  /* 표는 감싸는 상자가 가로로 스크롤한다.
+     표 자체를 block으로 바꾸면 머리행과 본문의 열 너비가 어긋나므로 표 구조는 유지한다. */
+  .tscroll{width:calc(100% + 32px);margin:12px -16px;overflow-x:auto;
+    -webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
+  .tscroll table{display:table;width:auto;min-width:100%;max-width:none;margin:0;
+    font-size:13.5px;border-left:0;border-right:0}
+  .tscroll th, .tscroll td{padding:9px 11px;white-space:normal;min-width:160px;vertical-align:top}
+  .tscroll th:first-child, .tscroll td:first-child{position:sticky;left:0;z-index:2;
+    background:var(--panel);box-shadow:1px 0 0 var(--line);min-width:116px;padding-left:16px}
+  .tscroll thead th{background:#f0f1f3}
+  .tscroll thead th:first-child{z-index:3}
+  .tscroll td:last-child, .tscroll th:last-child{padding-right:16px}
+  .thint{display:block;font-size:11.5px;color:var(--accent);margin:-6px 0 12px}
 
   .expl{padding-left:12px;margin-top:14px}
   .optnote{font-size:15px}
   .cbtn{font-size:14.5px;padding:6px 0;margin-right:14px}
 
   /* 정리 카드는 아래에서 올라오는 시트로 연다. 엄지로 닫기 쉽게. */
-  aside#cp{width:100%;height:92vh;top:auto;bottom:0;border-left:0;border-top:1px solid var(--line);
-    border-radius:14px 14px 0 0;transform:translateY(101%);padding:26px 16px 90px;
-    box-shadow:0 -8px 40px rgba(20,22,26,.18)}
+  aside#cp{width:100%;height:100%;inset:0;border-left:0;border-radius:0;
+    transform:translateY(101%);padding:22px 16px 90px}
   aside#cp.on{transform:none}
-  aside#cp::before{content:'';position:absolute;top:8px;left:50%;transform:translateX(-50%);
-    width:38px;height:4px;border-radius:2px;background:var(--line)}
-  aside#cp .close{top:14px;right:16px;font-size:26px;padding:4px 10px}
+  aside#cp::before{content:none}
+  aside#cp .close{top:10px;right:12px;font-size:28px;padding:6px 12px}
   aside#cp h2{font-size:18px;padding-right:40px}
   .ccard h2{font-size:17px}
 }
@@ -374,13 +376,29 @@ function card(q, idx) {
   a.appendChild(ex);
   return a;
 }
+function wrapTables(root) {
+  if (!root) return;
+  root.querySelectorAll('table').forEach(t => {
+    if (t.parentElement && t.parentElement.classList.contains('tscroll')) return;
+    const box = el('div', 'tscroll');
+    t.parentNode.insertBefore(box, t);
+    box.appendChild(t);
+    // 화면 밖으로 넘치는 표에만 안내를 붙인다
+    requestAnimationFrame(() => {
+      if (box.scrollWidth - box.clientWidth > 8 && !box.nextElementSibling?.classList.contains('thint')) {
+        const h = el('div', 'thint', '표를 옆으로 밀어서 본다.');
+        box.parentNode.insertBefore(h, box.nextSibling);
+      }
+    });
+  });
+}
 function openConcept(slug) {
   const c = DATA.concepts[slug]; if (!c) return;
   const box = document.getElementById('cpin'); box.innerHTML = '';
   box.appendChild(el('h2', '', c.title || slug));
   if (c.summary) box.appendChild(el('p', 'subtle', c.summary));
   const b = el('div', 'cbody'); b.innerHTML = c.body || '';
-  box.appendChild(b);
+  box.appendChild(b); wrapTables(b);
   const qids = (c.questions || []);
   if (qids.length) {
     box.appendChild(el('h3', '', '이 개념을 쓰는 문항'));
@@ -417,7 +435,7 @@ function renderConcepts() {
     const det = el('details'); det.open = true;
     det.appendChild(el('summary', '', '본문 접기'));
     const body = el('div', 'cbody'); body.innerHTML = c.body || '';
-    det.appendChild(body); box.appendChild(det);
+    det.appendChild(body); box.appendChild(det); wrapTables(body);
     const qids = c.questions || [];
     if (qids.length) {
       const row = el('div'); row.style.marginTop = '10px';
@@ -436,6 +454,7 @@ function renderConcepts() {
     }
     L.appendChild(box);
   }
+  wrapTables(L);
   window.scrollTo(0, 0);
 }
 function render() {
@@ -450,6 +469,7 @@ function render() {
   const L = document.getElementById('list'); L.innerHTML = '';
   if (!qs.length) { L.appendChild(el('div', 'empty', '해당하는 문항이 없다.')); return; }
   qs.forEach((q, i) => L.appendChild(card(q, i)));
+  wrapTables(L);
   window.scrollTo(0, 0);
 }
 document.querySelectorAll('.modes button').forEach(b => b.onclick = () => {
