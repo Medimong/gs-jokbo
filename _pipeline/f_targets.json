@@ -4995,9 +4995,9 @@
   "hasAns": true,
   "nimg": 5,
   "stem": "유관내 유두종 (intraductal papilloma) 5) 유관확장증 (Duct ectasia) 21-4AB, 2AB) 2",
-  "dup_of": null,
-  "dup_sim": 0.35,
-  "done": false
+  "dup_of": 1202,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1209,
@@ -5010,9 +5010,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "응급 유방절제술을 시행한다. 유방암 22-3AB) 21-4CD) 20-4CD)여자 환자. 침윤성 유방암으로 유방 보존술을 시행",
-  "dup_of": null,
-  "dup_sim": 0.42,
-  "done": false
+  "dup_of": 1209,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1217,
@@ -5025,9 +5025,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "방사선치료 + 항암화학요법 해설: 약간의 변족. c-erbB2 (-) 이므로 trastuzumab 치료 필요하지 않고, ER+",
-  "dup_of": null,
-  "dup_sim": 0.26,
-  "done": false
+  "dup_of": 1217,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1220,
@@ -5040,9 +5040,9 @@
   "hasAns": true,
   "nimg": 4,
   "stem": "방사선치료+ 항암치료+표적치료(trastuzumab)+ 호르몬치료 21-1CD) 48세 여자가 2주 전부터 알게 된 오른쪽 유",
-  "dup_of": null,
-  "dup_sim": 0.29,
-  "done": false
+  "dup_of": 1220,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1876,
@@ -5055,9 +5055,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "55세 여자가 반 년 전부터 왼쪽 유방에서 덩이가 만져져서 내원했다. 유방이 아프지는 않았으며,",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 1876,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2410,
@@ -5070,9 +5070,9 @@
   "hasAns": false,
   "nimg": 0,
   "stem": "내시경  실시하여  anal  verge  6cm  sessile  polyp  발견하였고,  이에  대해서  내시경적",
-  "dup_of": 775,
-  "dup_sim": 0.64,
-  "done": false
+  "dup_of": 2410,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2427,
@@ -5085,9 +5085,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "(탈족) 45 세 남자가 1 일 전부터 계속 토하고 배가 아프다고 응급실에 왔다. 경련성 통증이 주",
-  "dup_of": null,
-  "dup_sim": 0.15,
-  "done": false
+  "dup_of": 2427,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2502,
@@ -5100,9 +5100,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "대장내시경에서 다음과 같은 종괴가 관찰되었고, 조직검사상 선암이었다. 항문을 통한 국소절제술을 시행하려고 할 때, 금기에 해당",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2502,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2504,
@@ -5115,9 +5115,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "72세 남자가 한달 전부터 시작된 간헐적 선홍색 혈변을 주소로 왔다. 한 달 전 복부대동맥류로 인공혈관 삽입술을 시행받았다. ",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2504,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2505,
@@ -5132,7 +5132,7 @@
   "stem": "88세 남자이며 변이 안나오고 배가 부풀어 올라 병원에 내원하였음. 이전부터 변비가 있었던 환자로 V/S는 정상 소견이였다. ",
   "dup_of": 1516,
   "dup_sim": 1.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2534,
@@ -5145,9 +5145,9 @@
   "hasAns": true,
   "nimg": 3,
   "stem": "45세 남자가 하루 전 갑자기 시작된 우하복부 복통을 주소로 내원하였다. 10년 전에 충수돌기절제술을 받았다. 우하복부에 국한",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2534,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2535,
@@ -5160,9 +5160,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "23세 남자가 항문 통증으로 내원하였다. 항문에서 분비물이 나오고 나면 통증이 호전된다. 다음은 병변에 probe를 넣은 항문",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2535,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2536,
