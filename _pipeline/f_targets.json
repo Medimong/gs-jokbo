@@ -3754,7 +3754,7 @@
   "stem": "좌측 허벅지, 종아리의 전반적인 통증을 주 호소로 내원하였다. 200m 걸으면 다리가 아프고 400m 걸으면 견디지 못하는 다",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2543,
@@ -3770,7 +3770,7 @@
   "stem": "50세 여자가 팔에 3도 화상을 입어 내원하였다. 화상을 입은 팔은 피부가 매우 딱딱하였 고 노동맥 소리가 들리지 않았다. 적",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1550,
@@ -3785,7 +3785,7 @@
   "stem": "(짤족) 68세 여자가 복통으로 응급실 내원. 1년 전 뱃속에 펑펑 뛰는 혹이 만져져 내원한 병력",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2449,
@@ -3801,7 +3801,7 @@
   "stem": "이전에 건강하던 40 세 여자가 1 일 전부터 좌측 하지의 심한 통증을 주소로 내원하였다. 신체 검진상  좌측  오금동맥  이",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2444,
@@ -3817,7 +3817,7 @@
   "stem": "복부대동맥류를 EVAR(endovascular aneurysm repair)로 치료한 뒤 속누출(endoleak)이 생길 수 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2511,
@@ -3832,7 +3832,7 @@
   "stem": "신 이식 시 요관-방관 문합에서 요관의 역류가 발생할 위험이 있다. 이때 요관의 역류를 방지하기 위해 같이 봉합해주는 다음 근",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2165,
@@ -3848,7 +3848,7 @@
   "stem": "(짤족) 68세 여자가 복통으로 응급실 내원. 1년 전 뱃속에 펑펑 뛰는 혹이 만져져 내원한 병력이 있고 복부 CT 사진이다.",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 17,
@@ -7111,7 +7111,7 @@
   "nimg": 3,
   "stem": "71 세 남자가 교통사고를 당하여 내원하였다. 복부를 크게 부딪혀 통증을 호소하고 있고 혈압 15. 복부대동맥류를 EVAR(e",
   "dup_of": null,
-  "dup_sim": 0.29,
+  "dup_sim": 0.55,
   "done": false
  },
  {
@@ -7846,7 +7846,7 @@
   "nimg": 1,
   "stem": "복부대동맥류를 EVAR(endovascular aneurysm repair)로 치료한 뒤 endoleak가 생길 수 있다. T",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.37,
   "done": false
  },
  {
@@ -8116,7 +8116,7 @@
   "nimg": 0,
   "stem": "superior mesenteric a. 20-2AB) 20-1CD) 복부대동맥류를 혈관내 치료(endovascular ane",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.11,
   "done": false
  },
  {
