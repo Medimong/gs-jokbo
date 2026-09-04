@@ -4103,7 +4103,7 @@
   "stem": "좌측 하지 ABI를 구하여라 Right brachial a. 140\t\tLeft brachial a. 130 Right dors",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 426,
@@ -4118,7 +4118,7 @@
   "stem": "남자 환자가 황달로 내원하였다. 다음은 MRCP 및 CT 소견이다. 이 환자의 진단으로 알맞은 것은? Total bilirub",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 182,
@@ -4133,7 +4133,7 @@
   "stem": "만삭 출생 생후 50일 환아이다. 2주 전부터 얼굴과 몸이 노래졌다. 아래 사진은 최근 변 사진과 초음파 소견이다. 진단은?",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1468,
@@ -4149,7 +4149,7 @@
   "stem": "chlorhexidine-alcohol",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1486,
@@ -4165,7 +4165,7 @@
   "stem": "73세 남자환자가 갑자기 생긴 혈변과 복통을 주소로 응급실에 내원하였다. 과거력으로 고혈압과 심부정맥이 있는 환자로 해당하는 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1768,
@@ -4181,7 +4181,7 @@
   "stem": "1년 전 32세 여자가 외부 병원의 건강검진에서 발견한 2.5cm 크기의 간종괴를 주소로 외과 외래로 방문하였다. CT를 촬영",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 368,
@@ -4197,7 +4197,7 @@
   "stem": "52세 남자가 2달 전부터 시작된 소화불량으로 방문하였다. 어릴 적에 B형 간염이 있다고 들었으나 병원에 다니지 않았다. 특별",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1769,
@@ -4213,7 +4213,7 @@
   "stem": "58세 남자가 1일 전부터 시작된 복통으로 왔다. 3개월 전부터 간경화로 간이식을 대기하고 있었다고 한다. 혈압 95/55, ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1024,
@@ -4229,7 +4229,7 @@
   "stem": "37세 남자가 신장이식 수술을 받았다. 재관류 직후 신장이 물렁해지며 검붉은 색으로 변했다. 이를 예방하기 위한 검사는?",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1571,
@@ -4244,7 +4244,7 @@
   "stem": "45세 남성이 다발성 장기손상으로 응급 개복술을 받았다. 장의 부종이 너무 심해 힘겹게 복벽을 봉합하였다. 수술 10시간 후 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1572,
@@ -4259,7 +4259,7 @@
   "stem": "2도이고, 복부는 팽만되어있고 우하복부에 성인 남성 주먹 크기의 덩어리가 만져졌으며 압 통과 반동압통 모두 있었다. 혈액검사 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 1612,
@@ -4274,7 +4274,7 @@
   "stem": "(변족, 발문 변형) 72 세 여자가 정기 건강검진에서 이상소견 보였다. 증상은 없었다. 혈액검사 및 복부 CT 검사 결과는 ",
   "dup_of": null,
   "dup_sim": 0.0,
-  "done": false
+  "done": true
  },
  {
   "qid": 2462,
@@ -4411,7 +4411,7 @@
   "nimg": 2,
   "stem": "72 세 여자가 상복부 불쾌감 및 소화불량이 있어 내원 하였다. 혈액검사 및 복부 CT 검사 결과는 아래와 같았다. 적절한 치",
   "dup_of": null,
-  "dup_sim": 0.27,
+  "dup_sim": 0.31,
   "done": false
  },
  {
@@ -4576,7 +4576,7 @@
   "nimg": 7,
   "stem": "내시경적 역행성 담췌관조영술 22-4AB) 남자 환자가 황달로 내원하였다. 다음은 MRCP 및 CT 소견이다. 이 환자의 진단",
   "dup_of": null,
-  "dup_sim": 0.14,
+  "dup_sim": 0.25,
   "done": false
  },
  {
@@ -5985,8 +5985,8 @@
   "hasAns": false,
   "nimg": 3,
   "stem": "1 년 전 32 세 여자가 외부 병원의 건강검진에서 발견한 2.5cm 크기의 간종괴를 주소로 외과 외래 로 방문하였다. CT ",
-  "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_of": 1768,
+  "dup_sim": 0.68,
   "done": false
  },
  {
@@ -6001,7 +6001,7 @@
   "nimg": 2,
   "stem": "58 세 여자가 7 일 전부터 열이 난다며 응급실에 왔다. 3 년 전 간외담관암으로 절제술을 받고 추 적관찰 중이라고 한다. ",
   "dup_of": null,
-  "dup_sim": 0.34,
+  "dup_sim": 0.35,
   "done": false
  },
  {
@@ -6181,7 +6181,7 @@
   "nimg": 8,
   "stem": "간절제 2) 간이식 3) TACE 4) 경과관찰 Hemangioma 22-3CD) 건강검진에서 시행한 CT 소견이 다음과 같았",
   "dup_of": null,
-  "dup_sim": 0.11,
+  "dup_sim": 0.18,
   "done": false
  },
  {
@@ -6211,7 +6211,7 @@
   "nimg": 0,
   "stem": "3) 4) 5) (미복원) 21-3CD) 52세 남자가 2달 전부터 시작된 소화불량으로 방문하였다. 어릴 적에 B형 간염이 있",
   "dup_of": null,
-  "dup_sim": 0.1,
+  "dup_sim": 0.3,
   "done": false
  },
  {
@@ -6256,7 +6256,7 @@
   "nimg": 0,
   "stem": "길버트 증후군 2) 총담관 결석 3) 급성 바이러스성 간염 4) 간경변 5) 팽대부주위암 21-4CD) 58세 남자가 1일 전",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.34,
   "done": false
  },
  {
@@ -6645,8 +6645,8 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "37세 남자가 신장이식 수술을 받았다. 재관류 직후 신장이 물렁해지며 검붉은 색으로 변했다. 이와 같은 일을 예방하기 위한 검",
-  "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_of": 1024,
+  "dup_sim": 0.78,
   "done": false
  },
  {
@@ -8176,7 +8176,7 @@
   "nimg": 0,
   "stem": "platelet aggregation time 신/췌이식 22-4AB) 37세 남자가 신장이식 수술을 받았다. 재관류 직후 신",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.59,
   "done": false
  },
  {

@@ -1,0 +1,78 @@
+{
+ "id": 2520,
+ "section": "BP",
+ "topic": "췌십이지장절제술 후 위배출지연(DGE)",
+ "stem": "72세 남자가 원위부담관암으로 유문보존췌십이지장절제술(pylorus-preserving pancreaticoduodenectomy, PPPD)을 받았다. 수술 이후 4일 째에 경구 식이 시작하였으며 수술 후 7일 차에 다량의 구토가 있었다. 단순복부촬영 사진이다. 진단은?",
+ "labTable": [],
+ "options": [
+  "담즙 역류 (Bile reflux)",
+  "덤핑 증후군 (Dumping syndrome)",
+  "위배출지연 (Delayed gastric emptying)",
+  "급성 위장관염 (Acute gastroenteritis)",
+  "췌장 누공 (Pancreatic fistula)"
+ ],
+ "answerKeys": [
+  3
+ ],
+ "multi": false,
+ "examCount": 1,
+ "appearances": [
+  "2025·2AB"
+ ],
+ "source_files": [
+  "2025/2025 2AB 외과 턴말 복원.docx"
+ ],
+ "images_final": [
+  "e43502d981a.jpg"
+ ],
+ "images_dropped": [],
+ "image_dependent": false,
+ "crop_needed": null,
+ "stem_rewritten": false,
+ "generated_options": [],
+ "answer_changed": null,
+ "answer_conflict": null,
+ "source_notes": "출제 1회 단독 복원 문항(2025년 2AB). 원본 docx(2025 2AB 외과 턴말 복원.docx) 34~44번째 문단을 직접 열어 발문, 선지 5개, 정답(3번)이 추출본과 완전히 일치함을 확인했다. 이 문항 주변에 별도 검사 수치 표는 없다. 첨부 이미지(e43502d981a.jpg)를 직접 열어보니 상복부, 특히 좌상복부에 큰 공기 음영을 동반한 위 확장 소견이 뚜렷한 단순복부촬영으로, 캡션이나 정답 노출 없이 실제 시험 이미지로 보인다. 같은 술식(PPPD) 후 합병증을 다루는 총론 q2655(가성동맥류 발견 후 대량수혈용 카테터 선택)와 선지 집합을 대조한 결과, q2655는 카테터 유량 계산 문항으로 진단명 선지가 전혀 겹치지 않아 중복이 아니라 별개 문항으로 확정했다.",
+ "verify": "verified",
+ "explanation": {
+  "qtype": "differential",
+  "approach": "발문의 축은 PPPD 후 정해진 시점(경구 식이 재개 후 발생한 다량의 구토)과 영상 소견이다.",
+  "approachTable": [
+   [
+    "수술 후 4일째 경구 식이 시작, 7일째 다량의 구토",
+    "식이 재개 이후 위 내용물이 배출되지 못하고 정체됨을 시사"
+   ],
+   [
+    "단순복부촬영에서 큰 공기 음영을 동반한 위 확장",
+    "국소 장폐색이 아니라 위 자체의 배출 장애를 시사하는 영상 소견"
+   ],
+   [
+    "유문보존췌십이지장절제술(PPPD)로 유문(pylorus)을 보존",
+    "유문 소실이 원인인 덤핑증후군의 기전이 성립하지 않음"
+   ]
+  ],
+  "correct": "위배출지연(delayed gastric emptying, DGE)은 유문보존췌십이지장절제술을 포함한 췌십이지장절제술의 가장 흔한 합병증으로, 문합부 부종이나 국소 염증으로 위 배출이 지연되어 식이 재개 이후 다량의 구토가 나타나고 단순복부촬영에서 크게 확장된 위 음영이 확인된다. 치료는 비위관 재삽입을 통한 감압과 영양 지지, 프로키네틱제(prokinetics) 투여다. 이 환자는 PPPD 후 식이를 시작한 지 3일 만에 다량의 구토와 위 확장 소견이 나타나 DGE에 합당하다.",
+  "pearl": "PPPD 후 경구 식이 재개 시점에 맞춰 다량의 구토와 위 확장이 나타나면 가장 먼저 위배출지연을 의심해라. 담즙역류나 췌장루처럼 다른 문합부 문제라면 구토보다 배액 성상 변화나 발열이 먼저 드러난다.",
+  "concepts": [
+   "periampullary-cancer-workup"
+  ],
+  "compare_note": "만약 배액관에서 아밀라아제가 상승한 배액이 확인되었다면 췌장루(POPF)에 의한 이차성 위 배출 장애를 우선 의심하고, 수술 후 24시간 이내에 다량의 혈성 배액이 있었다면 조기 수술 후 출혈을 먼저 감별해야 한다."
+ },
+ "optnotes_mode": "brief",
+ "optnotes": {
+  "1": "담즙 역류(Bile reflux): 오답. 담관공장문합부에서 위로 담즙이 역류하면 지속적인 명치 통증과 담즙성 구토가 나타나지만, 단순복부촬영에서 위 자체가 크게 확장되는 소견을 만들지는 않는다.",
+  "2": "덤핑 증후군(Dumping syndrome): 오답. 유문 소실로 위 내용물이 소장으로 급속히 배출될 때 식후 조기에 오심, 복통, 어지러움, 설사가 나타나는 합병증이다. 이 환자는 유문을 보존하는 PPPD를 받아 이 기전이 성립하지 않는다.",
+  "3": "위배출지연(Delayed gastric emptying): 정답. PPPD의 가장 흔한 합병증으로, 식이 재개 후 위 배출이 되지 않아 다량의 구토와 단순복부촬영상 위 확장이 나타난다.",
+  "4": "급성 위장관염(Acute gastroenteritis): 오답. 발열, 설사 등 감염성 소견이 동반되어야 하는데 발문에 언급이 없고, 수술 후 특유의 위 확장 소견과는 관련이 없다.",
+  "5": "췌장 누공(Pancreatic fistula): 오답. 배액관 아밀라아제 상승이나 복강내 염증 소견으로 진단하며, 단순히 경구 식이 재개 후 다량의 구토와 위 확장을 일으키는 병태는 아니다."
+ },
+ "new_concepts": [
+  {
+   "slug": "whipple-postop-complications",
+   "title": "췌십이지장절제술(Whipple/PPPD) 후 합병증의 시기별, 소견별 감별",
+   "why": "담즙역류, 덤핑증후군, 위배출지연(DGE), 췌장루(POPF, ISGPS 등급), 수술 후 출혈(조기/지연, sentinel bleed)을 발생 시점과 임상 소견으로 감별하는 표가 필요하다. 현재 periampullary-cancer-workup 카드는 POPF와 DGE를 한 문단으로만 짧게 다루고 있어, 다섯 가지 합병증을 나란히 비교하는 감별표가 없다."
+  }
+ ],
+ "source_version": 1,
+ "content_version": 1
+}
