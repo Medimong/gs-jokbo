@@ -5355,9 +5355,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "국소진행성 직장암에서 total neoadjuvant therapy가 기존의 선행 항암방사선치료 후 수술 및 수술 후 보조항암",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2732,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2733,
@@ -5370,9 +5370,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "Goodsall rule을 따를 때, 치루의 외공이 항문연으로부터 3cm 떨어져 있고 항문의 앞 쪽에 존재하는 이 내공의 가장",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2733,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 2734,
@@ -5385,9 +5385,9 @@
   "hasAns": true,
   "nimg": 1,
   "stem": "65세 남자가 오른쪽 서혜부 탈장으로 다음과 같은 수술을 받았다. 수술의 이름은?",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 2734,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1270,
@@ -5400,9 +5400,9 @@
   "hasAns": true,
   "nimg": 5,
   "stem": "분변 매복 (fecal impaction) 19-4CD) 37세 여자환자가 변비와 좌상복부 불편감을 주소로 내원하였다. 13년",
-  "dup_of": null,
-  "dup_sim": 0.13,
-  "done": false
+  "dup_of": 1270,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1274,
@@ -5415,9 +5415,9 @@
   "hasAns": true,
   "nimg": 9,
   "stem": "Gardener's syndrome 20-1CD) 20대 남자. 아버지 39세?의 나이에 대장암 병력 있음. 대장내시경 상 전",
-  "dup_of": null,
-  "dup_sim": 0.18,
-  "done": false
+  "dup_of": 1274,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1278,
@@ -5430,9 +5430,9 @@
   "hasAns": false,
   "nimg": 2,
   "stem": "Sacral plexus 22-4AB) 21-2CD, 3CD) 20-4CD) 직장암으로 LAR 수술을 받던 중 (가), (나)",
-  "dup_of": null,
-  "dup_sim": 0.17,
-  "done": false
+  "dup_of": 1278,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1279,
@@ -5445,9 +5445,9 @@
   "hasAns": true,
   "nimg": 0,
   "stem": "경피적 배농 / 피부 배액관 설치 20-3AB) (사진) pelvic cavity CT coronal view 충수쪽에 fec",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 1279,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1280,
@@ -5460,9 +5460,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "광범위 항생제 및 보존적 치료 19-2CD) 20대 남자가 8 시간전 발생한 우하복부 통증을 주소로 응급실에 내원하였다. 환자",
-  "dup_of": null,
-  "dup_sim": 0.29,
-  "done": false
+  "dup_of": 1280,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1281,
@@ -5475,9 +5475,9 @@
   "hasAns": false,
   "nimg": 3,
   "stem": "항생제 투여 포함 보존치료 19-2AB) 3시간 전 복통으로 내원한 환자. 6개월전 충수 절제술 받음. X-ray, CT 소견",
-  "dup_of": null,
-  "dup_sim": 0.34,
-  "done": false
+  "dup_of": 1281,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1283,
@@ -5490,9 +5490,9 @@
   "hasAns": true,
   "nimg": 3,
   "stem": "범발성 대장 운동성 장애 19-3AB) 80세 할머니가 변을 못보고 가스도 나오지 않았다 CT 소견 주어짐 (인터넷) 21-1",
-  "dup_of": null,
-  "dup_sim": 0.31,
-  "done": false
+  "dup_of": 1283,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1284,
@@ -5505,9 +5505,9 @@
   "hasAns": false,
   "nimg": 3,
   "stem": "colo-vesical fistula 21-2AB, 3CD) 20-4AB) 19-4CD) 복부대동맥류로 graft 수술을 받은",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 1284,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1286,
@@ -5520,9 +5520,9 @@
   "hasAns": true,
   "nimg": 2,
   "stem": "절개 배농 (Incision & Drainage) 19-3CD) 항문에 압통, 열감이 느껴져서 내원한 환자. 다음과 같 은 사",
-  "dup_of": null,
-  "dup_sim": 0.0,
-  "done": false
+  "dup_of": 1286,
+  "dup_sim": 1.0,
+  "done": true
  },
  {
   "qid": 1289,
@@ -6661,7 +6661,7 @@
   "nimg": 1,
   "stem": "43세 남성이 응급실로 내원하였다. 7일 전부터 상복부 통증이 발생하여 소화제와 진통제를 복용하였다. 상복부 불편감은 호전되었",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.34,
   "done": false
  },
  {
@@ -9166,7 +9166,7 @@
   "nimg": 1,
   "stem": "대장암의 선종-암종 진행과정 (adenoma-carcinoma sequence)를 설명하는 그림이다. B 단계에 관여하며 돌연",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.1,
   "done": false
  },
  {
@@ -9181,7 +9181,7 @@
   "nimg": 1,
   "stem": "50세 남자가 복통과 장폐색 증상으로 수술하였고 수술 소견에서 아래와 같이 에스결장 전층에 종양 침윤과 주위 회장부위에 유착되",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.27,
   "done": false
  },
  {
@@ -9196,7 +9196,7 @@
   "nimg": 0,
   "stem": "대장내시경에서 이상 소견 있음. 다음으로 할 검사는?",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.03,
   "done": false
  },
  {
@@ -9226,7 +9226,7 @@
   "nimg": 0,
   "stem": "대장내시경에서 항문연 5cm 상방에 1cm짜리 융기된 종양이 보였다. 조직검사 상 선암으로 나왔다. Submucosa까지 침범",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.15,
   "done": false
  },
  {
@@ -9316,7 +9316,7 @@
   "nimg": 1,
   "stem": "항문에 압통, 열감이 느껴져서 내원한 환자. 다음과 같은 사진. 치료는?",
   "dup_of": null,
-  "dup_sim": 0.0,
+  "dup_sim": 0.21,
   "done": false
  },
  {

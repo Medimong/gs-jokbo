@@ -1,0 +1,11 @@
+{
+ "id": 1770,
+ "section": "ENDO",
+ "excluded": true,
+ "duplicate_of": 1417,
+ "exclude_reason": "완료 문항 q1417의 짤족 복원본이다. `2023/2023 2CD 외과 턴말 복원.docx`의 228번째 문단(python-docx의 document.paragraphs 인덱스)에 25번 문항으로 실려 있고, 원본에는 선지 5개(부갑상선호르몬 투약/칼슘과 활성 비타민 투여/Bisphosphonate 투약/Furosemide 투약/Cinecalcet 투약)와 정답(답: 2)이 모두 적혀 있으나 추출기가 선지를 1개만 잡아 작업 대상에서 떨어져 나갔다. 발문과 선지가 q1417 및 q2526과 같으므로 별개 문항이 아니다.\n처리하지 않으면 2023·2CD 회차가 통째로 사라진다. q1417의 기존 appearances에는 2023·1AB만 있고 2023·2CD가 없다.",
+ "appearances_to_merge": [
+  "2023·2CD"
+ ],
+ "appearances_to_merge_applied": true
+}
