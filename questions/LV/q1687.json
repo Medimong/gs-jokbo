@@ -80,7 +80,8 @@
   "pearl": "AST/ALT가 수백에서 천 단위로 치솟고 ALP/GGT는 경도 상승에 그치면 간세포성 패턴이다. 담관염처럼 ALP/GGT와 직접빌리루빈이 우세한 담즙정체성 패턴과 거꾸로 짝지어 기억하면 헷갈리지 않는다. 빌리루빈 분획(포합/비포합)만 단독으로 보고 판단하지 말고 반드시 AST/ALT 절대치와 함께 봐야 한다.",
   "concepts": [
    "acute-cholangitis-tokyo-guidelines",
-   "acute-liver-failure"
+   "acute-liver-failure",
+   "jaundice-lft-differential"
   ],
   "compare_note": "발문이 '진단'이 아니라 '확진 검사'를 물었다면 답은 IgM anti-HAV 항체 검사가 된다. flapping tremor 대신 우상복부 통증, 고열, Charcot 3징이 제시되고 ALP/GGT와 직접빌리루빈이 두드러지게 상승했다면 답은 급성 담관염으로 바뀐다."
  },
@@ -92,13 +93,7 @@
   "4": "급성 담관염(acute cholangitis)은 담도 폐쇄로 ALP, GGT, 직접빌리루빈이 두드러지게 오르는 담즙정체성 패턴을 보이며 발열, 오한 같은 감염 징후를 동반하는 경우가 많다. 이 환자는 ALP, GGT가 경도 상승에 그쳐 패턴이 반대다.",
   "5": "급성 췌장염(acute pancreatitis)은 상복부 통증과 아밀라제, 리파제 상승이 핵심 소견이며, 이 정도의 간세포 효소 상승이나 flapping tremor를 일으키지 않는다."
  },
- "new_concepts": [
-  {
-   "slug": "jaundice-lft-differential",
-   "title": "황달의 초기 감별: 간효소·빌리루빈 분획 패턴으로 나누기",
-   "why": "이 문항(qid 1687)은 황달 환자에서 AST/ALT 1100/850이라는 뚜렷한 간세포성 패턴과, ALP/GGT 경도 상승, 비포합(indirect) 우세 고빌리루빈혈증이라는 다소 이례적인 조합으로 급성 간염, 용혈성 빈혈, 길버트 증후군, 급성 담관염, 급성 췌장염을 감별하게 한다. concepts/에는 급성 담관염 자체의 진단기준(acute-cholangitis-tokyo-guidelines)과 간경변의 합병증(cirrhosis-complications)은 있지만, 황달을 처음 마주쳤을 때 간세포성(hepatocellular), 담즙정체성(cholestatic), 전간성/포합장애성(unconjugated) 세 갈래로 첫 분기를 나누는 총론 카드가 없어 매번 문항마다 패턴 감별을 처음부터 설명해야 한다. 새 카드에 담을 내용은 다음과 같다. (1) 총빌리루빈을 직접(포합)/간접(비포합) 분획으로 나누어, 비포합 우세는 용혈(적혈구 파괴 증가)이나 포합장애(길버트 증후군, Crigler-Najjar 증후군)로, 포합 우세는 간세포 손상 또는 담도 폐쇄로 좁혀가는 1차 분기 원칙을 표로 정리한다. (2) 간세포성 대 담즙정체성 감별에 쓰는 R 비율(R = [ALT/ALT 정상상한] 나누기 [ALP/ALP 정상상한])을 제시하고 R>5는 간세포성(급성 바이러스성 간염, 허혈성 간염, 약물유발 간손상), R<2는 담즙정체성(담관 폐쇄, 담관염, 약물유발 담즙정체), 2~5는 혼합형이라는 기준표를 넣는다. (3) 급성 바이러스성 간염(A/B/C/E형)의 감염경로, 잠복기, 임상경과 비교표를 넣는다. 특히 A형간염은 분변경구 경로로 오염된 어패류나 회를 통해 전파되며 잠복기가 2~4주로, 해외여행력이 없어도 국내에서 감염될 수 있다는 점을 명시한다. 대부분 자연 회복하나 드물게 전격성 간부전으로 진행할 수 있어 flapping tremor 같은 간성뇌증 징후가 나타나면 중증도를 재평가해야 한다는 경고도 넣는다. (4) 용혈성 빈혈과 길버트 증후군은 모두 간효소(AST/ALT)가 정상이면서 비포합 고빌리루빈혈증만 단독으로 보인다는 공통점과, 망상적혈구 수, 합토글로빈, 말초혈액도말(용혈)로 감별한다는 표를 넣는다. (5) 담즙정체성 황달의 원인별 감별표(급성 담관염, 급성 담낭염, 총담관결석, 췌장두부암)에서 각 질환의 특징적 동반 소견(발열/Charcot 3징, 우상복부 초음파 소견, 무통성 황달)을 정리하고 acute-cholangitis-tokyo-guidelines 카드와 상호 링크한다. 이 카드는 section을 LV로 하고 related에 cirrhosis-complications, acute-cholangitis-tokyo-guidelines를 건다."
-  }
- ],
+ "new_concepts": [],
  "source_version": 1,
  "content_version": 1
 }
